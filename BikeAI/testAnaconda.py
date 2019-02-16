@@ -1,8 +1,6 @@
 from pandas import *
 from datetime import datetime
-from progressbar import ProgressBar
 
-pbar = ProgressBar()
 
 df = read_csv('bikeShareData.csv')
 dic = { 'StartDate': [], 'EndDate': [], 'StartStation': []}
@@ -25,7 +23,7 @@ newdf = DataFrame(data=dic)
 grouped = newdf.groupby(['StartDate', 'StartStation'])
 parsedDic = {'StartStation': [], 'DayOfWeek': [], 'Time': [], 'Month': [], 'Demand': []}
 
-for name, group in pbar(grouped):
+for name, group in grouped:
     datetimeValue = datetime.strptime(name[0], '%Y-%m-%d %H:%M')
     parsedDic.get('StartStation').append(name[1])
     parsedDic.get('DayOfWeek').append(datetimeValue.weekday())
