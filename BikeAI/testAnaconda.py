@@ -1,9 +1,12 @@
 from pandas import *
 from datetime import datetime
+from progressbar import ProgressBar
 
+pbar = ProgressBar()
 
 df = read_csv('bikeShareData.csv')
 dic = { 'StartDate': [], 'EndDate': [], 'StartStation': []}
+print(len(df))
 
 
 def converter(x: datetime):
@@ -22,15 +25,17 @@ for i, row in enumerate(df.values):
 newdf = DataFrame(data=dic)
 grouped = newdf.groupby(['StartDate', 'StartStation'])
 parsedDic = {'StartStation': [], 'DayOfWeek': [], 'Time': [], 'Month': [], 'Demand': []}
+print(len(grouped))
 
-for name, group in grouped:
+for name, group in pbar(grouped):
     datetimeValue = datetime.strptime(name[0], '%Y-%m-%d %H:%M')
     parsedDic.get('StartStation').append(name[1])
     parsedDic.get('DayOfWeek').append(datetimeValue.weekday())
     parsedDic.get('Time').append(converter(datetimeValue))
     parsedDic.get('Month').append(datetimeValue.month)
     parsedDic.get('Demand').append(len(group))
-    newdf = DataFrame(data=parsedDic)
+
+newdf = DataFrame(data=parsedDic)
 
 newdf.to_csv('out.csv')
 
