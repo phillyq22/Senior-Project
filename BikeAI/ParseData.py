@@ -4,7 +4,7 @@ from progressbar import ProgressBar
 
 pbar = ProgressBar()
 
-df = read_csv('bikeShareData.csv')
+df = read_csv('2012Q4-capitalbikeshare-tripdata.csv')
 dic = { 'StartDate': [], 'EndDate': [], 'StartStation': []}
 print('Size of input', len(df))
 
