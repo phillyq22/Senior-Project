@@ -30,8 +30,8 @@ percWrong = (amtWrong / len(y_predict)) *100
 testPredDic = {'test': y_test.values, 'predict': y_predict, 'difference': y_diff.values, 'amountWrong': amtWrong,
                'percentWrong': percWrong}
 
-path = '/home/andrewblanco/Documents/DADBOD/Senior-Project/BikeAI/LinearRegressionOuts'
+path = '/home/ec2-user/DADBOD/Senior-Project/BikeAI/LinearRegressionOuts'
 
 df = pd.DataFrame(data=testPredDic)
-df.to_csv(os.path.join(path, '2012_Q1_LinearRegressionOut.csv'))
+df.to_csv(os.path.join(path, '2012_Q1_LinearRegressionOutEC2.csv'))
 
