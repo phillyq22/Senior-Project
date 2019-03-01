@@ -29,7 +29,7 @@ for dataString in os.listdir('unparsedData'):
 
 stationSet = set(dic.get('StartStation'))
 
-startDay = datetime(2010, 9, 1)
+startDay = datetime(2017, 1, 1)
 endYear = datetime(2019, 1, 1)
 
 for stationNum in stationSet:
