@@ -22,7 +22,7 @@ for dataString in os.listdir('unparsedData'):
         for i, row in enumerate(df.values):
             date = df.index[i]
             duration, startDate, endDate, startStationNumber, startStationLoc, endSationNumber, endStationLoc, bikeNumber, memberType = row
-            dic.get('StartDate').append(str(startDate[:-6]))
+            dic.get('StartDate').append(str(startDate)[:-6])
             dic.get('EndDate').append(str(endDate))
             dic.get('StartStation').append(startStationNumber)
 
