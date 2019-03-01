@@ -7,9 +7,9 @@ import os
 
 pbar = ProgressBar()
 
-data = pd.read_csv('./parsedData/Parsed2012Q1.csv')
-X = data.iloc[:, :-1]
-Y = data.iloc[:, -1]
+data = pd.read_csv('./parsedData/Parsed2018.csv')
+X = data.iloc[:, [0, 1, 3, 4, 5]]
+Y = data.iloc[:, 2]
 
 x_train, x_test, y_train, y_test = tts(X, Y, test_size=0.2)
 
@@ -33,5 +33,5 @@ testPredDic = {'test': y_test.values, 'predict': y_predict, 'difference': y_diff
 path = '/home/ec2-user/DADBOD/Senior-Project/BikeAI/LinearRegressionOuts'
 
 df = pd.DataFrame(data=testPredDic)
-df.to_csv(os.path.join(path, '2012_Q1_LinearRegressionOutEC2.csv'))
+df.to_csv(os.path.join(path, '2018_LinearRegressionOutEC2.csv'))
 
