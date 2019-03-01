@@ -22,8 +22,8 @@ for dataString in os.listdir('unparsedData'):
         for i, row in enumerate(df.values):
             date = df.index[i]
             duration, startDate, endDate, startStationNumber, startStationLoc, endSationNumber, endStationLoc, bikeNumber, memberType = row
-            dic.get('StartDate').append(startDate[:-6])
-            dic.get('EndDate').append(endDate)
+            dic.get('StartDate').append(str(startDate[:-6]))
+            dic.get('EndDate').append(str(endDate))
             dic.get('StartStation').append(startStationNumber)
 
 
@@ -41,7 +41,7 @@ for stationNum in stationSet:
 newdf = DataFrame(data=dic)
 print('Size of input: ', len(newdf))
 grouped = newdf.groupby(['StartDate', 'StartStation'])
-parsedDic = {'StartStation': [], 'DayOfWeek': [], 'Time:': [], 'Month': [], 'Demand': []}
+parsedDic = {'StartStation': [], 'DayOfWeek': [], 'Time': [], 'Month': [], 'Demand': []}
 print('Size after parse', len(grouped))
 
 for name, group in grouped:
