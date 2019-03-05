@@ -35,3 +35,18 @@ path = '/home/andrewblanco/Documents/DADBOD/Senior-Project/BikeAI/LinearRegressi
 df = pd.DataFrame(data=testPredDic)
 df.to_csv(os.path.join(path, '2018_LinearRegressionOutEC2.csv'))
 
+eCoeff = reg.intercept_
+weights = reg.coef_
+weightsDic = {'Estimated Coefficient': eCoeff, 'Weights': weights}
+
+cf = pd.DataFrame(data=weightsDic)
+cf.to_csv(os.path.join(path, 'Weights.csv'))
+
+print('Estimated intercept coefficient:', reg.intercept_)
+print('Number of coefficients:', reg.coef_)
+
+#cf = pd.DataFrame(zip(X.columns, reg.coef_), columns=['features', 'estimatedCoefficients'])
+#cf.to_csv(os.path.join(path, "model.csv"))
+
+
+
