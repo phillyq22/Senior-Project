@@ -12,3 +12,8 @@
 2/25/19 - Added multiple data parsing. (Matt)
 2/29/19 - Added Weather Scraper. (Matt)
 3/5/19 - Load linear regression function. (Matt)
+2/18/19 - Utilized capital bikeshare API(Austin)
+2/21/19 - Research on capital bikeshare api data(3 different json file data formats), found github capitalbikeshare db sample(Austin)
+2/25/19 - Begun work on bike suggestion algorithm (Austin)
+3/2/19 - Completed initial basic distance-based algorithm(Austin)
+3/2/19-3/12/19 - Completed prototype of bikeshare algorithm including necessity variable (Austin)
