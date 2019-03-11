@@ -39,13 +39,15 @@ df.to_csv(os.path.join(path, '2018_LinearRegressionOutEC2.csv'))
 
 eCoeff = reg.intercept_
 weights = reg.coef_
-weightsDic = {'Estimated Coefficient': eCoeff, 'Weights': weights}
+score = reg.score(X=x_test, y=y_test)
+weightsDic = {'Estimated Coefficient': eCoeff, 'Weights': weights, 'Score': score}
 
 cf = pd.DataFrame(data=weightsDic)
 cf.to_csv(os.path.join(path, 'Weights.csv'))
 
-print('Estimated intercept coefficient:', reg.intercept_)
-print('Number of coefficients:', reg.coef_)
+print('Estimated intercept coefficient:', eCoeff)
+print('Number of coefficients:', weights)
+print('R^2:', score)
 
 with open('file', 'wb') as pickle_file:
     pickle.dump(reg, pickle_file)
