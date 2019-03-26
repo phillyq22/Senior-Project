@@ -1,7 +1,4 @@
 import requests
-import os
-import logging
-import json
 from datetime import datetime
 import sqlite3 as lite
 
@@ -60,7 +57,7 @@ def populate_station_status(data):
                          row['is_installed'], row['is_renting'], row['is_returning'], ts))
         except lite.OperationalError as err:
             print("insert error: %s", err)
-        if ((i % 100) == 0):
+        if i % 100 == 0:
             print("inserted row ", str(i))
             con.commit()
 
@@ -75,30 +72,32 @@ def populate_stations(data):
                          row['name'], row['short_name']))
         except lite.OperationalError as err:
             print("insert error: %s", err)
-        if ((i % 100) == 0):
+        if i % 100 == 0:
             print("inserted row ", str(i))
             con.commit()
 
 '''
 create_station_status()
-populate_station_status(get_station_status_from_api())
 cur.execute("select * from station_status")
 rows = cur.fetchall()
 for row in rows:
     print(row)
 '''
+populate_station_status(get_station_status_from_api())
 
 '''
 create_stations()
-populate_stations(get_stations_from_api())
 cur.execute("select * from stations")
 rows = cur.fetchall()
 for row in rows:
     print(row)
 '''
+populate_stations(get_stations_from_api())
 
+'''
 #Write your sql query here. stations and station_status are the two tables
 cur.execute("select * from stations")
 rows = cur.fetchall()
 for row in rows:
     print(row)
+'''
