@@ -4,8 +4,6 @@ import sqlite3 as lite
 
 con = lite.connect('bikeAPI.db')
 cur = con.cursor()
-cur.execute('select SQLITE_VERSION()')
-print(cur.fetchone())
 
 
 def create_station_status():
@@ -60,6 +58,7 @@ def populate_station_status(data):
         if i % 100 == 0:
             print("inserted row ", str(i))
             con.commit()
+    return i
 
 
 def populate_stations(data):
@@ -75,6 +74,8 @@ def populate_stations(data):
         if i % 100 == 0:
             print("inserted row ", str(i))
             con.commit()
+    return i
+
 
 '''
 create_station_status()
@@ -83,16 +84,19 @@ rows = cur.fetchall()
 for row in rows:
     print(row)
 '''
-populate_station_status(get_station_status_from_api())
+
+numRows = populate_station_status(get_station_status_from_api())
+with open('dataRecord.txt', 'a') as file:
+    file.write(str(numRows) + '\n')
 
 '''
 create_stations()
+populate_stations(get_stations_from_api())
 cur.execute("select * from stations")
 rows = cur.fetchall()
 for row in rows:
     print(row)
 '''
-populate_stations(get_stations_from_api())
 
 '''
 #Write your sql query here. stations and station_status are the two tables
