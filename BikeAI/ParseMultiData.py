@@ -41,11 +41,12 @@ for stationNum in stationSet:
 newdf = DataFrame(data=dic)
 print('Size of input: ', len(newdf))
 grouped = newdf.groupby(['StartDate', 'StartStation'])
-parsedDic = {'StartStation': [], 'DayOfWeek': [], 'Time': [], 'Month': [], 'Demand': []}
+parsedDic = {'StartDate': [], 'StartStation': [], 'DayOfWeek': [], 'Time': [], 'Month': [], 'Demand': []}
 print('Size after parse', len(grouped))
 
 for name, group in grouped:
     datetimeValue = datetime.strptime(name[0], '%Y-%m-%d %H')
+    parsedDic.get('StartDate').append(name[0])
     parsedDic.get('StartStation').append(name[1])
     parsedDic.get('DayOfWeek').append(datetimeValue.weekday())
     parsedDic.get('Time').append(converter(datetimeValue))
