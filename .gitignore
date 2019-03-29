@@ -7,4 +7,5 @@ BikeAI/unparsedData/2016Q1-capitalbikeshare-tripdata.csv
 BikeAI/unparsedData/2016Q2-capitalbikeshare-tripdata.csv
 BikeAI/unparsedData/2016Q3-capitalbikeshare-tripdata.csv
 BikeAI/unparsedData/2016Q4-capitalbikeshare-tripdata.csv
+ignored/
 *.csv
