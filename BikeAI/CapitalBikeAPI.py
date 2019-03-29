@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 import sqlite3 as lite
-
+import datetime as dt
 con = lite.connect('bikeAPI.db')
 cur = con.cursor()
 
@@ -87,8 +87,9 @@ for row in rows:
 
 
 numRows = populate_station_status(get_station_status_from_api())
+currTime = dt.datetime.now()
 with open('dataRecord.txt', 'a') as file:
-    file.write(str(numRows) + '\n')
+    file.write(str(numRows) + ', ' + str(currTime) + '\n')
 
 
 create_stations()

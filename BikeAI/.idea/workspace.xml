@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d5a6395-1ee9-458e-aa85-222bda956c9a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseMultiData.py" beforeDir="false" afterPath="$PROJECT_DIR$/ParseMultiData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unparsedData/2012Q2-capitalbikeshare-tripdata.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unparsedData/2012Q3-capitalbikeshare-tripdata.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unparsedData/2012Q4-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapitalBikeAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/CapitalBikeAPI.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CapitalBikeAPI.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CapitalBikeAPI.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CapitalBikeAPI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
+            <state relative-caret-position="221">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -62,9 +58,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="out.csv" pinned="false" current-in-tab="true">
+      <file leaf-file-name="out.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/out.csv">
-          <provider selected="true" editor-type-id="LargeFileEditor" />
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="17">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="DWSimulation.py" pinned="false" current-in-tab="false">
@@ -112,9 +112,9 @@
         <option value="$PROJECT_DIR$/LinearRegression.py" />
         <option value="$PROJECT_DIR$/ParseData.py" />
         <option value="$PROJECT_DIR$/venv/hw4.py" />
-        <option value="$PROJECT_DIR$/CapitalBikeAPI.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/ParseMultiData.py" />
+        <option value="$PROJECT_DIR$/CapitalBikeAPI.py" />
       </list>
     </option>
   </component>
@@ -171,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ParseMultiData">
+  <component name="RunManager" selected="Python.CapitalBikeAPI">
     <configuration name="CapitalBikeAPI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BikeAI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,9 +233,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CapitalBikeAPI" />
         <item itemvalue="Python.ParseMultiData" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.CapitalBikeAPI" />
       </list>
     </recent_temporary>
   </component>
@@ -652,16 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CapitalBikeAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unparsedData/201801_capitalbikeshare_tripdata.csv">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state>
@@ -680,7 +670,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/out.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="17">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CapitalBikeAPI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
