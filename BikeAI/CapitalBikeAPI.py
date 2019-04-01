@@ -1,7 +1,8 @@
 import requests
 from datetime import datetime
-import sqlite3 as lite
 import datetime as dt
+import sqlite3 as lite
+
 con = lite.connect('bikeAPI.db')
 cur = con.cursor()
 
@@ -77,7 +78,7 @@ def populate_stations(data):
     return i
 
 
-
+'''
 create_station_status()
 
 cur.execute("select * from station_status")
@@ -103,8 +104,8 @@ for row in rows:
 
 '''
 #Write your sql query here. stations and station_status are the two tables
-cur.execute("select * from stations")
+cur.execute("select * from station_status join stations using(stationID) where bikesAvailable = 0")
 rows = cur.fetchall()
 for row in rows:
     print(row)
-'''
+
