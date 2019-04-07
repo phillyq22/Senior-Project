@@ -17,3 +17,18 @@ class Station:
             self.docSize = bikeAvail + docAvail
             self.docAvail = docAvail
 
+    def decreaseBikeAvail(self):
+        self.bikeAvail -= 1
+        self.increaseDocAvail()
+
+    def increaseBikeAvail(self):
+        self.bikeAvail += 1
+        self.decreaseDocAvail()
+
+    def decreaseDocAvail(self):
+        self.docAvail -= 1
+
+    def increaseDocAvail(self):
+        self.docAvail += 1
+
+

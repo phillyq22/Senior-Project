@@ -4,12 +4,16 @@ from datetime import datetime
 from dateutil import rrule
 import os
 import gc
+import random
+
+END_LOCATION_RADIUS = 1
 
 class SimMap:
 
     def __init__(self):
         self.stations = {}
-        self.users = {}
+        self.usersStart = {}
+        self.usersEnding = {}
 
     def takeUsers(self):
         for dataString in os.listdir('UserData'):
@@ -21,21 +25,17 @@ class SimMap:
                     userDic = {'StartDate': [], 'EndDate': [], 'StartStation': [], 'EndStation': []}
                     date = df.index[i]
                     duration, startDate, endDate, startStationNumber, startStationLoc, endSationNumber, endStationLoc, bikeNumber, memberType = row
-                    userDic.get('StartDate').append(str(startDate)[:-6])
-                    userDic.get('EndDate').append(str(endDate)[:-6])
+                    userDic.get('StartDate').append(str(startDate)[:-3])
+                    userDic.get('EndDate').append(str(endDate)[:-3])
                     userDic.get('StartStation').append(startStationNumber)
                     userDic.get('EndStation').append(endSationNumber)
-                    if str(startDate)[:-6] in self.users:
-                        self.users[str(startDate)[:-6]].append(userDic)
+                    if str(startDate)[:-3] in self.usersStart:
+                        self.usersStart[str(startDate)[:-3]].append(userDic)
                     else:
-                        self.users[str(startDate)[:-6]] = []
-                        self.users[str(startDate)[:-6]].append(userDic)
-        print(self.users)
-
-
-simMap = SimMap()
-simMap.takeUsers()
-
+                        self.usersStart[str(startDate)[:-3]] = []
+                        self.usersStart[str(startDate)[:-3]].append(userDic)
+        #print(list(self.users.keys())[0])
+        #print(self.users[list(self.users.keys())[0]])
 
 
 
