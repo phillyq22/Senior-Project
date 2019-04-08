@@ -1,5 +1,6 @@
-import json
+import json as jsonCreator
 from pandas import *
+from Station import Station
 from User import User
 from datetime import datetime
 from dateutil import rrule
@@ -50,5 +51,20 @@ class SimMap:
         return [random.randint(0, 100), random.randint(0, 100)]
 
 
+    def generateStationJson(self, outFile):
+        return jsonCreator.dump(list(self.stations.values()), outFile, default=lambda o: o.toJSON(), sort_keys=True, indent=4)
 
 
+'''
+s1 = Station(jsonText='{"id": "1", "name": "lal", "longiude": 3, "latitude": 6, "nec": "NAN", "bikeAvail": 4, "docAvail": 7}')
+sm = SimMap()
+sm.stations['1'] = s1
+s1 = Station(jsonText='{"id": "1", "name": "lal", "longiude": 3, "latitude": 6, "nec": "NAN", "bikeAvail": 4, "docAvail": 7}')
+sm.stations['2'] = s1
+s1 = Station(jsonText='{"id": "1", "name": "lal", "longiude": 3, "latitude": 6, "nec": "NAN", "bikeAvail": 4, "docAvail": 7}')
+sm.stations['3'] = s1
+
+
+with open('StationJson/data.json', 'w') as outfile:
+    sm.generateStationJson(outfile)
+'''

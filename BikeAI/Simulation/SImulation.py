@@ -1,5 +1,6 @@
 from MapBuilder import SimMap
 from Station import Station
+from Station import Station
 from User import User
 from datetime import datetime
 from dateutil import rrule
@@ -19,7 +20,10 @@ for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):
             print(user)
 
             if user.startStation in simMap.stations:
-                simMap.stations[user.startStation].decreaseBikeAvail()
+                if simMap.stations[user.startStation].isBikeAVail():
+                    simMap.stations[user.startStation].decreaseBikeAvail()
+                else:
+                    print('OH NO OH NO OH NO NO BIKE AVAIL!!!!!!!!!!!!!')
 
             #UPDATE USER END STATION BASED ON END LOCATION
             if user.endDateTime in simMap.usersEnding:
@@ -34,5 +38,12 @@ for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):
             print(user)
 
             if user.endStation in simMap.stations:
-                simMap.stations[user.endStation].increaseBikeAvail()
+                if simMap.stations[user.endStation].isDocAvail():
+                    simMap.stations[user.endStation].increaseBikeAvail()
+                else:
+                    print('OH NO OH NO OH NO NO DOC AVAIL!!!!!!!!!!!!!')
+
+
+with open('StationJson/StationDataOut.json', 'w') as outfile:
+    simMap.generateStationJson(outfile)
 

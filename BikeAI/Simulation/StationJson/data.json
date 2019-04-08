@@ -1,0 +1,29 @@
+[
+    {
+        "bikeAvail": 4,
+        "docAvail": 7,
+        "id": "1",
+        "latitude": 6,
+        "longiude": 3,
+        "name": "lal",
+        "nec": "NAN"
+    },
+    {
+        "bikeAvail": 4,
+        "docAvail": 7,
+        "id": "1",
+        "latitude": 6,
+        "longiude": 3,
+        "name": "lal",
+        "nec": "NAN"
+    },
+    {
+        "bikeAvail": 4,
+        "docAvail": 7,
+        "id": "1",
+        "latitude": 6,
+        "longiude": 3,
+        "name": "lal",
+        "nec": "NAN"
+    }
+]

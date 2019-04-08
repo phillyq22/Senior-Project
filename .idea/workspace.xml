@@ -11,43 +11,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BikeAI/ParseMultiData.py">
+        <entry file="file://$PROJECT_DIR$/BikeAI/NormalPredict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="59" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BikeAI/ScrapeWeather.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BikeAI/createCurve.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="-2">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BikeAI/NormalPredict.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-182">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -64,20 +34,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/MapBuilder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="40" selection-end-column="76" />
+            <state relative-caret-position="391">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#14#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/SImulation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+            <state relative-caret-position="735">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -85,11 +55,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/Station.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="165">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/StationJson/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -132,10 +114,10 @@
         <option value="$PROJECT_DIR$/BikeAI/ParseMultiData.py" />
         <option value="$PROJECT_DIR$/BikeAI/GraphGroups.py" />
         <option value="$PROJECT_DIR$/BikeAI/Simulation/SimulationMap.py" />
-        <option value="$PROJECT_DIR$/BikeAI/Simulation/Station.py" />
-        <option value="$PROJECT_DIR$/BikeAI/Simulation/MapBuilder.py" />
         <option value="$PROJECT_DIR$/BikeAI/Simulation/User.py" />
+        <option value="$PROJECT_DIR$/BikeAI/Simulation/Station.py" />
         <option value="$PROJECT_DIR$/BikeAI/Simulation/SImulation.py" />
+        <option value="$PROJECT_DIR$/BikeAI/Simulation/MapBuilder.py" />
       </list>
     </option>
   </component>
@@ -165,6 +147,13 @@
               <item name="Senior-Project" type="462c0819:PsiDirectoryNode" />
               <item name="BikeAI" type="462c0819:PsiDirectoryNode" />
               <item name="Simulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Senior-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Senior-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="BikeAI" type="462c0819:PsiDirectoryNode" />
+              <item name="Simulation" type="462c0819:PsiDirectoryNode" />
+              <item name="StationJson" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Senior-Project" type="b2602c69:ProjectViewProjectNode" />
@@ -257,7 +246,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295129" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49888477" visible="true" weight="0.36819485" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49888477" visible="true" weight="0.28653294" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50111526" side_tool="true" weight="0.3295129" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -399,16 +388,6 @@
     <entry file="file://$PROJECT_DIR$/ignored/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BikeAI/createCurve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///anaconda3/lib/python3.7/site-packages/pandas/core/sorting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -429,34 +408,10 @@
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BikeAI/ParseMultiData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BikeAI/GraphGroups.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BikeAI/NormalPredict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BikeAI/ScrapeWeather.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -474,29 +429,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BikeAI/createCurve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BikeAI/ScrapeWeather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BikeAI/ParseMultiData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BikeAI/NormalPredict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/StationJson/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/MapBuilder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="40" selection-end-column="76" />
+        <state relative-caret-position="391">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/SImulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/Station.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/SImulation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+        <state relative-caret-position="165">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

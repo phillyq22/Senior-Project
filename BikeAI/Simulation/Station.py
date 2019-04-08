@@ -1,10 +1,15 @@
+from json import *
 import json
 
 
-class Station:
-    def __init__(self, id, name, longitude, latitude, nec, bikeAvail, docAvail, jsonText=-1):
+class MyEncoder(JSONEncoder):
+    def default(self, o):
+        return o.__dict__
 
-        if jsonText != -1:
+class Station:
+    def __init__(self, id="null", name="null", longitude="null", latitude="null", nec="null", bikeAvail="null", docAvail="null", jsonText='No Json'):
+
+        if jsonText != 'No Json':
             self.__dict__ = json.loads(jsonText)
 
         else:
@@ -16,6 +21,13 @@ class Station:
             self.bikeAvail = bikeAvail
             self.docSize = bikeAvail + docAvail
             self.docAvail = docAvail
+
+    def toJSON(self):
+        return self.__dict__
+
+    #def jsonify(self):
+        #print(json.dumps(self))
+
 
     def decreaseBikeAvail(self):
         self.bikeAvail -= 1
@@ -30,5 +42,11 @@ class Station:
 
     def increaseDocAvail(self):
         self.docAvail += 1
+
+    def isBikeAvail(self):
+        return self.bikeAvail > 0
+
+    def isDocAvail(self):
+        return self.docAvail > 0
 
 
