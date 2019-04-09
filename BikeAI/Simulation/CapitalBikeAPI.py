@@ -8,7 +8,7 @@ Allows for creation and connection to the bikeAPI database.
 '''
 
 
-class CapitalBikeApi:
+class CapitalBikeAPI:
 
     def __init__(self):
         self.con = lite.connect('bikeAPI.db')

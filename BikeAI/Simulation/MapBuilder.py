@@ -1,7 +1,9 @@
-import json as jsonCreator
+
+
+import json as JsonCreator
 from pandas import *
 from Station import Station
-from CapitalBikeAPI import CapitalBikeApi
+from CapitalBikeAPI import CapitalBikeAPI
 from User import User
 from datetime import datetime
 from dateutil import rrule
@@ -31,10 +33,10 @@ class SimMap:
                     duration, startDate, endDate, startStationNumber, startStationLoc, endSationNumber, endStationLoc, bikeNumber, memberType = row
                     userDic.get('StartDate').append(str(startDate)[:-3])
                     userDic.get('EndDate').append(str(endDate)[:-3])
-                    userDic.get('StartStation').append(startStationNumber)
-                    userDic.get('EndStation').append(endSationNumber)
+                    userDic.get('StartStation').append(str(startStationNumber))
+                    userDic.get('EndStation').append(str(endSationNumber))
 
-                    newUser = User(startStationNumber, endSationNumber, self.generateRandomLocaton(endSationNumber),
+                    newUser = User(str(startStationNumber), str(endSationNumber), self.generateRandomLocaton(str(endSationNumber)),
                                    str(endDate)[:-3])
 
                     if str(startDate)[:-3] in self.usersStart:
@@ -46,24 +48,31 @@ class SimMap:
         #print(self.users[list(self.users.keys())[0]])
 
     def takeStations(self):
-        cb = CapitalBikeApi()
+        cb = CapitalBikeAPI()
         data = cb.create_simulation_json()
         data = data['stations']
+        #print(data)
         for row in data:
-            self.stations[row['shortName']] = Station(id=row['shortName'], longitude=row['longitude'],
+            '''
+            self.stations[row['id']] = Station(id=row['id'], longitude=row['longitude'],
                                                       latitude=row['latitude'], nec=row['nec'],
                                                       bikeAvail=row['bikeAvail'], docAvail=row['docAvail'],
                                                       capacity=row['capacity'])
+                                                      '''
+            self.stations[row['id']] = Station(id=row['id'], longitude=row['longitude'],
+                                                latitude=row['latitude'], nec=row['nec'],
+                                                bikeAvail=25, docAvail=15,
+                                                capacity=40)
 
     def generateRandomLocaton(self, stationId):
-        #longitude = self.stations[stationId].longitude + random.randint(0, END_LOCATION_RADIUS)
-        #latitude = self.stations[stationId].latitude + random.randint(0, END_LOCATION_RADIUS)
+        #longitude = self.stations[str(stationId)].longitude + random.randint(0, END_LOCATION_RADIUS)
+        #latitude = self.stations[str(stationId)].latitude + random.randint(0, END_LOCATION_RADIUS)
         #return [longitude, latitude]
         return [random.randint(0, 100), random.randint(0, 100)]
 
 
     def generateStationJson(self, outFile):
-        return jsonCreator.dump(list(self.stations.values()), outFile, default=lambda o: o.toJSON(), sort_keys=True, indent=4)
+        return JsonCreator.dump(list(self.stations.values()), outFile, default=lambda o: o.toJSON(), sort_keys=True, indent=4)
 
 
 '''
