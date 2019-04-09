@@ -21,3 +21,7 @@
 3/29/19 - Joined the weather data to 2018 CapitalBikeShare data (Phil & Andrew)
 3/29/19 - Brain stormed on how to formulate the simulation for evaluating algorithm effectiveness.
 3/29/19 - Looked into the implementation of an SVM regressor (Zac)
+3/29/19 - adjustment/improvement of suggestion alg including EndLocation (Austin)
+3/29/19 - Team Discussion on handling unknown end location of users (Team)
+4//5/19 - Translation of Suggestion Alg to Python (Austin)
+4/5/19 - Preliminary station simulation (Matt and Austin)
