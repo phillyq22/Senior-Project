@@ -5,8 +5,12 @@ from Scorer import Scorer
 from datetime import datetime
 from dateutil import rrule
 
+missingStations = []
+stationsDocUnavail = []
+stationsBikeUnavail = []
 stationMissingErrors = 0
 DocUnavailErrors = 0
+BikeUnavailErrors = 0
 nonErrors = 0
 simMap = SimMap()
 simMap.takeStations()
@@ -29,8 +33,10 @@ for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):
                     simMap.stations[user.startStation].decreaseBikeAvail()
                     nonErrors += 1
                 else:
-                    DocUnavailErrors+=1
+                    stationsBikeUnavail.append(user.startStation)
+                    BikeUnavailErrors+=1
             else:
+                missingStations.append(user.startStation)
                 stationMissingErrors += 1
 
             #UPDATE USER END STATION BASED ON END LOCATION
@@ -50,13 +56,19 @@ for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):
                     simMap.stations[user.endStation].increaseBikeAvail()
                     nonErrors += 1
                 else:
+                    stationsDocUnavail.append(user.endStation)
                     DocUnavailErrors+=1
             else:
+                missingStations.append(user.endStation)
                 stationMissingErrors += 1
 
 
 print('Station Missing: ', stationMissingErrors)
-print('Unavail Errors: ', DocUnavailErrors)
+print('Missing Stations: ', set(missingStations))
+print('Doc Unavail Errors: ', DocUnavailErrors)
+print('Doc  Unavail Stations: ', set(stationsDocUnavail))
+print('Bike Unavail Errors: ', BikeUnavailErrors)
+print('Bike  Unavail Stations: ', set(stationsBikeUnavail))
 print('Nonerrors: ', nonErrors)
 
 with open('StationJson/StationDataOut.json', 'w') as outfile:

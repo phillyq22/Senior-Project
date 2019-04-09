@@ -59,10 +59,12 @@ class SimMap:
                                                       bikeAvail=row['bikeAvail'], docAvail=row['docAvail'],
                                                       capacity=row['capacity'])
                                                       '''
+
             self.stations[row['id']] = Station(id=row['id'], longitude=row['longitude'],
                                                 latitude=row['latitude'], nec=row['nec'],
-                                                bikeAvail=25, docAvail=15,
-                                                capacity=40)
+                                                bikeAvail=16, docAvail=8,
+                                                capacity=24)
+
 
     def generateRandomLocaton(self, stationId):
         #longitude = self.stations[str(stationId)].longitude + random.randint(0, END_LOCATION_RADIUS)
