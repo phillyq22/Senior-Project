@@ -14,3 +14,5 @@ class Scorer:
             for p in data:
                 avail.append(p["bikeAvail"])
             return statistics.pstdev(avail)
+
+print(Scorer().scorer('StationJson/data.json'))

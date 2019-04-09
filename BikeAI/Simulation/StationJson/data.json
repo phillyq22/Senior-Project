@@ -1,6 +1,6 @@
 [
     {
-        "bikeAvail": 4,
+        "bikeAvail": 10,
         "docAvail": 7,
         "id": "1",
         "latitude": 6,
@@ -18,7 +18,7 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 4,
+        "bikeAvail": 1,
         "docAvail": 7,
         "id": "1",
         "latitude": 6,
