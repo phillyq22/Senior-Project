@@ -13,6 +13,6 @@ class Scorer:
             data = json.load(json_file)
             for p in data:
                 avail.append(p["bikeAvail"])
-            return statistics.pstdev(avail)
-
-print('Score: ', Scorer().scorer('StationJson/StationDataOut.json'))
+            print("Bike Distribution Standard Deviation: " + str(statistics.stdev(avail)))
+            print("Maximum bikes available: " + str(max(avail)))
+            print("Minimum bikes available: " + str(min(avail)))
