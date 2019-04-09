@@ -17,8 +17,9 @@ simMap.takeStations()
 simMap.takeUsers()
 
 
-startDay = datetime(2018, 1, 1)
-endYear = datetime(2018, 1, 2)
+startDay = datetime(2018, 1, 1, 10)
+endYear = datetime(2018, 1, 2, 10)
+
 
 for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):
     dateString = str(dt)[:-3]
@@ -76,4 +77,5 @@ with open('StationJson/StationDataOut.json', 'w') as outfile:
 
 #print(list(simMap.stations.keys()))
 
-print('Score: ', Scorer().scorer('StationJson/StationDataOut.json'))
+Scorer().scorer('StationJson/StationDataOut.json')
+

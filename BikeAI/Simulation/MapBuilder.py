@@ -62,7 +62,7 @@ class SimMap:
 
             self.stations[row['id']] = Station(id=row['id'], longitude=row['longitude'],
                                                 latitude=row['latitude'], nec=row['nec'],
-                                                bikeAvail=16, docAvail=8,
+                                                bikeAvail=16, docAvail=16,
                                                 capacity=24)
 
 
