@@ -1,12 +1,12 @@
 from MapBuilder import SimMap
 from Station import Station
-from Station import Station
 from User import User
 from datetime import datetime
 from dateutil import rrule
 
 simMap = SimMap()
 simMap.takeUsers()
+simMap.takeStations()
 
 startDay = datetime(2018, 1, 1)
 endYear = datetime(2018, 1, 2)

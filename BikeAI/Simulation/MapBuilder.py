@@ -1,6 +1,7 @@
 import json as jsonCreator
 from pandas import *
 from Station import Station
+from CapitalBikeAPI import CapitalBikeApi
 from User import User
 from datetime import datetime
 from dateutil import rrule
@@ -9,6 +10,7 @@ import gc
 import random
 
 END_LOCATION_RADIUS = 1
+
 
 class SimMap:
 
@@ -43,6 +45,15 @@ class SimMap:
         #print(list(self.users.keys())[0])
         #print(self.users[list(self.users.keys())[0]])
 
+    def takeStations(self):
+        cb = CapitalBikeApi()
+        data = cb.create_simulation_json()
+        data = data['stations']
+        for row in data:
+            self.stations[row['shortName']] = Station(id=row['shortName'], longitude=row['longitude'],
+                                                      latitude=row['latitude'], nec=row['nec'],
+                                                      bikeAvail=row['bikeAvail'], docAvail=row['docAvail'],
+                                                      capacity=row['capacity'])
 
     def generateRandomLocaton(self, stationId):
         #longitude = self.stations[stationId].longitude + random.randint(0, END_LOCATION_RADIUS)
@@ -56,12 +67,12 @@ class SimMap:
 
 
 '''
-s1 = Station(jsonText='{"id": "1", "name": "lal", "longiude": 3, "latitude": 6, "nec": "NAN", "bikeAvail": 4, "docAvail": 7}')
+s1 = Station(jsonText='{"id": "1", "name": "lal", "longitude": 3, "latitude": 6, "nec": "NAN", "bikeAvail": 4, "docAvail": 7}')
 sm = SimMap()
 sm.stations['1'] = s1
-s1 = Station(jsonText='{"id": "1", "name": "lal", "longiude": 3, "latitude": 6, "nec": "NAN", "bikeAvail": 4, "docAvail": 7}')
+s1 = Station(jsonText='{"id": "1", "name": "lal", "longitude": 3, "latitude": 6, "nec": "NAN", "bikeAvail": 4, "docAvail": 7}')
 sm.stations['2'] = s1
-s1 = Station(jsonText='{"id": "1", "name": "lal", "longiude": 3, "latitude": 6, "nec": "NAN", "bikeAvail": 4, "docAvail": 7}')
+s1 = Station(jsonText='{"id": "1", "name": "lal", "longitude": 3, "latitude": 6, "nec": "NAN", "bikeAvail": 4, "docAvail": 7}')
 sm.stations['3'] = s1
 
 

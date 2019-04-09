@@ -7,14 +7,14 @@ class MyEncoder(JSONEncoder):
         return o.__dict__
 
 class Station:
-    def __init__(self, id="null", name="null", longitude="null", latitude="null", nec="null", bikeAvail="null", docAvail="null", jsonText='No Json'):
+    def __init__(self, id="null", capacity="null", longitude="null", latitude="null", nec="null", bikeAvail="null", docAvail="null", jsonText='No Json'):
 
         if jsonText != 'No Json':
             self.__dict__ = json.loads(jsonText)
 
         else:
             self.id = id
-            self.name = name
+            self.capacity = capacity
             self.longitude = longitude
             self.latitude = latitude
             self.nec = nec
