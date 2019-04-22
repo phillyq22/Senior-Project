@@ -20,7 +20,7 @@ for dt in rrule.rrule(rrule.DAILY, dtstart=startDay, until=endYear):
         try:
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'}
-            reg_url = "https://www.almanac.com/weather/history/zipcode/200001/" + str(dt.year) + "-" + str(dt.month) + "-" + str(
+            reg_url = "https://www.almanac.com/weather/history/zipcode/20001/" + str(dt.year) + "-" + str(dt.month) + "-" + str(
                 dt.day)
             req = Request(url=reg_url, headers=headers)
             html = urlopen(req).read()

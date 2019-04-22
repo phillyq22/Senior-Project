@@ -7,6 +7,8 @@ class MyEncoder(JSONEncoder):
         return o.__dict__
 
 class Station:
+    prop = 0
+
     def __init__(self, id="null", capacity="null", longitude="null", latitude="null", nec="null", bikeAvail="null", docAvail="null", jsonText='No Json'):
 
         if jsonText != 'No Json':

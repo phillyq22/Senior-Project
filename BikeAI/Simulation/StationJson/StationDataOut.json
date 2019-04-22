@@ -1,8 +1,8 @@
 [
     {
-        "bikeAvail": 21,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 11,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31204",
         "latitude": 38.8963,
@@ -10,9 +10,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 23,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 9,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31205",
         "latitude": 38.9008,
@@ -20,9 +20,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 21,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 11,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31215",
         "latitude": 38.9022212,
@@ -30,9 +30,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 28,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 4,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31227",
         "latitude": 38.900283,
@@ -40,9 +40,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 0,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31233",
         "latitude": 38.902061,
@@ -50,9 +50,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 12,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 20,
         "docSize": 32,
         "id": "31000",
         "latitude": 38.858971,
@@ -60,9 +60,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31001",
         "latitude": 38.85725,
@@ -70,9 +70,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31002",
         "latitude": 38.856425,
@@ -80,9 +80,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31003",
         "latitude": 38.86017,
@@ -90,9 +90,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31004",
         "latitude": 38.857866,
@@ -100,9 +100,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31005",
         "latitude": 38.862303,
@@ -110,9 +110,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 24,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31006",
         "latitude": 38.8637,
@@ -120,9 +120,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31007",
         "latitude": 38.85740496261504,
@@ -130,9 +130,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31009",
         "latitude": 38.848466,
@@ -140,9 +140,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31010",
         "latitude": 38.8426,
@@ -150,9 +150,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31011",
         "latitude": 38.8533,
@@ -160,9 +160,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 21,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 11,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31012",
         "latitude": 38.850688,
@@ -170,9 +170,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31100",
         "latitude": 38.9003,
@@ -180,9 +180,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 22,
+        "bikeAvail": 3,
         "capacity": 24,
-        "docAvail": 10,
+        "docAvail": 29,
         "docSize": 32,
         "id": "31101",
         "latitude": 38.917142,
@@ -190,9 +190,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 8,
         "capacity": 24,
-        "docAvail": 22,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31102",
         "latitude": 38.929464,
@@ -200,9 +200,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 11,
         "capacity": 24,
-        "docAvail": 32,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31103",
         "latitude": 38.926088,
@@ -210,9 +210,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 5,
         "capacity": 24,
-        "docAvail": 21,
+        "docAvail": 27,
         "docSize": 32,
         "id": "31104",
         "latitude": 38.922925,
@@ -230,9 +230,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 29,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 3,
         "docSize": 32,
         "id": "31106",
         "latitude": 38.923203,
@@ -240,9 +240,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 21,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31107",
         "latitude": 38.9319,
@@ -250,9 +250,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 7,
+        "bikeAvail": 32,
         "capacity": 24,
-        "docAvail": 25,
+        "docAvail": 0,
         "docSize": 32,
         "id": "31108",
         "latitude": 38.8767,
@@ -260,9 +260,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 0,
         "capacity": 24,
-        "docAvail": 21,
+        "docAvail": 32,
         "docSize": 32,
         "id": "31201",
         "latitude": 38.90985,
@@ -270,9 +270,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 9,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31202",
         "latitude": 38.912681,
@@ -280,9 +280,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 0,
         "capacity": 24,
-        "docAvail": 24,
+        "docAvail": 32,
         "docSize": 32,
         "id": "31203",
         "latitude": 38.9086,
@@ -290,9 +290,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 10,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31400",
         "latitude": 38.936043,
@@ -300,9 +300,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 21,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31401",
         "latitude": 38.9375,
@@ -310,9 +310,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 24,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31502",
         "latitude": 38.9346,
@@ -320,9 +320,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 4,
         "capacity": 24,
-        "docAvail": 21,
+        "docAvail": 28,
         "docSize": 32,
         "id": "31600",
         "latitude": 38.90304,
@@ -330,9 +330,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 20,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 12,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31601",
         "latitude": 38.8896,
@@ -340,9 +340,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 6,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 26,
         "docSize": 32,
         "id": "31602",
         "latitude": 38.9308,
@@ -350,9 +350,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31700",
         "latitude": 38.86022668950909,
@@ -360,9 +360,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 24,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31305",
         "latitude": 38.934267,
@@ -390,9 +390,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31704",
         "latitude": 38.901385,
@@ -400,9 +400,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31801",
         "latitude": 38.862669,
@@ -410,9 +410,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 23,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31802",
         "latitude": 38.867373,
@@ -420,9 +420,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 20,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 12,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31206",
         "latitude": 38.8952,
@@ -430,9 +430,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 25,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 7,
         "docSize": 32,
         "id": "31500",
         "latitude": 38.919077,
@@ -440,9 +440,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 7,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 25,
         "docSize": 32,
         "id": "31111",
         "latitude": 38.9172,
@@ -450,12 +450,42 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 29,
         "capacity": 24,
-        "docAvail": 21,
+        "docAvail": 3,
         "docSize": 32,
         "id": "31207",
         "latitude": 38.9249,
+        "longitude": -77.0222,
+        "nec": "NAN"
+    },
+    {
+        "bikeAvail": 22,
+        "capacity": 24,
+        "docAvail": 10,
+        "docSize": 32,
+        "id": "31209",
+        "latitude": 38.8743,
+        "longitude": -77.0057,
+        "nec": "NAN"
+    },
+    {
+        "bikeAvail": 9,
+        "capacity": 24,
+        "docAvail": 23,
+        "docSize": 32,
+        "id": "31110",
+        "latitude": 38.9154,
+        "longitude": -77.0446,
+        "nec": "NAN"
+    },
+    {
+        "bikeAvail": 8,
+        "capacity": 24,
+        "docAvail": 24,
+        "docSize": 32,
+        "id": "31109",
+        "latitude": 38.9155,
         "longitude": -77.0222,
         "nec": "NAN"
     },
@@ -464,45 +494,15 @@
         "capacity": 24,
         "docAvail": 16,
         "docSize": 32,
-        "id": "31209",
-        "latitude": 38.8743,
-        "longitude": -77.0057,
-        "nec": "NAN"
-    },
-    {
-        "bikeAvail": 19,
-        "capacity": 24,
-        "docAvail": 13,
-        "docSize": 32,
-        "id": "31110",
-        "latitude": 38.9154,
-        "longitude": -77.0446,
-        "nec": "NAN"
-    },
-    {
-        "bikeAvail": 14,
-        "capacity": 24,
-        "docAvail": 18,
-        "docSize": 32,
-        "id": "31109",
-        "latitude": 38.9155,
-        "longitude": -77.0222,
-        "nec": "NAN"
-    },
-    {
-        "bikeAvail": 15,
-        "capacity": 24,
-        "docAvail": 17,
-        "docSize": 32,
         "id": "31013",
         "latitude": 38.85438051517749,
         "longitude": -77.05341160297394,
         "nec": "NAN"
     },
     {
-        "bikeAvail": 24,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 8,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31208",
         "latitude": 38.8763,
@@ -510,9 +510,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 29,
+        "bikeAvail": 0,
         "capacity": 24,
-        "docAvail": 3,
+        "docAvail": 32,
         "docSize": 32,
         "id": "31200",
         "latitude": 38.9101,
@@ -520,9 +520,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 25,
+        "bikeAvail": 10,
         "capacity": 24,
-        "docAvail": 7,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31603",
         "latitude": 38.9057,
@@ -530,9 +530,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 27,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 5,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31212",
         "latitude": 38.90534,
@@ -540,9 +540,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 12,
         "capacity": 24,
-        "docAvail": 0,
+        "docAvail": 20,
         "docSize": 32,
         "id": "31213",
         "latitude": 38.90276,
@@ -590,9 +590,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 7,
+        "bikeAvail": 4,
         "capacity": 24,
-        "docAvail": 25,
+        "docAvail": 28,
         "docSize": 32,
         "id": "31214",
         "latitude": 38.9121,
@@ -600,9 +600,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31300",
         "latitude": 38.944551,
@@ -610,9 +610,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 9,
         "capacity": 24,
-        "docAvail": 24,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31503",
         "latitude": 38.9126,
@@ -620,9 +620,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31608",
         "latitude": 38.8792,
@@ -630,9 +630,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31301",
         "latitude": 38.938736,
@@ -640,9 +640,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31302",
         "latitude": 38.934881,
@@ -650,9 +650,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31402",
         "latitude": 38.947774,
@@ -660,9 +660,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 25,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 7,
         "docSize": 32,
         "id": "31804",
         "latitude": 38.865784,
@@ -670,9 +670,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 24,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31805",
         "latitude": 38.873057,
@@ -680,9 +680,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31610",
         "latitude": 38.886952,
@@ -690,9 +690,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 24,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 8,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31216",
         "latitude": 38.899632,
@@ -700,9 +700,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31705",
         "latitude": 38.894,
@@ -710,9 +710,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 26,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 6,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31217",
         "latitude": 38.88627694506511,
@@ -720,9 +720,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 25,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 7,
         "docSize": 32,
         "id": "31501",
         "latitude": 38.933668,
@@ -730,9 +730,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 26,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 6,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31220",
         "latitude": 38.894919,
@@ -740,9 +740,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31218",
         "latitude": 38.886266,
@@ -750,9 +750,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 30,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 2,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31219",
         "latitude": 38.893028,
@@ -770,9 +770,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 24,
+        "bikeAvail": 9,
         "capacity": 24,
-        "docAvail": 8,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31613",
         "latitude": 38.884,
@@ -780,9 +780,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 10,
         "capacity": 24,
-        "docAvail": 0,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31221",
         "latitude": 38.90506687455313,
@@ -790,9 +790,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 22,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31303",
         "latitude": 38.947607,
@@ -800,9 +800,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31611",
         "latitude": 38.900021783466954,
@@ -810,9 +810,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31620",
         "latitude": 38.897222,
@@ -820,9 +820,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 27,
+        "bikeAvail": 11,
         "capacity": 24,
-        "docAvail": 5,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31222",
         "latitude": 38.89903234416315,
@@ -830,9 +830,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 6,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 26,
         "docSize": 32,
         "id": "31223",
         "latitude": 38.905737,
@@ -840,9 +840,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 23,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31112",
         "latitude": 38.927872,
@@ -850,9 +850,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 27,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 5,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31224",
         "latitude": 38.903407,
@@ -860,9 +860,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 24,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 8,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31225",
         "latitude": 38.90375,
@@ -870,9 +870,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 28,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 4,
         "docSize": 32,
         "id": "31609",
         "latitude": 38.878693599396954,
@@ -880,9 +880,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 6,
         "capacity": 24,
-        "docAvail": 30,
+        "docAvail": 26,
         "docSize": 32,
         "id": "31612",
         "latitude": 38.894758,
@@ -890,9 +890,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31226",
         "latitude": 38.916442,
@@ -900,9 +900,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 11,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31228",
         "latitude": 38.8997,
@@ -910,9 +910,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31504",
         "latitude": 38.932514,
@@ -920,9 +920,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 4,
+        "bikeAvail": 8,
         "capacity": 24,
-        "docAvail": 28,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31505",
         "latitude": 38.910972,
@@ -930,9 +930,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 0,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 32,
         "docSize": 32,
         "id": "31615",
         "latitude": 38.899972,
@@ -940,9 +940,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 0,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 32,
         "docSize": 32,
         "id": "31616",
         "latitude": 38.900412,
@@ -950,9 +950,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 21,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31617",
         "latitude": 38.900413,
@@ -960,9 +960,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 12,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 20,
         "docSize": 32,
         "id": "31618",
         "latitude": 38.889955,
@@ -970,9 +970,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 21,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31619",
         "latitude": 38.890461,
@@ -980,9 +980,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31701",
         "latitude": 38.8692,
@@ -990,9 +990,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31622",
         "latitude": 38.894832,
@@ -1000,9 +1000,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 0,
         "capacity": 24,
-        "docAvail": 30,
+        "docAvail": 32,
         "docSize": 32,
         "id": "31229",
         "latitude": 38.91554,
@@ -1010,9 +1010,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 31,
+        "bikeAvail": 12,
         "capacity": 24,
-        "docAvail": 1,
+        "docAvail": 20,
         "docSize": 32,
         "id": "31230",
         "latitude": 38.898364,
@@ -1020,9 +1020,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 27,
+        "bikeAvail": 12,
         "capacity": 24,
-        "docAvail": 5,
+        "docAvail": 20,
         "docSize": 32,
         "id": "31231",
         "latitude": 38.894514,
@@ -1030,9 +1030,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 20,
+        "bikeAvail": 9,
         "capacity": 24,
-        "docAvail": 12,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31232",
         "latitude": 38.89731227340173,
@@ -1040,9 +1040,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 11,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31234",
         "latitude": 38.908905,
@@ -1050,9 +1050,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 25,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 7,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31621",
         "latitude": 38.895344,
@@ -1060,9 +1060,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31235",
         "latitude": 38.8923,
@@ -1080,9 +1080,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31614",
         "latitude": 38.899983,
@@ -1090,9 +1090,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31237",
         "latitude": 38.903827,
@@ -1100,9 +1100,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 3,
+        "bikeAvail": 0,
         "capacity": 24,
-        "docAvail": 29,
+        "docAvail": 32,
         "docSize": 32,
         "id": "31623",
         "latitude": 38.89696,
@@ -1110,9 +1110,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 9,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31624",
         "latitude": 38.897446,
@@ -1120,9 +1120,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 1,
         "capacity": 24,
-        "docAvail": 32,
+        "docAvail": 31,
         "docSize": 32,
         "id": "31266",
         "latitude": 38.905607,
@@ -1130,9 +1130,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31304",
         "latitude": 38.922581,
@@ -1140,9 +1140,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 25,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 7,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31238",
         "latitude": 38.898409,
@@ -1150,9 +1150,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31052",
         "latitude": 38.844015,
@@ -1160,9 +1160,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31240",
         "latitude": 38.88412,
@@ -1170,9 +1170,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 25,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 7,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31262",
         "latitude": 38.897857,
@@ -1180,9 +1180,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31260",
         "latitude": 38.896104,
@@ -1190,9 +1190,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 25,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 7,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31014",
         "latitude": 38.897315,
@@ -1200,9 +1200,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 25,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 7,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31015",
         "latitude": 38.8946,
@@ -1220,9 +1220,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31017",
         "latitude": 38.891696,
@@ -1230,9 +1230,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31018",
         "latitude": 38.892164,
@@ -1240,9 +1240,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31706",
         "latitude": 38.86559,
@@ -1250,9 +1250,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 23,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 9,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31261",
         "latitude": 38.892459,
@@ -1260,9 +1260,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31019",
         "latitude": 38.889,
@@ -1270,9 +1270,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31113",
         "latitude": 38.920669,
@@ -1280,9 +1280,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 30,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 2,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31239",
         "latitude": 38.905995699991145,
@@ -1290,9 +1290,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 6,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 26,
         "docSize": 32,
         "id": "31241",
         "latitude": 38.9059,
@@ -1300,9 +1300,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31020",
         "latitude": 38.8904,
@@ -1310,9 +1310,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31021",
         "latitude": 38.8881,
@@ -1320,9 +1320,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31022",
         "latitude": 38.88786,
@@ -1330,9 +1330,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 20,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 12,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31242",
         "latitude": 38.89968,
@@ -1340,9 +1340,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 25,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 7,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31243",
         "latitude": 38.88637194054526,
@@ -1350,9 +1350,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 24,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 8,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31244",
         "latitude": 38.88412,
@@ -1360,9 +1360,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31625",
         "latitude": 38.881185,
@@ -1370,9 +1370,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 23,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 9,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31245",
         "latitude": 38.912719,
@@ -1380,9 +1380,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31404",
         "latitude": 38.9418,
@@ -1390,9 +1390,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 3,
         "capacity": 24,
-        "docAvail": 30,
+        "docAvail": 29,
         "docSize": 32,
         "id": "31506",
         "latitude": 38.915417,
@@ -1400,9 +1400,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 5,
+        "bikeAvail": 12,
         "capacity": 24,
-        "docAvail": 27,
+        "docAvail": 20,
         "docSize": 32,
         "id": "31115",
         "latitude": 38.92812111132096,
@@ -1410,9 +1410,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 6,
+        "bikeAvail": 1,
         "capacity": 24,
-        "docAvail": 26,
+        "docAvail": 31,
         "docSize": 32,
         "id": "31116",
         "latitude": 38.917761,
@@ -1420,9 +1420,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31707",
         "latitude": 38.889935,
@@ -1430,9 +1430,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31307",
         "latitude": 38.930282,
@@ -1440,9 +1440,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 27,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31708",
         "latitude": 38.896544,
@@ -1450,9 +1450,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31246",
         "latitude": 38.905126,
@@ -1460,9 +1460,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31626",
         "latitude": 38.88732,
@@ -1470,9 +1470,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31806",
         "latitude": 38.844711,
@@ -1480,9 +1480,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31035",
         "latitude": 38.876393,
@@ -1490,9 +1490,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31033",
         "latitude": 38.85033657788445,
@@ -1500,9 +1500,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31029",
         "latitude": 38.896923,
@@ -1510,9 +1510,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 20,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 12,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31263",
         "latitude": 38.9024,
@@ -1520,9 +1520,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31023",
         "latitude": 38.885801,
@@ -1540,9 +1540,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31628",
         "latitude": 38.878854378063295,
@@ -1550,9 +1550,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31306",
         "latitude": 38.922649,
@@ -1560,9 +1560,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 29,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 3,
         "docSize": 32,
         "id": "31507",
         "latitude": 38.928743,
@@ -1570,9 +1570,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31024",
         "latitude": 38.882788,
@@ -1590,9 +1590,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31026",
         "latitude": 38.884734,
@@ -1600,9 +1600,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 22,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 10,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31247",
         "latitude": 38.888553,
@@ -1610,9 +1610,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31248",
         "latitude": 38.888767,
@@ -1620,9 +1620,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31036",
         "latitude": 38.87887,
@@ -1630,9 +1630,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 26,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 6,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31264",
         "latitude": 38.894573,
@@ -1650,9 +1650,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31030",
         "latitude": 38.89593,
@@ -1660,9 +1660,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31031",
         "latitude": 38.89054,
@@ -1670,9 +1670,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31032",
         "latitude": 38.88081,
@@ -1680,9 +1680,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 23,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 9,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31037",
         "latitude": 38.881044,
@@ -1690,9 +1690,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31034",
         "latitude": 38.882629,
@@ -1700,9 +1700,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31249",
         "latitude": 38.879819,
@@ -1710,9 +1710,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31803",
         "latitude": 38.866611,
@@ -1720,9 +1720,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31038",
         "latitude": 38.883921,
@@ -1740,9 +1740,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31040",
         "latitude": 38.884616,
@@ -1750,9 +1750,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31508",
         "latitude": 38.90509,
@@ -1760,9 +1760,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 22,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 10,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31250",
         "latitude": 38.903584,
@@ -1770,9 +1770,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31251",
         "latitude": 38.903819,
@@ -1780,9 +1780,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 23,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 9,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31252",
         "latitude": 38.901539,
@@ -1790,9 +1790,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31253",
         "latitude": 38.902204,
@@ -1800,9 +1800,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 22,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 10,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31041",
         "latitude": 38.803124,
@@ -1810,9 +1810,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 21,
+        "bikeAvail": 8,
         "capacity": 24,
-        "docAvail": 11,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31042",
         "latitude": 38.804718,
@@ -1830,9 +1830,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31044",
         "latitude": 38.805317,
@@ -1840,9 +1840,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 23,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 9,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31254",
         "latitude": 38.902,
@@ -1850,9 +1850,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31045",
         "latitude": 38.805648,
@@ -1860,9 +1860,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31046",
         "latitude": 38.811456,
@@ -1870,9 +1870,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31047",
         "latitude": 38.814577,
@@ -1880,9 +1880,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31048",
         "latitude": 38.805767,
@@ -1890,9 +1890,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 23,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 9,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31255",
         "latitude": 38.9066,
@@ -1900,9 +1900,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 25,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 7,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31256",
         "latitude": 38.895914,
@@ -1910,9 +1910,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 12,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 20,
         "docSize": 32,
         "id": "31257",
         "latitude": 38.90088,
@@ -1920,9 +1920,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31049",
         "latitude": 38.883669,
@@ -1930,9 +1930,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31050",
         "latitude": 38.884961,
@@ -1940,9 +1940,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31051",
         "latitude": 38.889365,
@@ -1950,9 +1950,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31258",
         "latitude": 38.888251,
@@ -1960,9 +1960,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31259",
         "latitude": 38.894722,
@@ -1970,9 +1970,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 3,
         "capacity": 24,
-        "docAvail": 22,
+        "docAvail": 29,
         "docSize": 32,
         "id": "31265",
         "latitude": 38.90093,
@@ -1980,9 +1980,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31308",
         "latitude": 38.943837,
@@ -1990,9 +1990,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31309",
         "latitude": 38.954812,
@@ -2000,9 +2000,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 21,
+        "bikeAvail": 11,
         "capacity": 24,
-        "docAvail": 11,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31627",
         "latitude": 38.905469714943266,
@@ -2010,9 +2010,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31053",
         "latitude": 38.863833,
@@ -2030,9 +2030,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31055",
         "latitude": 38.846222,
@@ -2040,9 +2040,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 5,
         "capacity": 24,
-        "docAvail": 22,
+        "docAvail": 27,
         "docSize": 32,
         "id": "31114",
         "latitude": 38.918809,
@@ -2050,9 +2050,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 23,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31403",
         "latitude": 38.956555547721955,
@@ -2060,9 +2060,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31405",
         "latitude": 38.949662,
@@ -2070,9 +2070,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31406",
         "latitude": 38.942016,
@@ -2080,9 +2080,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 24,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31407",
         "latitude": 38.956432,
@@ -2090,9 +2090,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 24,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31056",
         "latitude": 38.847977,
@@ -2110,9 +2110,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31058",
         "latitude": 38.860789,
@@ -2130,9 +2130,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31060",
         "latitude": 38.84232,
@@ -2140,9 +2140,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31061",
         "latitude": 38.848454,
@@ -2150,9 +2150,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32006",
         "latitude": 38.987,
@@ -2160,9 +2160,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 22,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 10,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31312",
         "latitude": 38.90849,
@@ -2170,9 +2170,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 24,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31062",
         "latitude": 38.896553,
@@ -2180,9 +2180,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 23,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31310",
         "latitude": 38.955016,
@@ -2190,9 +2190,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 9,
         "capacity": 24,
-        "docAvail": 22,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31267",
         "latitude": 38.908142,
@@ -2200,9 +2200,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 4,
+        "bikeAvail": 10,
         "capacity": 24,
-        "docAvail": 28,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31117",
         "latitude": 38.92333,
@@ -2210,9 +2210,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 11,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31629",
         "latitude": 38.889988,
@@ -2220,9 +2220,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 6,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 26,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31509",
         "latitude": 38.912659,
@@ -2230,9 +2230,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31630",
         "latitude": 38.889908,
@@ -2240,9 +2240,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 6,
+        "bikeAvail": 11,
         "capacity": 24,
-        "docAvail": 26,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31631",
         "latitude": 38.897274,
@@ -2250,9 +2250,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31510",
         "latitude": 38.927095,
@@ -2260,9 +2260,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 4,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 28,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31632",
         "latitude": 38.897195,
@@ -2270,9 +2270,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31511",
         "latitude": 38.928644,
@@ -2280,9 +2280,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31800",
         "latitude": 38.84322988730829,
@@ -2290,9 +2290,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31807",
         "latitude": 38.863897,
@@ -2300,9 +2300,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31512",
         "latitude": 38.903732,
@@ -2310,9 +2310,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 6,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 26,
         "docSize": 32,
         "id": "31268",
         "latitude": 38.916787,
@@ -2320,9 +2320,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31063",
         "latitude": 38.852248,
@@ -2330,9 +2330,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 29,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 3,
         "docSize": 32,
         "id": "31064",
         "latitude": 38.865029,
@@ -2340,9 +2340,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31065",
         "latitude": 38.880705,
@@ -2350,9 +2350,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31066",
         "latitude": 38.867262,
@@ -2360,9 +2360,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 22,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 10,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31269",
         "latitude": 38.887378,
@@ -2370,9 +2370,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31270",
         "latitude": 38.894851,
@@ -2380,9 +2380,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31118",
         "latitude": 38.917622,
@@ -2390,9 +2390,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31513",
         "latitude": 38.918155,
@@ -2400,9 +2400,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 28,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 4,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31271",
         "latitude": 38.892275,
@@ -2410,9 +2410,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 30,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 2,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31272",
         "latitude": 38.886978,
@@ -2420,9 +2420,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 10,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31633",
         "latitude": 38.887312,
@@ -2430,9 +2430,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 21,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31514",
         "latitude": 38.927497,
@@ -2450,9 +2450,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31068",
         "latitude": 38.856319,
@@ -2460,9 +2460,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31069",
         "latitude": 38.871822,
@@ -2470,9 +2470,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32001",
         "latitude": 38.985404,
@@ -2540,9 +2540,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32008",
         "latitude": 38.98954,
@@ -2570,9 +2570,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32012",
         "latitude": 38.99521,
@@ -2580,9 +2580,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32013",
         "latitude": 38.983525,
@@ -2590,9 +2590,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 17,
         "docSize": 32,
         "id": "32014",
         "latitude": 38.961763,
@@ -2600,9 +2600,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 1,
         "capacity": 24,
-        "docAvail": 32,
+        "docAvail": 31,
         "docSize": 32,
         "id": "31119",
         "latitude": 38.921074,
@@ -2610,9 +2610,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 28,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 4,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31634",
         "latitude": 38.87501,
@@ -2620,9 +2620,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31120",
         "latitude": 38.920387,
@@ -2630,9 +2630,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 22,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 10,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31635",
         "latitude": 38.876737,
@@ -2670,9 +2670,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32018",
         "latitude": 39.123513,
@@ -2680,9 +2680,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 17,
         "docSize": 32,
         "id": "32019",
         "latitude": 38.990249,
@@ -2730,9 +2730,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 17,
         "docSize": 32,
         "id": "32024",
         "latitude": 38.989724,
@@ -2740,9 +2740,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32025",
         "latitude": 38.975,
@@ -2750,9 +2750,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 24,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32026",
         "latitude": 38.977933,
@@ -2760,9 +2760,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 17,
         "docSize": 32,
         "id": "32027",
         "latitude": 38.992375,
@@ -2780,9 +2780,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32029",
         "latitude": 38.977093,
@@ -2820,9 +2820,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32033",
         "latitude": 39.102212,
@@ -2830,9 +2830,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32034",
         "latitude": 38.992679,
@@ -2840,9 +2840,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32035",
         "latitude": 38.999388,
@@ -2850,9 +2850,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 17,
         "docSize": 32,
         "id": "32036",
         "latitude": 38.997033,
@@ -2880,9 +2880,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 21,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 11,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31121",
         "latitude": 38.923583,
@@ -2890,9 +2890,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 8,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31636",
         "latitude": 38.90706,
@@ -2920,9 +2920,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 32,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 0,
         "docSize": 32,
         "id": "31273",
         "latitude": 38.878433,
@@ -2940,9 +2940,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31071",
         "latitude": 38.862753,
@@ -2950,9 +2950,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32039",
         "latitude": 38.999634,
@@ -2960,9 +2960,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "32040",
         "latitude": 38.96115,
@@ -2970,9 +2970,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 23,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 9,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31637",
         "latitude": 38.899703,
@@ -2980,9 +2980,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31072",
         "latitude": 38.837666,
@@ -2990,9 +2990,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31073",
         "latitude": 38.873219,
@@ -3000,9 +3000,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31074",
         "latitude": 38.869418,
@@ -3010,13 +3010,13 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 25,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 7,
         "docSize": 32,
         "id": "31313",
-        "latitude": 38.941154,
-        "longitude": -77.062036,
+        "latitude": 38.94113915653008,
+        "longitude": -77.061977237463,
         "nec": "NAN"
     },
     {
@@ -3060,9 +3060,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31638",
         "latitude": 38.900358,
@@ -3070,9 +3070,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 27,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31515",
         "latitude": 38.952369,
@@ -3080,9 +3080,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 24,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 8,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31408",
         "latitude": 38.975219,
@@ -3100,9 +3100,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31075",
         "latitude": 38.866471,
@@ -3130,9 +3130,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32046",
         "latitude": 38.964992,
@@ -3140,9 +3140,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32047",
         "latitude": 39.084379,
@@ -3150,9 +3150,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32048",
         "latitude": 38.984691,
@@ -3160,9 +3160,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31077",
         "latitude": 38.88992,
@@ -3170,9 +3170,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 20,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 12,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31314",
         "latitude": 38.903662690050474,
@@ -3180,9 +3180,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31081",
         "latitude": 38.804378,
@@ -3190,9 +3190,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31079",
         "latitude": 38.894941,
@@ -3200,9 +3200,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31078",
         "latitude": 38.869442,
@@ -3210,9 +3210,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 27,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 5,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31274",
         "latitude": 38.89824328774852,
@@ -3220,9 +3220,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31080",
         "latitude": 38.897612,
@@ -3230,9 +3230,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 24,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 8,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31275",
         "latitude": 38.901755,
@@ -3240,9 +3240,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31082",
         "latitude": 38.801111,
@@ -3270,9 +3270,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31085",
         "latitude": 38.820064,
@@ -3280,9 +3280,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31086",
         "latitude": 38.82595,
@@ -3290,9 +3290,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31087",
         "latitude": 38.820932,
@@ -3300,9 +3300,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31088",
         "latitude": 38.833077,
@@ -3310,9 +3310,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 9,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31089",
         "latitude": 38.890612,
@@ -3330,9 +3330,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 26,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 6,
         "docSize": 32,
         "id": "31090",
         "latitude": 38.865553,
@@ -3340,9 +3340,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31315",
         "latitude": 38.96454350924588,
@@ -3350,9 +3350,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 23,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 9,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31276",
         "latitude": 38.90366,
@@ -3360,9 +3360,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 24,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 8,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31277",
         "latitude": 38.89841,
@@ -3380,9 +3380,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 9,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31278",
         "latitude": 38.912648,
@@ -3390,9 +3390,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31091",
         "latitude": 38.859254,
@@ -3400,9 +3400,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31517",
         "latitude": 38.907908,
@@ -3410,9 +3410,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31092",
         "latitude": 38.896456,
@@ -3420,9 +3420,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31093",
         "latitude": 38.898984,
@@ -3440,9 +3440,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 20,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 12,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31279",
         "latitude": 38.898412,
@@ -3450,9 +3450,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31522",
         "latitude": 38.914751108831155,
@@ -3460,9 +3460,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 24,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31902",
         "latitude": 38.876528,
@@ -3470,9 +3470,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31095",
         "latitude": 38.86215024521491,
@@ -3480,9 +3480,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 22,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 10,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31293",
         "latitude": 38.902814,
@@ -3490,9 +3490,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 3,
+        "bikeAvail": 7,
         "capacity": 24,
-        "docAvail": 29,
+        "docAvail": 25,
         "docSize": 32,
         "id": "31280",
         "latitude": 38.913761,
@@ -3500,9 +3500,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31096",
         "latitude": 38.86612,
@@ -3510,9 +3510,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31639",
         "latitude": 38.89967,
@@ -3520,9 +3520,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 0,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 32,
         "docSize": 32,
         "id": "31281",
         "latitude": 38.90864,
@@ -3530,9 +3530,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31411",
         "latitude": 38.961339,
@@ -3540,9 +3540,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 23,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31712",
         "latitude": 38.894474,
@@ -3550,9 +3550,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 7,
         "capacity": 24,
-        "docAvail": 32,
+        "docAvail": 25,
         "docSize": 32,
         "id": "31640",
         "latitude": 38.896134,
@@ -3560,9 +3560,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31518",
         "latitude": 38.915604,
@@ -3570,9 +3570,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31316",
         "latitude": 38.946182,
@@ -3580,9 +3580,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32051",
         "latitude": 38.994113,
@@ -3600,9 +3600,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31900",
         "latitude": 38.898301,
@@ -3610,9 +3610,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31097",
         "latitude": 38.812718,
@@ -3620,9 +3620,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31098",
         "latitude": 38.80704,
@@ -3640,9 +3640,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32053",
         "latitude": 38.999378,
@@ -3650,9 +3650,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31901",
         "latitude": 38.884829,
@@ -3670,9 +3670,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31122",
         "latitude": 38.928893,
@@ -3680,9 +3680,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 10,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31282",
         "latitude": 38.912652,
@@ -3690,9 +3690,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32054",
         "latitude": 38.999679,
@@ -3700,9 +3700,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32055",
         "latitude": 38.979875,
@@ -3710,9 +3710,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31283",
         "latitude": 38.903658,
@@ -3720,9 +3720,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 4,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 28,
         "docSize": 32,
         "id": "31519",
         "latitude": 38.908643,
@@ -3730,9 +3730,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31811",
         "latitude": 38.831516,
@@ -3740,9 +3740,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 26,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 6,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31284",
         "latitude": 38.893511,
@@ -3760,9 +3760,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 13,
         "docSize": 32,
         "id": "32056",
         "latitude": 38.995681,
@@ -3770,9 +3770,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31903",
         "latitude": 38.799267,
@@ -3780,9 +3780,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 11,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31123",
         "latitude": 38.925284,
@@ -3790,9 +3790,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31910",
         "latitude": 38.822738,
@@ -3800,9 +3800,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 6,
+        "bikeAvail": 8,
         "capacity": 24,
-        "docAvail": 26,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31286",
         "latitude": 38.90843,
@@ -3810,9 +3810,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31287",
         "latitude": 38.88432272414662,
@@ -3820,9 +3820,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31318",
         "latitude": 38.947156,
@@ -3830,9 +3830,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 5,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 27,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31641",
         "latitude": 38.894972,
@@ -3840,9 +3840,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31908",
         "latitude": 38.828437,
@@ -3850,9 +3850,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31904",
         "latitude": 38.884859,
@@ -3860,9 +3860,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31905",
         "latitude": 38.880992,
@@ -3870,9 +3870,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31906",
         "latitude": 38.812711,
@@ -3880,9 +3880,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31913",
         "latitude": 38.82005823354218,
@@ -3890,9 +3890,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 20,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 12,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31288",
         "latitude": 38.890493,
@@ -3900,9 +3900,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 21,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 11,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31289",
         "latitude": 38.890544,
@@ -3910,9 +3910,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 24,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31290",
         "latitude": 38.888097,
@@ -3930,9 +3930,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31909",
         "latitude": 38.843422,
@@ -3940,9 +3940,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31642",
         "latitude": 38.903598,
@@ -3950,9 +3950,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31912",
         "latitude": 38.841291,
@@ -3960,9 +3960,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31914",
         "latitude": 38.797557,
@@ -3990,9 +3990,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 6,
+        "bikeAvail": 2,
         "capacity": 24,
-        "docAvail": 26,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31124",
         "latitude": 38.928552,
@@ -4000,9 +4000,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31291",
         "latitude": 38.901136451737045,
@@ -4020,9 +4020,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 32,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 0,
         "docSize": 32,
         "id": "31520",
         "latitude": 38.91263,
@@ -4040,9 +4040,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31812",
         "latitude": 38.870695,
@@ -4050,9 +4050,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32200",
         "latitude": 38.929261,
@@ -4070,9 +4070,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32203",
         "latitude": 38.919475,
@@ -4080,9 +4080,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32204",
         "latitude": 38.920939,
@@ -4090,9 +4090,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32205",
         "latitude": 38.924437,
@@ -4100,9 +4100,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32206",
         "latitude": 38.931911,
@@ -4120,9 +4120,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 18,
         "docSize": 32,
         "id": "32208",
         "latitude": 38.932636,
@@ -4170,9 +4170,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32213",
         "latitude": 38.955079,
@@ -4180,9 +4180,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32214",
         "latitude": 38.957037,
@@ -4190,9 +4190,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 20,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 12,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31643",
         "latitude": 38.884916,
@@ -4200,9 +4200,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32215",
         "latitude": 38.9492,
@@ -4210,9 +4210,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32216",
         "latitude": 38.959633,
@@ -4230,9 +4230,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31292",
         "latitude": 38.892441,
@@ -4260,9 +4260,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32219",
         "latitude": 38.955314,
@@ -4270,9 +4270,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32220",
         "latitude": 38.951443,
@@ -4280,9 +4280,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 19,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31917",
         "latitude": 38.89386,
@@ -4320,9 +4320,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32058",
         "latitude": 38.990874,
@@ -4330,9 +4330,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 3,
+        "bikeAvail": 0,
         "capacity": 24,
-        "docAvail": 29,
+        "docAvail": 32,
         "docSize": 32,
         "id": "31125",
         "latitude": 38.919086,
@@ -4350,9 +4350,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31412",
         "latitude": 38.957463,
@@ -4360,9 +4360,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31919",
         "latitude": 38.876695,
@@ -4380,9 +4380,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 8,
         "capacity": 24,
-        "docAvail": 23,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31645",
         "latitude": 38.9028773031307,
@@ -4390,9 +4390,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32057",
         "latitude": 39.014716,
@@ -4400,9 +4400,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32059",
         "latitude": 38.98265,
@@ -4410,9 +4410,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 13,
         "docSize": 32,
         "id": "32061",
         "latitude": 38.988101,
@@ -4430,9 +4430,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 14,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 18,
         "docSize": 32,
         "id": "32063",
         "latitude": 39.044887,
@@ -4500,9 +4500,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 30,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 2,
         "docSize": 32,
         "id": "31521",
         "latitude": 38.93293,
@@ -4510,9 +4510,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 17,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31294",
         "latitude": 38.88345,
@@ -4520,9 +4520,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 19,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 13,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32067",
         "latitude": 39.121327,
@@ -4530,9 +4530,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31295",
         "latitude": 38.905368,
@@ -4540,9 +4540,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 11,
         "capacity": 24,
-        "docAvail": 24,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31296",
         "latitude": 38.924088,
@@ -4550,9 +4550,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31920",
         "latitude": 38.888282,
@@ -4560,9 +4560,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31921",
         "latitude": 38.886048,
@@ -4570,9 +4570,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31923",
         "latitude": 38.858524,
@@ -4580,9 +4580,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32068",
         "latitude": 39.126,
@@ -4620,9 +4620,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 14,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31297",
         "latitude": 38.8995,
@@ -4630,9 +4630,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 12,
         "capacity": 24,
-        "docAvail": 18,
+        "docAvail": 20,
         "docSize": 32,
         "id": "31298",
         "latitude": 38.905424,
@@ -4640,9 +4640,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 4,
+        "bikeAvail": 7,
         "capacity": 24,
-        "docAvail": 28,
+        "docAvail": 25,
         "docSize": 32,
         "id": "31126",
         "latitude": 38.925636,
@@ -4650,9 +4650,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 13,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31299",
         "latitude": 38.912644,
@@ -4670,9 +4670,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 25,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 7,
         "docSize": 32,
         "id": "31320",
         "latitude": 38.936298,
@@ -4680,9 +4680,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 11,
         "capacity": 24,
-        "docAvail": 15,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31321",
         "latitude": 38.892244,
@@ -4690,9 +4690,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 10,
         "capacity": 24,
-        "docAvail": 21,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31127",
         "latitude": 38.899104,
@@ -4700,9 +4700,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 22,
+        "bikeAvail": 9,
         "capacity": 24,
-        "docAvail": 10,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31128",
         "latitude": 38.905303,
@@ -4730,9 +4730,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31813",
         "latitude": 38.84627,
@@ -4740,9 +4740,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31814",
         "latitude": 38.84377,
@@ -4760,9 +4760,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31816",
         "latitude": 38.836,
@@ -4770,9 +4770,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31817",
         "latitude": 38.824481,
@@ -4790,9 +4790,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31819",
         "latitude": 38.81909,
@@ -4800,9 +4800,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31715",
         "latitude": 38.883011,
@@ -4810,9 +4810,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 15,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31129",
         "latitude": 38.89635,
@@ -4820,9 +4820,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31646",
         "latitude": 38.88044,
@@ -4830,9 +4830,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 16,
         "capacity": 24,
-        "docAvail": 20,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31523",
         "latitude": 38.915,
@@ -4850,9 +4850,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31415",
         "latitude": 38.95674,
@@ -4860,9 +4860,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31647",
         "latitude": 38.89222,
@@ -4870,9 +4870,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31820",
         "latitude": 38.87335,
@@ -4960,9 +4960,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32082",
         "latitude": 39.00048,
@@ -5020,9 +5020,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 10,
         "docSize": 32,
         "id": "32404",
         "latitude": 38.936213,
@@ -5040,9 +5040,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 30,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 2,
         "docSize": 32,
         "id": "31648",
         "latitude": 38.870201045557025,
@@ -5060,9 +5060,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "32405",
         "latitude": 38.88994,
@@ -5070,9 +5070,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31822",
         "latitude": 38.855004,
@@ -5080,9 +5080,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31649",
         "latitude": 38.931991,
@@ -5090,9 +5090,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31322",
         "latitude": 38.917304,
@@ -5100,9 +5100,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31416",
         "latitude": 38.969489,
@@ -5110,9 +5110,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31650",
         "latitude": 38.876893,
@@ -5120,9 +5120,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "32406",
         "latitude": 38.782633,
@@ -5140,9 +5140,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31651",
         "latitude": 38.93165,
@@ -5150,9 +5150,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31652",
         "latitude": 38.876751,
@@ -5160,9 +5160,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 26,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 6,
         "docSize": 32,
         "id": "31417",
         "latitude": 38.948057,
@@ -5190,9 +5190,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31653",
         "latitude": 38.902674,
@@ -5200,9 +5200,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31654",
         "latitude": 38.876211,
@@ -5210,9 +5210,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31524",
         "latitude": 38.907444,
@@ -5220,9 +5220,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31655",
         "latitude": 38.897108,
@@ -5230,9 +5230,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31656",
         "latitude": 38.901935,
@@ -5240,9 +5240,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 19,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31657",
         "latitude": 38.892934,
@@ -5250,9 +5250,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 22,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31323",
         "latitude": 38.923389,
@@ -5260,9 +5260,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "32230",
         "latitude": 38.923780884125435,
@@ -5270,9 +5270,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31525",
         "latitude": 38.906299,
@@ -5280,9 +5280,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31658",
         "latitude": 38.897808,
@@ -5290,9 +5290,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 21,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31659",
         "latitude": 38.885908,
@@ -5300,9 +5300,9 @@
         "nec": "NAN"
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 30,
         "capacity": 24,
-        "docAvail": 16,
+        "docAvail": 2,
         "docSize": 32,
         "id": "31418",
         "latitude": 38.951596,
@@ -5327,6 +5327,66 @@
         "id": "31324",
         "latitude": 38.911268,
         "longitude": -77.041829,
+        "nec": "NAN"
+    },
+    {
+        "bikeAvail": 16,
+        "capacity": 24,
+        "docAvail": 16,
+        "docSize": 32,
+        "id": "32408",
+        "latitude": 38.959361,
+        "longitude": -76.946361,
+        "nec": "NAN"
+    },
+    {
+        "bikeAvail": 16,
+        "capacity": 24,
+        "docAvail": 16,
+        "docSize": 32,
+        "id": "32411",
+        "latitude": 38.975505,
+        "longitude": -76.952199,
+        "nec": "NAN"
+    },
+    {
+        "bikeAvail": 19,
+        "capacity": 24,
+        "docAvail": 13,
+        "docSize": 32,
+        "id": "32413",
+        "latitude": 38.939271,
+        "longitude": -76.955047,
+        "nec": "NAN"
+    },
+    {
+        "bikeAvail": 16,
+        "capacity": 24,
+        "docAvail": 16,
+        "docSize": 32,
+        "id": "32415",
+        "latitude": 38.7968,
+        "longitude": -77.0026,
+        "nec": "NAN"
+    },
+    {
+        "bikeAvail": 19,
+        "capacity": 24,
+        "docAvail": 13,
+        "docSize": 32,
+        "id": "32416",
+        "latitude": 38.961737,
+        "longitude": -76.995922,
+        "nec": "NAN"
+    },
+    {
+        "bikeAvail": 16,
+        "capacity": 24,
+        "docAvail": 16,
+        "docSize": 32,
+        "id": "32417",
+        "latitude": 38.9698,
+        "longitude": -76.9493,
         "nec": "NAN"
     }
 ]

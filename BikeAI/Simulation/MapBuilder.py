@@ -10,8 +10,9 @@ from dateutil import rrule
 import os
 import gc
 import random
-
-END_LOCATION_RADIUS = 1
+random.seed(78787)
+#28
+END_LOCATION_RADIUS_DIVIDE_BY_10 = 3
 
 
 class SimMap:
@@ -63,14 +64,24 @@ class SimMap:
             self.stations[row['id']] = Station(id=row['id'], longitude=row['longitude'],
                                                 latitude=row['latitude'], nec=row['nec'],
                                                 bikeAvail=16, docAvail=16,
-                                                capacity=24)
+                                                capacity=32)
 
 
     def generateRandomLocaton(self, stationId):
-        #longitude = self.stations[str(stationId)].longitude + random.randint(0, END_LOCATION_RADIUS)
-        #latitude = self.stations[str(stationId)].latitude + random.randint(0, END_LOCATION_RADIUS)
-        #return [longitude, latitude]
-        return [random.randint(0, 100), random.randint(0, 100)]
+        if stationId in self.stations:
+            while True:
+                longitude = self.stations[str(stationId)].longitude + (random.randint(END_LOCATION_RADIUS_DIVIDE_BY_10 * -1, END_LOCATION_RADIUS_DIVIDE_BY_10)/69)
+                if 90 > longitude > -90:
+                    break
+
+            while True:
+                latitude = self.stations[str(stationId)].latitude + (random.randint(END_LOCATION_RADIUS_DIVIDE_BY_10 * -1, END_LOCATION_RADIUS_DIVIDE_BY_10)/69)
+                if 90 > latitude > -90:
+                    break
+
+            return [longitude, latitude]
+        else:
+            return [random.randint(0, 100), random.randint(0, 100)]
 
 
     def generateStationJson(self, outFile):
