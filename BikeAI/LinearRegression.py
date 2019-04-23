@@ -8,9 +8,11 @@ import pickle
 
 pbar = ProgressBar()
 
-data = pd.read_csv('./parsedData/Parsed2018_withzero.csv')
-X = data.iloc[:, [0, 1, 3, 4, 5]]
+data = pd.read_csv('./finalWeatherData.csv')
+X = data.iloc[:, [1, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17]]
 Y = data.iloc[:, 2]
+
+print(X)
 
 x_train, x_test, y_train, y_test = tts(X, Y, test_size=0.2)
 
@@ -35,7 +37,7 @@ testPredDic = {'test': y_test.values, 'predict': y_predict, 'difference': y_diff
 path = 'LinearRegressionOuts'
 
 df = pd.DataFrame(data=testPredDic)
-df.to_csv(os.path.join(path, '2018_LinearRegressionOutEC2.csv'))
+df.to_csv(os.path.join(path, '2018_LinearRegressionOut_weather.csv'))
 
 eCoeff = reg.intercept_
 weights = reg.coef_
