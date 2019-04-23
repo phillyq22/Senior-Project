@@ -3,7 +3,7 @@ from EndLocation import *
 from BikeAlg import *
 from Station import Station
 from User import User
-from Scorer import Scorer
+import Scorer
 from datetime import datetime
 from dateutil import rrule
 
@@ -18,6 +18,7 @@ nonErrors = 0
 simMap = SimMap()
 simMap.takeStations()
 simMap.takeUsers()
+simMap.calculateStationBaseline()
 STATIONLIST = list(simMap.stations.values())
 
 
@@ -33,6 +34,18 @@ for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):
         for user in simMap.usersStart[dateString]:
             print(user)
             print('START STATION:  ', user.startStation)
+
+            ba = BikeAlg()
+            loc = EndLocation(user.startLocation[0], user.startLocation[1])
+            ba.preProcess(STATIONLIST, loc)
+            ba.getWithin(loc, STATIONRADIUS)
+
+            for startStation in loc.sortedAdj: #LIST STATION CLOSE BY
+                startStationId = startStation.station.id
+                if simMap.stations[startStationId].isBikeAvail():
+                    user.startStation = startStationId
+                    break
+
             if user.startStation in simMap.stations:
                 if simMap.stations[user.startStation].isBikeAvail():
                     simMap.stations[user.startStation].decreaseBikeAvail()
@@ -89,11 +102,11 @@ print('Doc  Unavail Stations: ', set(stationsDocUnavail))
 print('Bike Unavail Errors: ', BikeUnavailErrors)
 print('Bike  Unavail Stations: ', set(stationsBikeUnavail))
 print('Nonerrors: ', nonErrors)
-
+print('prp: ', Station.prop)
 with open('StationJson/StationDataOut.json', 'w') as outfile:
     simMap.generateStationJson(outfile)
 
 #print(list(simMap.stations.keys()))
 
-Scorer().scorer('StationJson/StationDataOut.json')
+Scorer.scorer('StationJson/StationDataOut.json')
 

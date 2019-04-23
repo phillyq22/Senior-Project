@@ -13,7 +13,7 @@ def scorer(path):
     with open(path) as json_file:
         data = json.load(json_file)
         for p in data:
-            ratio.append(p["bikeAvail"] / p["docAvail"])
+            ratio.append(p["bikeAvail"] / p["capacity"])
             avail.append(p["bikeAvail"])
         print("Average bike proportion: " + str(round(statistics.mean(ratio) * 100, 2)) + "%")
         print("Maximum bikes available: " + str(max(avail)))
@@ -27,5 +27,5 @@ def histogram(inp):
         print('{0:5f} {1}'.format(round(i * 100, 2), '+' * count[i]))
 
 
-scorer("data.txt")
+#scorer("data.txt")
 
