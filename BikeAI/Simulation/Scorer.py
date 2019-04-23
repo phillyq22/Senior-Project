@@ -13,9 +13,13 @@ def scorer(path):
     with open(path) as json_file:
         data = json.load(json_file)
         for p in data:
-
-            ratio.append(round((p["bikeAvail"] / (p["docAvail"] + p["bikeAvail"])), 2) * 100)
-            avail.append(p["bikeAvail"])
+            try:
+                ratio.append(round((p["bikeAvail"] / (p["docAvail"] + p["bikeAvail"])), 2) * 100)
+                avail.append(p["bikeAvail"])
+            except:
+                print("Check on station: ", p["id"])
+                #print("Doc: ", p["docAvail"])
+                #print("Bike: ", p["bikeAvail"])
         print("Average bike proportion: " + str(statistics.mean(ratio)) + "%")
         print("Maximum bikes available: " + str(max(avail)))
         print("Minimum bikes available: " + str(min(avail)))
