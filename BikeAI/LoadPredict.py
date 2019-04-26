@@ -3,18 +3,19 @@ import pickle
 
 reg = pickle.load(open("file", "rb"))
 
-maxSusWind = 12.3
-maxTemp = 80.0
-maxWind = 17.0
+maxSusWind = 17.26
+maxTemp = 25.9
+maxWind = 0.0
 meanDew = 0.0
-meanTemp = 75.0
-meanWind = 14.5
-minTemp = 65.0
+meanTemp = 17.9
+meanWind = 8.17
+minTemp = 13.3
 snowDepth = 0.0
 totalPrec = 0.0
 visibility = 0.0
 
-
+defaultMonth = 6
+defaultDayOfWeek = 5
 
 
 def testSingleStation(startStation, month, dayOfWeek, time) :
@@ -28,13 +29,14 @@ def testSingleStation(startStation, month, dayOfWeek, time) :
            'meanTemp': [meanTemp],'meanWind': [meanWind], 'minTemp': [minTemp], 'snowDepth': [snowDepth],
            'totalPrec': [totalPrec], 'visibility': [visibility]}
     newdf = DataFrame(data=dic)
-    return reg.predict(newdf).round()[0]
+    return round(reg.predict(newdf)[0])
+    #return reg.score().round()[0]
 
-def twentyFourHourTest(startStation, month, dayOfWeek):
+
+def twentyFourHourTest(startStation, month = defaultMonth, dayOfWeek = defaultDayOfWeek):
     arrayOfDemand = []
     i = 0000
     x = 0
-
     for x in range(24):
         arrayOfDemand.append(testSingleStation(startStation=startStation, month=month, dayOfWeek=dayOfWeek, time=i))
         x = x + 1
@@ -45,6 +47,6 @@ for i in range(24):
     print(i)
     i = i + 1
 '''
-print(twentyFourHourTest(31021, 12, 25))
+print(twentyFourHourTest(31068)) #31021
 
 #print(testSingleStation(startStation=31021, month=3, dayOfWeek=2, time=120))
