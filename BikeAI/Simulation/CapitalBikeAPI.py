@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 import sqlite3 as lite
-
+import json
 '''
 Allows for creation and connection to the bikeAPI database.
 
@@ -90,8 +90,12 @@ class CapitalBikeAPI:
         data['stations'] = []
 
         for row in rows:
+            #demand = calcDemand(id=row[0])
             data['stations'].append({'id': row[0], 'longitude': row[1], 'latitude': row[2], 'bikeAvail': row[3],
-                                     'capacity': row[4], 'docAvail': row[5], 'nec': row[6]})
+                                     'capacity': row[4], 'docAvail': row[5], 'demand': [1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3]})
+        text = json.dumps(data)
+        with open('data.json', 'w') as text_file:
+            text_file.write(text)
         return data
 
     def get_cur(self):
@@ -129,10 +133,9 @@ rows = cur.fetchall()
 for row in rows:
     print(row)
 
-
-#Write your sql query here. stations and station_status are the two tables
-cur.execute("select * from station_status join stations using(stationID) where bikesAvailable = 0")
-rows = cur.fetchall()
-for row in rows:
-    print(row)
 '''
+#Write your sql query here. stations and station_status are the two tables
+cb = CapitalBikeAPI()
+#cb.execute_sql("select * from station_status join stations using(stationID)")
+print(cb.create_simulation_json())
+
