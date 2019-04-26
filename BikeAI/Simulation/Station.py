@@ -9,7 +9,7 @@ class MyEncoder(JSONEncoder):
 class Station:
     prop = 0
 
-    def __init__(self, id="null", capacity="null", longitude="null", latitude="null", nec="null", bikeAvail="null", docAvail="null", jsonText='No Json'):
+    def __init__(self, id="null", capacity="null", longitude="null", latitude="null", demand="null", bikeAvail="null", docAvail="null", jsonText='No Json'):
 
         if jsonText != 'No Json':
             self.__dict__ = json.loads(jsonText)
@@ -19,7 +19,7 @@ class Station:
             self.capacity = capacity
             self.longitude = longitude
             self.latitude = latitude
-            self.nec = nec
+            self.demand = demand
             self.bikeAvail = bikeAvail
             self.docSize = bikeAvail + docAvail
             self.docAvail = docAvail
@@ -50,5 +50,9 @@ class Station:
 
     def isDocAvail(self):
         return self.docAvail > 0
+
+    def calcNec(self, time):
+        target = self.prop * self.docSize
+        return target - (self.bikeAvail - self.demand[time])
 
 

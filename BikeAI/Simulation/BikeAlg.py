@@ -20,12 +20,12 @@ class BikeAlg:
         #sort sortedAdj for location
         loc.sortedAdj.sort()
 
-    def getSuggest(self, loc, dist):
+    def getSuggest(self, loc, dist, time):
 
         size = len(loc.sortedAdj)
         i = 0
         while i < size and loc.sortedAdj[i].dist <= dist:
-            sug = loc.sortedAdj[i].prio*10 + loc.sortedAdj[i].station.nec*10*loc.sortedAdj[i].station.nec*(10)
+            sug = loc.sortedAdj[i].prio*10 + loc.sortedAdj[i].station.calcNec(time)*10*loc.sortedAdj[i].station.calcNec(time)*(10)
             sp = SugPair(loc.sortedAdj[i].station, sug)
             #test distance s.sortedAdj.get(i).dis
             loc.sortedSug.append(sp)
