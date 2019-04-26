@@ -135,7 +135,7 @@ for row in rows:
 
 '''
 #Write your sql query here. stations and station_status are the two tables
-cb = CapitalBikeAPI()
+#cb = CapitalBikeAPI()
 #cb.execute_sql("select * from station_status join stations using(stationID)")
-print(cb.create_simulation_json())
+#print(cb.create_simulation_json())
 

@@ -77,7 +77,7 @@ for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):
 
 
             # THIS IS WHERE WE TELL THE USER TO GO.
-            for endStation in loc.sortedAdj: #LIST STATION CLOSE BY
+            for endStation in loc.sortedSug: #LIST STATION CLOSE BY
                 endStationId = endStation.station.id
                 if simMap.stations[endStationId].isDocAvail():
                     user.endStation = endStationId
