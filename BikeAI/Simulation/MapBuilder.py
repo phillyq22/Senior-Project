@@ -10,8 +10,9 @@ from dateutil import rrule
 import os
 import gc
 import random
-
-END_LOCATION_RADIUS = 1
+random.seed(78787)
+#28
+END_LOCATION_RADIUS_DIVIDE_BY_10 = 3
 
 
 class SimMap:
@@ -31,19 +32,20 @@ class SimMap:
                     userDic = {'StartDate': [], 'EndDate': [], 'StartStation': [], 'EndStation': []}
                     date = df.index[i]
                     duration, startDate, endDate, startStationNumber, startStationLoc, endSationNumber, endStationLoc, bikeNumber, memberType = row
-                    userDic.get('StartDate').append(str(startDate)[:-3])
-                    userDic.get('EndDate').append(str(endDate)[:-3])
-                    userDic.get('StartStation').append(str(startStationNumber))
-                    userDic.get('EndStation').append(str(endSationNumber))
+                    if str(startStationNumber) in self.stations and str(endSationNumber) in self.stations:
+                        userDic.get('StartDate').append(str(startDate)[:-3])
+                        userDic.get('EndDate').append(str(endDate)[:-3])
+                        userDic.get('StartStation').append(str(startStationNumber))
+                        userDic.get('EndStation').append(str(endSationNumber))
 
-                    newUser = User(str(startStationNumber), str(endSationNumber), self.generateRandomLocaton(str(endSationNumber)),
-                                   str(endDate)[:-3])
+                        newUser = User(str(startStationNumber), str(endSationNumber), self.generateRandomLocaton(str(endSationNumber)),
+                                       str(endDate)[:-3], [self.stations[str(startStationNumber)].longitude, self.stations[str(startStationNumber)].latitude])
 
-                    if str(startDate)[:-3] in self.usersStart:
-                        self.usersStart[str(startDate)[:-3]].append(newUser)
-                    else:
-                        self.usersStart[str(startDate)[:-3]] = []
-                        self.usersStart[str(startDate)[:-3]].append(newUser)
+                        if str(startDate)[:-3] in self.usersStart:
+                            self.usersStart[str(startDate)[:-3]].append(newUser)
+                        else:
+                            self.usersStart[str(startDate)[:-3]] = []
+                            self.usersStart[str(startDate)[:-3]].append(newUser)
         #print(list(self.users.keys())[0])
         #print(self.users[list(self.users.keys())[0]])
 
@@ -53,28 +55,47 @@ class SimMap:
         data = data['stations']
         #print(data)
         for row in data:
-            '''
+
             self.stations[row['id']] = Station(id=row['id'], longitude=row['longitude'],
                                                       latitude=row['latitude'], nec=row['nec'],
                                                       bikeAvail=row['bikeAvail'], docAvail=row['docAvail'],
                                                       capacity=row['capacity'])
-                                                      '''
 
+            '''
             self.stations[row['id']] = Station(id=row['id'], longitude=row['longitude'],
                                                 latitude=row['latitude'], nec=row['nec'],
                                                 bikeAvail=16, docAvail=16,
-                                                capacity=24)
-
+                                                capacity=32)
+            '''
 
     def generateRandomLocaton(self, stationId):
-        #longitude = self.stations[str(stationId)].longitude + random.randint(0, END_LOCATION_RADIUS)
-        #latitude = self.stations[str(stationId)].latitude + random.randint(0, END_LOCATION_RADIUS)
-        #return [longitude, latitude]
-        return [random.randint(0, 100), random.randint(0, 100)]
+        if stationId in self.stations:
+            while True:
+                longitude = self.stations[str(stationId)].longitude + (random.randint(END_LOCATION_RADIUS_DIVIDE_BY_10 * -1, END_LOCATION_RADIUS_DIVIDE_BY_10)/69)
+                if 90 > longitude > -90:
+                    break
+
+            while True:
+                latitude = self.stations[str(stationId)].latitude + (random.randint(END_LOCATION_RADIUS_DIVIDE_BY_10 * -1, END_LOCATION_RADIUS_DIVIDE_BY_10)/69)
+                if 90 > latitude > -90:
+                    break
+
+            return [longitude, latitude]
+        else:
+            return [random.randint(0, 100), random.randint(0, 100)]
 
 
     def generateStationJson(self, outFile):
         return JsonCreator.dump(list(self.stations.values()), outFile, default=lambda o: o.toJSON(), sort_keys=True, indent=4)
+
+    def calculateStationBaseline(self):
+        totalDocSize = 0
+        totalBikes = 0
+        for station in list(self.stations.values()):
+            totalDocSize += station.capacity
+            totalBikes += station.bikeAvail
+
+        Station.prop = (totalBikes/totalDocSize)
 
 
 '''

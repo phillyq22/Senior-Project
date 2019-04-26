@@ -17,8 +17,8 @@ simMap.takeStations()
 simMap.takeUsers()
 
 
-startDay = datetime(2018, 1, 1, 10)
-endYear = datetime(2018, 1, 2, 10)
+startDay = datetime(2018, 1, 1)
+endYear = datetime(2018, 1, 2)
 
 
 for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):

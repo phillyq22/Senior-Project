@@ -11,7 +11,7 @@ class BikeAlg:
         self.stationList = stationList
         size = len(stationList)
         for i in range(size):
-            stationLoc = (stationList[i].x, stationList[i].y)
+            stationLoc = (stationList[i].longitude, stationList[i].latitude)
             endLoc = (loc.x, loc.y)
             dist = great_circle(stationLoc, endLoc).miles
             # create pair and store at sortedAdjacentIDs[j]
