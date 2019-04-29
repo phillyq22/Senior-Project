@@ -25,7 +25,7 @@ class BikeAlg:
         size = len(loc.sortedAdj)
         i = 0
         while i < size and loc.sortedAdj[i].dist <= dist:
-            sug = loc.sortedAdj[i].prio*10 + loc.sortedAdj[i].station.calcNec(time)*10*loc.sortedAdj[i].station.calcNec(time)*(10)
+            sug = loc.sortedAdj[i].prio*10 + loc.sortedAdj[i].station.calcNec(time)*10000000000000*loc.sortedAdj[i].station.calcNec(time)*(10)
             sp = SugPair(loc.sortedAdj[i].station, sug)
             #test distance s.sortedAdj.get(i).dis
             loc.sortedSug.append(sp)
