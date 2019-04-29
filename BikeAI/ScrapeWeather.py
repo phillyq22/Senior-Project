@@ -6,16 +6,31 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from dateutil import rrule
 
+
+'''
+Creates a dictionary to input weather data that is being scraped
+'''
 weatherDic = {'MinTemp': [], 'MeanTemp': [], 'MaxTemp': [], 'MeanSeaPreassure': [], 'MeanDew': [],
               'TotalPrecpitation': [], 'Visibility': [], 'SnowDepth': [], 'MeanWind': [], 'MaxSustainedWind': [],
               'MaxWind': []}
 
+'''
+Start day and year for scraping weather data
+'''
 startDay = datetime(2018, 1, 1)
 endYear = datetime(2019, 1, 1)
 
+'''
+Scrapes website for weather data based on a certain day or year
+'''
+
+#states whether data was sucessfully scraped (helps with when sever is hit too hard and need a buffer)
 worked = False
+
+#scrapes for each day within
 for dt in rrule.rrule(rrule.DAILY, dtstart=startDay, until=endYear):
     worked = False
+    #pulls while it has not worked
     while worked == False:
         try:
             headers = {
