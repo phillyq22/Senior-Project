@@ -7,7 +7,7 @@ import Scorer
 from datetime import datetime
 from dateutil import rrule
 
-STATIONRADIUS = 5
+STATIONRADIUS = 1
 missingStations = []
 stationsDocUnavail = []
 stationsBikeUnavail = []

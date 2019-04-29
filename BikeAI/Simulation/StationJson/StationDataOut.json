@@ -1,6 +1,6 @@
 [
     {
-        "bikeAvail": 2,
+        "bikeAvail": 4,
         "capacity": 32,
         "demand": [
             1,
@@ -28,14 +28,14 @@
             2,
             3
         ],
-        "docAvail": 30,
+        "docAvail": 28,
         "docSize": 32,
         "id": "31204",
         "latitude": 38.8963,
         "longitude": -77.045
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 3,
         "capacity": 32,
         "demand": [
             1,
@@ -63,14 +63,14 @@
             2,
             3
         ],
-        "docAvail": 30,
+        "docAvail": 29,
         "docSize": 32,
         "id": "31205",
         "latitude": 38.9008,
         "longitude": -77.047
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -98,7 +98,7 @@
             2,
             3
         ],
-        "docAvail": 20,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31215",
         "latitude": 38.9022212,
@@ -140,7 +140,7 @@
         "longitude": -77.029822
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 2,
         "capacity": 32,
         "demand": [
             1,
@@ -168,14 +168,14 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31233",
         "latitude": 38.902061,
         "longitude": -77.038322
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -203,14 +203,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31000",
         "latitude": 38.858971,
         "longitude": -77.05323
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -238,14 +238,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31001",
         "latitude": 38.85725,
         "longitude": -77.05332
     },
     {
-        "bikeAvail": 6,
+        "bikeAvail": 7,
         "capacity": 32,
         "demand": [
             1,
@@ -273,14 +273,14 @@
             2,
             3
         ],
-        "docAvail": 26,
+        "docAvail": 25,
         "docSize": 32,
         "id": "31002",
         "latitude": 38.856425,
         "longitude": -77.049232
     },
     {
-        "bikeAvail": 7,
+        "bikeAvail": 8,
         "capacity": 32,
         "demand": [
             1,
@@ -308,14 +308,14 @@
             2,
             3
         ],
-        "docAvail": 25,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31003",
         "latitude": 38.86017,
         "longitude": -77.049593
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -343,14 +343,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31004",
         "latitude": 38.857866,
         "longitude": -77.05949
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -378,14 +378,14 @@
             2,
             3
         ],
-        "docAvail": 19,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31005",
         "latitude": 38.862303,
         "longitude": -77.059936
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -413,14 +413,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31006",
         "latitude": 38.8637,
         "longitude": -77.0633
     },
     {
-        "bikeAvail": 5,
+        "bikeAvail": 8,
         "capacity": 32,
         "demand": [
             1,
@@ -448,14 +448,14 @@
             2,
             3
         ],
-        "docAvail": 27,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31007",
         "latitude": 38.85740496261504,
         "longitude": -77.05113172531128
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 11,
         "capacity": 32,
         "demand": [
             1,
@@ -483,81 +483,11 @@
             2,
             3
         ],
-        "docAvail": 22,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31009",
         "latitude": 38.848466,
         "longitude": -77.051514
-    },
-    {
-        "bikeAvail": 7,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 25,
-        "docSize": 32,
-        "id": "31010",
-        "latitude": 38.8426,
-        "longitude": -77.0502
-    },
-    {
-        "bikeAvail": 7,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 25,
-        "docSize": 32,
-        "id": "31011",
-        "latitude": 38.8533,
-        "longitude": -77.0498
     },
     {
         "bikeAvail": 9,
@@ -590,12 +520,12 @@
         ],
         "docAvail": 23,
         "docSize": 32,
-        "id": "31012",
-        "latitude": 38.850688,
-        "longitude": -77.05152
+        "id": "31010",
+        "latitude": 38.8426,
+        "longitude": -77.0502
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 9,
         "capacity": 32,
         "demand": [
             1,
@@ -623,7 +553,77 @@
             2,
             3
         ],
-        "docAvail": 30,
+        "docAvail": 23,
+        "docSize": 32,
+        "id": "31011",
+        "latitude": 38.8533,
+        "longitude": -77.0498
+    },
+    {
+        "bikeAvail": 11,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 21,
+        "docSize": 32,
+        "id": "31012",
+        "latitude": 38.850688,
+        "longitude": -77.05152
+    },
+    {
+        "bikeAvail": 3,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 29,
         "docSize": 32,
         "id": "31100",
         "latitude": 38.9003,
@@ -700,41 +700,6 @@
         "longitude": -77.027822
     },
     {
-        "bikeAvail": 0,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 32,
-        "docSize": 32,
-        "id": "31103",
-        "latitude": 38.926088,
-        "longitude": -77.036536
-    },
-    {
         "bikeAvail": 2,
         "capacity": 32,
         "demand": [
@@ -765,79 +730,44 @@
         ],
         "docAvail": 30,
         "docSize": 32,
+        "id": "31103",
+        "latitude": 38.926088,
+        "longitude": -77.036536
+    },
+    {
+        "bikeAvail": 3,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 29,
+        "docSize": 32,
         "id": "31104",
         "latitude": 38.922925,
         "longitude": -77.042581
-    },
-    {
-        "bikeAvail": 0,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 32,
-        "docSize": 32,
-        "id": "31105",
-        "latitude": 38.9268,
-        "longitude": -77.0322
-    },
-    {
-        "bikeAvail": 7,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 25,
-        "docSize": 32,
-        "id": "31106",
-        "latitude": 38.923203,
-        "longitude": -77.047637
     },
     {
         "bikeAvail": 1,
@@ -869,6 +799,76 @@
             3
         ],
         "docAvail": 31,
+        "docSize": 32,
+        "id": "31105",
+        "latitude": 38.9268,
+        "longitude": -77.0322
+    },
+    {
+        "bikeAvail": 9,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 23,
+        "docSize": 32,
+        "id": "31106",
+        "latitude": 38.923203,
+        "longitude": -77.047637
+    },
+    {
+        "bikeAvail": 2,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 30,
         "docSize": 32,
         "id": "31107",
         "latitude": 38.9319,
@@ -910,7 +910,7 @@
         "longitude": -77.0178
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 1,
         "capacity": 32,
         "demand": [
             1,
@@ -938,7 +938,7 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 31,
         "docSize": 32,
         "id": "31201",
         "latitude": 38.90985,
@@ -1015,41 +1015,6 @@
         "longitude": -77.0323
     },
     {
-        "bikeAvail": 0,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 32,
-        "docSize": 32,
-        "id": "31400",
-        "latitude": 38.936043,
-        "longitude": -77.024649
-    },
-    {
         "bikeAvail": 1,
         "capacity": 32,
         "demand": [
@@ -1080,12 +1045,12 @@
         ],
         "docAvail": 31,
         "docSize": 32,
-        "id": "31401",
-        "latitude": 38.9375,
-        "longitude": -77.0328
+        "id": "31400",
+        "latitude": 38.936043,
+        "longitude": -77.024649
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 3,
         "capacity": 32,
         "demand": [
             1,
@@ -1113,7 +1078,42 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 29,
+        "docSize": 32,
+        "id": "31401",
+        "latitude": 38.9375,
+        "longitude": -77.0328
+    },
+    {
+        "bikeAvail": 21,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 11,
         "docSize": 32,
         "id": "31502",
         "latitude": 38.9346,
@@ -1155,7 +1155,7 @@
         "longitude": -77.019027
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 29,
         "capacity": 32,
         "demand": [
             1,
@@ -1183,14 +1183,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 3,
         "docSize": 32,
         "id": "31601",
         "latitude": 38.8896,
         "longitude": -76.9769
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 1,
         "capacity": 32,
         "demand": [
             1,
@@ -1218,7 +1218,7 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 31,
         "docSize": 32,
         "id": "31602",
         "latitude": 38.9308,
@@ -1260,7 +1260,7 @@
         "longitude": -76.96657240390778
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -1288,7 +1288,7 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31305",
         "latitude": 38.934267,
@@ -1400,7 +1400,7 @@
         "longitude": -76.941877
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 20,
         "capacity": 32,
         "demand": [
             1,
@@ -1428,14 +1428,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31801",
         "latitude": 38.862669,
         "longitude": -76.994637
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 25,
         "capacity": 32,
         "demand": [
             1,
@@ -1463,14 +1463,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 7,
         "docSize": 32,
         "id": "31802",
         "latitude": 38.867373,
         "longitude": -76.988039
     },
     {
-        "bikeAvail": 3,
+        "bikeAvail": 4,
         "capacity": 32,
         "demand": [
             1,
@@ -1498,14 +1498,14 @@
             2,
             3
         ],
-        "docAvail": 29,
+        "docAvail": 28,
         "docSize": 32,
         "id": "31206",
         "latitude": 38.8952,
         "longitude": -77.0436
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -1533,7 +1533,7 @@
             2,
             3
         ],
-        "docAvail": 19,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31500",
         "latitude": 38.919077,
@@ -1610,7 +1610,7 @@
         "longitude": -77.0222
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 11,
         "capacity": 32,
         "demand": [
             1,
@@ -1638,14 +1638,14 @@
             2,
             3
         ],
-        "docAvail": 24,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31209",
         "latitude": 38.8743,
         "longitude": -77.0057
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 3,
         "capacity": 32,
         "demand": [
             1,
@@ -1673,7 +1673,7 @@
             2,
             3
         ],
-        "docAvail": 30,
+        "docAvail": 29,
         "docSize": 32,
         "id": "31110",
         "latitude": 38.9154,
@@ -1715,7 +1715,7 @@
         "longitude": -77.0222
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -1743,14 +1743,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31013",
         "latitude": 38.85438051517749,
         "longitude": -77.05341160297394
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -1778,81 +1778,11 @@
             2,
             3
         ],
-        "docAvail": 23,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31208",
         "latitude": 38.8763,
         "longitude": -77.0037
-    },
-    {
-        "bikeAvail": 2,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 30,
-        "docSize": 32,
-        "id": "31200",
-        "latitude": 38.9101,
-        "longitude": -77.0444
-    },
-    {
-        "bikeAvail": 9,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 23,
-        "docSize": 32,
-        "id": "31603",
-        "latitude": 38.9057,
-        "longitude": -77.0056
     },
     {
         "bikeAvail": 3,
@@ -1885,12 +1815,12 @@
         ],
         "docAvail": 29,
         "docSize": 32,
-        "id": "31212",
-        "latitude": 38.90534,
-        "longitude": -77.046774
+        "id": "31200",
+        "latitude": 38.9101,
+        "longitude": -77.0444
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 12,
         "capacity": 32,
         "demand": [
             1,
@@ -1918,7 +1848,77 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 20,
+        "docSize": 32,
+        "id": "31603",
+        "latitude": 38.9057,
+        "longitude": -77.0056
+    },
+    {
+        "bikeAvail": 4,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 28,
+        "docSize": 32,
+        "id": "31212",
+        "latitude": 38.90534,
+        "longitude": -77.046774
+    },
+    {
+        "bikeAvail": 2,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 30,
         "docSize": 32,
         "id": "31213",
         "latitude": 38.90276,
@@ -1960,7 +1960,7 @@
         "longitude": -77.015289
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 15,
         "capacity": 32,
         "demand": [
             1,
@@ -1988,14 +1988,14 @@
             2,
             3
         ],
-        "docAvail": 20,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31605",
         "latitude": 38.8851,
         "longitude": -77.0023
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 26,
         "capacity": 32,
         "demand": [
             1,
@@ -2023,14 +2023,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 6,
         "docSize": 32,
         "id": "31606",
         "latitude": 38.8803,
         "longitude": -76.9862
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 25,
         "capacity": 32,
         "demand": [
             1,
@@ -2058,14 +2058,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 7,
         "docSize": 32,
         "id": "31607",
         "latitude": 38.88291548476762,
         "longitude": -76.98790669441223
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 2,
         "capacity": 32,
         "demand": [
             1,
@@ -2093,14 +2093,14 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31214",
         "latitude": 38.9121,
         "longitude": -77.0387
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -2128,14 +2128,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31300",
         "latitude": 38.944551,
         "longitude": -77.063896
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 9,
         "capacity": 32,
         "demand": [
             1,
@@ -2163,14 +2163,14 @@
             2,
             3
         ],
-        "docAvail": 24,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31503",
         "latitude": 38.9126,
         "longitude": -77.0135
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 18,
         "capacity": 32,
         "demand": [
             1,
@@ -2198,14 +2198,14 @@
             2,
             3
         ],
-        "docAvail": 19,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31608",
         "latitude": 38.8792,
         "longitude": -76.9953
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -2233,14 +2233,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31301",
         "latitude": 38.938736,
         "longitude": -77.087171
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -2268,14 +2268,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31302",
         "latitude": 38.934881,
         "longitude": -77.072755
     },
     {
-        "bikeAvail": 5,
+        "bikeAvail": 6,
         "capacity": 32,
         "demand": [
             1,
@@ -2303,14 +2303,14 @@
             2,
             3
         ],
-        "docAvail": 27,
+        "docAvail": 26,
         "docSize": 32,
         "id": "31402",
         "latitude": 38.947774,
         "longitude": -77.032818
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -2338,7 +2338,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31804",
         "latitude": 38.865784,
@@ -2380,7 +2380,7 @@
         "longitude": -76.971015
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -2408,7 +2408,7 @@
             2,
             3
         ],
-        "docAvail": 21,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31610",
         "latitude": 38.886952,
@@ -2520,7 +2520,7 @@
         "longitude": -77.02824175357819
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -2548,14 +2548,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31501",
         "latitude": 38.933668,
         "longitude": -76.991016
     },
     {
-        "bikeAvail": 3,
+        "bikeAvail": 5,
         "capacity": 32,
         "demand": [
             1,
@@ -2583,7 +2583,7 @@
             2,
             3
         ],
-        "docAvail": 29,
+        "docAvail": 27,
         "docSize": 32,
         "id": "31220",
         "latitude": 38.894919,
@@ -2660,7 +2660,7 @@
         "longitude": -77.026013
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -2688,14 +2688,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31211",
         "latitude": 38.897293,
         "longitude": -77.05557
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -2723,14 +2723,14 @@
             2,
             3
         ],
-        "docAvail": 21,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31613",
         "latitude": 38.884,
         "longitude": -76.995397
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 3,
         "capacity": 32,
         "demand": [
             1,
@@ -2758,14 +2758,14 @@
             2,
             3
         ],
-        "docAvail": 30,
+        "docAvail": 29,
         "docSize": 32,
         "id": "31221",
         "latitude": 38.90506687455313,
         "longitude": -77.04177886247635
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -2793,14 +2793,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31303",
         "latitude": 38.947607,
         "longitude": -77.079382
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 26,
         "capacity": 32,
         "demand": [
             1,
@@ -2828,7 +2828,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 6,
         "docSize": 32,
         "id": "31611",
         "latitude": 38.900021783466954,
@@ -2940,6 +2940,41 @@
         "longitude": -77.02227
     },
     {
+        "bikeAvail": 6,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 26,
+        "docSize": 32,
+        "id": "31112",
+        "latitude": 38.927872,
+        "longitude": -77.043358
+    },
+    {
         "bikeAvail": 4,
         "capacity": 32,
         "demand": [
@@ -2970,47 +3005,12 @@
         ],
         "docAvail": 28,
         "docSize": 32,
-        "id": "31112",
-        "latitude": 38.927872,
-        "longitude": -77.043358
-    },
-    {
-        "bikeAvail": 2,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 30,
-        "docSize": 32,
         "id": "31224",
         "latitude": 38.903407,
         "longitude": -77.043648
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -3038,7 +3038,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31225",
         "latitude": 38.90375,
@@ -3080,7 +3080,7 @@
         "longitude": -77.02305436134338
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -3108,14 +3108,14 @@
             2,
             3
         ],
-        "docAvail": 20,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31612",
         "latitude": 38.894758,
         "longitude": -76.997114
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -3143,7 +3143,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31226",
         "latitude": 38.916442,
@@ -3185,7 +3185,7 @@
         "longitude": -77.023086
     },
     {
-        "bikeAvail": 22,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -3213,14 +3213,14 @@
             2,
             3
         ],
-        "docAvail": 10,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31504",
         "latitude": 38.932514,
         "longitude": -76.992889
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -3248,14 +3248,14 @@
             2,
             3
         ],
-        "docAvail": 22,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31505",
         "latitude": 38.910972,
         "longitude": -77.00495
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 15,
         "capacity": 32,
         "demand": [
             1,
@@ -3283,14 +3283,14 @@
             2,
             3
         ],
-        "docAvail": 20,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31615",
         "latitude": 38.899972,
         "longitude": -76.998347
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 14,
         "capacity": 32,
         "demand": [
             1,
@@ -3318,14 +3318,14 @@
             2,
             3
         ],
-        "docAvail": 22,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31616",
         "latitude": 38.900412,
         "longitude": -77.001949
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -3353,14 +3353,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31617",
         "latitude": 38.900413,
         "longitude": -76.982872
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -3388,14 +3388,14 @@
             2,
             3
         ],
-        "docAvail": 21,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31618",
         "latitude": 38.889955,
         "longitude": -77.000349
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 28,
         "capacity": 32,
         "demand": [
             1,
@@ -3423,7 +3423,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 4,
         "docSize": 32,
         "id": "31619",
         "latitude": 38.890461,
@@ -3465,7 +3465,7 @@
         "longitude": -76.9599
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -3493,14 +3493,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31622",
         "latitude": 38.894832,
         "longitude": -76.987633
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 2,
         "capacity": 32,
         "demand": [
             1,
@@ -3528,7 +3528,7 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31229",
         "latitude": 38.91554,
@@ -3570,7 +3570,7 @@
         "longitude": -77.027869
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 1,
         "capacity": 32,
         "demand": [
             1,
@@ -3598,7 +3598,7 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 31,
         "docSize": 32,
         "id": "31231",
         "latitude": 38.894514,
@@ -3640,76 +3640,6 @@
         "longitude": -77.02232480049133
     },
     {
-        "bikeAvail": 2,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 30,
-        "docSize": 32,
-        "id": "31234",
-        "latitude": 38.908905,
-        "longitude": -77.04478
-    },
-    {
-        "bikeAvail": 0,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 32,
-        "docSize": 32,
-        "id": "31621",
-        "latitude": 38.895344,
-        "longitude": -77.016106
-    },
-    {
         "bikeAvail": 3,
         "capacity": 32,
         "demand": [
@@ -3740,12 +3670,12 @@
         ],
         "docAvail": 29,
         "docSize": 32,
-        "id": "31235",
-        "latitude": 38.8923,
-        "longitude": -77.0436
+        "id": "31234",
+        "latitude": 38.908905,
+        "longitude": -77.04478
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 1,
         "capacity": 32,
         "demand": [
             1,
@@ -3773,13 +3703,118 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 31,
+        "docSize": 32,
+        "id": "31621",
+        "latitude": 38.895344,
+        "longitude": -77.016106
+    },
+    {
+        "bikeAvail": 4,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 28,
+        "docSize": 32,
+        "id": "31235",
+        "latitude": 38.8923,
+        "longitude": -77.0436
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
         "docSize": 32,
         "id": "31236",
         "latitude": 38.90774,
         "longitude": -77.071652
     },
     {
+        "bikeAvail": 24,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 8,
+        "docSize": 32,
+        "id": "31614",
+        "latitude": 38.899983,
+        "longitude": -76.991383
+    },
+    {
         "bikeAvail": 16,
         "capacity": 32,
         "demand": [
@@ -3810,12 +3845,12 @@
         ],
         "docAvail": 16,
         "docSize": 32,
-        "id": "31614",
-        "latitude": 38.899983,
-        "longitude": -76.991383
+        "id": "31237",
+        "latitude": 38.903827,
+        "longitude": -77.053485
     },
     {
-        "bikeAvail": 7,
+        "bikeAvail": 12,
         "capacity": 32,
         "demand": [
             1,
@@ -3843,11 +3878,11 @@
             2,
             3
         ],
-        "docAvail": 25,
+        "docAvail": 20,
         "docSize": 32,
-        "id": "31237",
-        "latitude": 38.903827,
-        "longitude": -77.053485
+        "id": "31623",
+        "latitude": 38.89696,
+        "longitude": -77.00493
     },
     {
         "bikeAvail": 10,
@@ -3879,41 +3914,6 @@
             3
         ],
         "docAvail": 22,
-        "docSize": 32,
-        "id": "31623",
-        "latitude": 38.89696,
-        "longitude": -77.00493
-    },
-    {
-        "bikeAvail": 8,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 24,
         "docSize": 32,
         "id": "31624",
         "latitude": 38.897446,
@@ -3955,7 +3955,7 @@
         "longitude": -77.027137
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -3983,7 +3983,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31304",
         "latitude": 38.922581,
@@ -4025,7 +4025,7 @@
         "longitude": -77.032278
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 10,
         "capacity": 32,
         "demand": [
             1,
@@ -4053,14 +4053,14 @@
             2,
             3
         ],
-        "docAvail": 24,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31052",
         "latitude": 38.844015,
         "longitude": -77.050537
     },
     {
-        "bikeAvail": 4,
+        "bikeAvail": 6,
         "capacity": 32,
         "demand": [
             1,
@@ -4088,7 +4088,7 @@
             2,
             3
         ],
-        "docAvail": 28,
+        "docAvail": 26,
         "docSize": 32,
         "id": "31240",
         "latitude": 38.88412,
@@ -4130,7 +4130,7 @@
         "longitude": -77.026975
     },
     {
-        "bikeAvail": 5,
+        "bikeAvail": 6,
         "capacity": 32,
         "demand": [
             1,
@@ -4158,14 +4158,14 @@
             2,
             3
         ],
-        "docAvail": 27,
+        "docAvail": 26,
         "docSize": 32,
         "id": "31260",
         "latitude": 38.896104,
         "longitude": -77.049882
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -4193,14 +4193,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31014",
         "latitude": 38.897315,
         "longitude": -77.070993
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -4228,14 +4228,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31015",
         "latitude": 38.8946,
         "longitude": -77.072305
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -4263,14 +4263,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31016",
         "latitude": 38.893438,
         "longitude": -77.076389
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -4298,14 +4298,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31017",
         "latitude": 38.891696,
         "longitude": -77.0846
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -4333,7 +4333,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31018",
         "latitude": 38.892164,
@@ -4375,6 +4375,76 @@
         "longitude": -76.952103
     },
     {
+        "bikeAvail": 5,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 27,
+        "docSize": 32,
+        "id": "31261",
+        "latitude": 38.892459,
+        "longitude": -77.046567
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
+        "docSize": 32,
+        "id": "31019",
+        "latitude": 38.889,
+        "longitude": -77.0925
+    },
+    {
         "bikeAvail": 4,
         "capacity": 32,
         "demand": [
@@ -4405,82 +4475,12 @@
         ],
         "docAvail": 28,
         "docSize": 32,
-        "id": "31261",
-        "latitude": 38.892459,
-        "longitude": -77.046567
-    },
-    {
-        "bikeAvail": 15,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 17,
-        "docSize": 32,
-        "id": "31019",
-        "latitude": 38.889,
-        "longitude": -77.0925
-    },
-    {
-        "bikeAvail": 3,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 29,
-        "docSize": 32,
         "id": "31113",
         "latitude": 38.920669,
         "longitude": -77.04368
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 2,
         "capacity": 32,
         "demand": [
             1,
@@ -4508,7 +4508,7 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31239",
         "latitude": 38.905995699991145,
@@ -4550,7 +4550,7 @@
         "longitude": -77.0325
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -4578,14 +4578,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31020",
         "latitude": 38.8904,
         "longitude": -77.0889
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -4613,14 +4613,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31021",
         "latitude": 38.8881,
         "longitude": -77.09308
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -4648,14 +4648,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31022",
         "latitude": 38.88786,
         "longitude": -77.094875
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 3,
         "capacity": 32,
         "demand": [
             1,
@@ -4683,7 +4683,7 @@
             2,
             3
         ],
-        "docAvail": 30,
+        "docAvail": 29,
         "docSize": 32,
         "id": "31242",
         "latitude": 38.89968,
@@ -4760,7 +4760,7 @@
         "longitude": -77.017445
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 15,
         "capacity": 32,
         "demand": [
             1,
@@ -4788,7 +4788,7 @@
             2,
             3
         ],
-        "docAvail": 22,
+        "docAvail": 17,
         "docSize": 32,
         "id": "31625",
         "latitude": 38.881185,
@@ -4830,7 +4830,7 @@
         "longitude": -77.022155
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 6,
         "capacity": 32,
         "demand": [
             1,
@@ -4858,14 +4858,14 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 26,
         "docSize": 32,
         "id": "31404",
         "latitude": 38.9418,
         "longitude": -77.0251
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 10,
         "capacity": 32,
         "demand": [
             1,
@@ -4893,7 +4893,7 @@
             2,
             3
         ],
-        "docAvail": 24,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31506",
         "latitude": 38.915417,
@@ -5005,7 +5005,7 @@
         "longitude": -76.93723
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -5033,7 +5033,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31307",
         "latitude": 38.930282,
@@ -5075,7 +5075,7 @@
         "longitude": -76.96012
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -5103,14 +5103,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31246",
         "latitude": 38.905126,
         "longitude": -77.056887
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -5138,14 +5138,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31626",
         "latitude": 38.88732,
         "longitude": -76.983569
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 25,
         "capacity": 32,
         "demand": [
             1,
@@ -5173,14 +5173,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 7,
         "docSize": 32,
         "id": "31806",
         "latitude": 38.844711,
         "longitude": -76.987823
     },
     {
-        "bikeAvail": 28,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5208,14 +5208,14 @@
             2,
             3
         ],
-        "docAvail": 4,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31035",
         "latitude": 38.876393,
         "longitude": -77.107735
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5243,14 +5243,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31033",
         "latitude": 38.85033657788445,
         "longitude": -77.1009886264801
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5278,7 +5278,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31029",
         "latitude": 38.896923,
@@ -5320,7 +5320,7 @@
         "longitude": -77.02622
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5348,14 +5348,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31023",
         "latitude": 38.885801,
         "longitude": -77.097745
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -5383,14 +5383,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31027",
         "latitude": 38.896355,
         "longitude": -77.078408
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 11,
         "capacity": 32,
         "demand": [
             1,
@@ -5418,14 +5418,14 @@
             2,
             3
         ],
-        "docAvail": 24,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31628",
         "latitude": 38.878854378063295,
         "longitude": -77.00572729110718
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5453,14 +5453,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31306",
         "latitude": 38.922649,
         "longitude": -77.077271
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 11,
         "capacity": 32,
         "demand": [
             1,
@@ -5488,14 +5488,14 @@
             2,
             3
         ],
-        "docAvail": 23,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31507",
         "latitude": 38.928743,
         "longitude": -77.012457
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -5523,14 +5523,14 @@
             2,
             3
         ],
-        "docAvail": 19,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31024",
         "latitude": 38.882788,
         "longitude": -77.103148
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5558,14 +5558,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31025",
         "latitude": 38.88397,
         "longitude": -77.10783
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5593,7 +5593,7 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31026",
         "latitude": 38.884734,
@@ -5670,7 +5670,7 @@
         "longitude": -77.02858
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -5698,7 +5698,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31036",
         "latitude": 38.87887,
@@ -5740,7 +5740,7 @@
         "longitude": -77.01994
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5768,14 +5768,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31028",
         "latitude": 38.893237,
         "longitude": -77.086063
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5803,14 +5803,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31030",
         "latitude": 38.89593,
         "longitude": -77.089006
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5838,14 +5838,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31031",
         "latitude": 38.89054,
         "longitude": -77.08095
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5873,14 +5873,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31032",
         "latitude": 38.88081,
         "longitude": -77.090792
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5908,14 +5908,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31037",
         "latitude": 38.881044,
         "longitude": -77.111768
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -5943,14 +5943,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31034",
         "latitude": 38.882629,
         "longitude": -77.109366
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 3,
         "capacity": 32,
         "demand": [
             1,
@@ -5978,14 +5978,14 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 29,
         "docSize": 32,
         "id": "31249",
         "latitude": 38.879819,
         "longitude": -77.037413
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 26,
         "capacity": 32,
         "demand": [
             1,
@@ -6013,14 +6013,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 6,
         "docSize": 32,
         "id": "31803",
         "latitude": 38.866611,
         "longitude": -76.985238
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -6048,14 +6048,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31038",
         "latitude": 38.883921,
         "longitude": -77.116817
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -6083,14 +6083,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31039",
         "latitude": 38.880012,
         "longitude": -77.107854
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -6118,14 +6118,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31040",
         "latitude": 38.884616,
         "longitude": -77.10108
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -6153,14 +6153,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31508",
         "latitude": 38.90509,
         "longitude": -76.9941
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 2,
         "capacity": 32,
         "demand": [
             1,
@@ -6188,7 +6188,7 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31250",
         "latitude": 38.903584,
@@ -6230,7 +6230,7 @@
         "longitude": -77.0284
     },
     {
-        "bikeAvail": 3,
+        "bikeAvail": 4,
         "capacity": 32,
         "demand": [
             1,
@@ -6258,14 +6258,14 @@
             2,
             3
         ],
-        "docAvail": 29,
+        "docAvail": 28,
         "docSize": 32,
         "id": "31252",
         "latitude": 38.901539,
         "longitude": -77.046564
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 4,
         "capacity": 32,
         "demand": [
             1,
@@ -6293,7 +6293,7 @@
             2,
             3
         ],
-        "docAvail": 30,
+        "docAvail": 28,
         "docSize": 32,
         "id": "31253",
         "latitude": 38.902204,
@@ -6335,7 +6335,7 @@
         "longitude": -77.040363
     },
     {
-        "bikeAvail": 6,
+        "bikeAvail": 7,
         "capacity": 32,
         "demand": [
             1,
@@ -6363,14 +6363,14 @@
             2,
             3
         ],
-        "docAvail": 26,
+        "docAvail": 25,
         "docSize": 32,
         "id": "31042",
         "latitude": 38.804718,
         "longitude": -77.043363
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 10,
         "capacity": 32,
         "demand": [
             1,
@@ -6398,14 +6398,14 @@
             2,
             3
         ],
-        "docAvail": 23,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31043",
         "latitude": 38.810743,
         "longitude": -77.044664
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 10,
         "capacity": 32,
         "demand": [
             1,
@@ -6433,7 +6433,7 @@
             2,
             3
         ],
-        "docAvail": 23,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31044",
         "latitude": 38.805317,
@@ -6475,7 +6475,7 @@
         "longitude": -77.03353
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 10,
         "capacity": 32,
         "demand": [
             1,
@@ -6503,7 +6503,7 @@
             2,
             3
         ],
-        "docAvail": 23,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31045",
         "latitude": 38.805648,
@@ -6545,7 +6545,7 @@
         "longitude": -77.050276
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 9,
         "capacity": 32,
         "demand": [
             1,
@@ -6573,14 +6573,14 @@
             2,
             3
         ],
-        "docAvail": 24,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31047",
         "latitude": 38.814577,
         "longitude": -77.052808
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -6608,14 +6608,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31048",
         "latitude": 38.805767,
         "longitude": -77.06072
     },
     {
-        "bikeAvail": 7,
+        "bikeAvail": 14,
         "capacity": 32,
         "demand": [
             1,
@@ -6643,7 +6643,7 @@
             2,
             3
         ],
-        "docAvail": 25,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31255",
         "latitude": 38.9066,
@@ -6685,6 +6685,181 @@
         "longitude": -77.026064
     },
     {
+        "bikeAvail": 6,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 26,
+        "docSize": 32,
+        "id": "31257",
+        "latitude": 38.90088,
+        "longitude": -77.048911
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
+        "docSize": 32,
+        "id": "31049",
+        "latitude": 38.883669,
+        "longitude": -77.113905
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
+        "docSize": 32,
+        "id": "31050",
+        "latitude": 38.884961,
+        "longitude": -77.08777
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
+        "docSize": 32,
+        "id": "31051",
+        "latitude": 38.889365,
+        "longitude": -77.077294
+    },
+    {
+        "bikeAvail": 6,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 26,
+        "docSize": 32,
+        "id": "31258",
+        "latitude": 38.888251,
+        "longitude": -77.049426
+    },
+    {
         "bikeAvail": 5,
         "capacity": 32,
         "demand": [
@@ -6714,181 +6889,6 @@
             3
         ],
         "docAvail": 27,
-        "docSize": 32,
-        "id": "31257",
-        "latitude": 38.90088,
-        "longitude": -77.048911
-    },
-    {
-        "bikeAvail": 18,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 14,
-        "docSize": 32,
-        "id": "31049",
-        "latitude": 38.883669,
-        "longitude": -77.113905
-    },
-    {
-        "bikeAvail": 16,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 16,
-        "docSize": 32,
-        "id": "31050",
-        "latitude": 38.884961,
-        "longitude": -77.08777
-    },
-    {
-        "bikeAvail": 32,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 0,
-        "docSize": 32,
-        "id": "31051",
-        "latitude": 38.889365,
-        "longitude": -77.077294
-    },
-    {
-        "bikeAvail": 4,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 28,
-        "docSize": 32,
-        "id": "31258",
-        "latitude": 38.888251,
-        "longitude": -77.049426
-    },
-    {
-        "bikeAvail": 3,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 29,
         "docSize": 32,
         "id": "31259",
         "latitude": 38.894722,
@@ -6930,7 +6930,7 @@
         "longitude": -77.018677
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -6958,14 +6958,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31308",
         "latitude": 38.943837,
         "longitude": -77.077078
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -6993,14 +6993,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31309",
         "latitude": 38.954812,
         "longitude": -77.082426
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 14,
         "capacity": 32,
         "demand": [
             1,
@@ -7028,14 +7028,14 @@
             2,
             3
         ],
-        "docAvail": 21,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31627",
         "latitude": 38.905469714943266,
         "longitude": -77.0021304488182
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -7063,14 +7063,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31053",
         "latitude": 38.863833,
         "longitude": -77.080319
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -7098,14 +7098,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31054",
         "latitude": 38.857803,
         "longitude": -77.086733
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -7133,14 +7133,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31055",
         "latitude": 38.846222,
         "longitude": -77.069275
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 3,
         "capacity": 32,
         "demand": [
             1,
@@ -7168,7 +7168,7 @@
             2,
             3
         ],
-        "docAvail": 30,
+        "docAvail": 29,
         "docSize": 32,
         "id": "31114",
         "latitude": 38.918809,
@@ -7210,6 +7210,41 @@
         "longitude": -77.0198142528534
     },
     {
+        "bikeAvail": 10,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 22,
+        "docSize": 32,
+        "id": "31405",
+        "latitude": 38.949662,
+        "longitude": -77.027333
+    },
+    {
         "bikeAvail": 9,
         "capacity": 32,
         "demand": [
@@ -7240,47 +7275,12 @@
         ],
         "docAvail": 23,
         "docSize": 32,
-        "id": "31405",
-        "latitude": 38.949662,
-        "longitude": -77.027333
-    },
-    {
-        "bikeAvail": 3,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 29,
-        "docSize": 32,
         "id": "31406",
         "latitude": 38.942016,
         "longitude": -77.032652
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 2,
         "capacity": 32,
         "demand": [
             1,
@@ -7308,14 +7308,14 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31407",
         "latitude": 38.956432,
         "longitude": -77.032947
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -7343,14 +7343,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31056",
         "latitude": 38.847977,
         "longitude": -77.075104
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -7378,14 +7378,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31057",
         "latitude": 38.8444,
         "longitude": -77.085931
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -7413,14 +7413,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31058",
         "latitude": 38.860789,
         "longitude": -77.09586
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -7448,14 +7448,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31059",
         "latitude": 38.84736,
         "longitude": -77.095431
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -7483,14 +7483,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31060",
         "latitude": 38.84232,
         "longitude": -77.089555
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -7518,7 +7518,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31061",
         "latitude": 38.848454,
@@ -7560,7 +7560,7 @@
         "longitude": -77.029417
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -7588,14 +7588,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31312",
         "latitude": 38.90849,
         "longitude": -77.063586
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -7623,14 +7623,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31062",
         "latitude": 38.896553,
         "longitude": -77.06714
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -7658,7 +7658,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31310",
         "latitude": 38.955016,
@@ -7700,7 +7700,7 @@
         "longitude": -77.038359
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 3,
         "capacity": 32,
         "demand": [
             1,
@@ -7728,14 +7728,14 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 29,
         "docSize": 32,
         "id": "31117",
         "latitude": 38.92333,
         "longitude": -77.0352
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 19,
         "capacity": 32,
         "demand": [
             1,
@@ -7763,14 +7763,14 @@
             2,
             3
         ],
-        "docAvail": 19,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31629",
         "latitude": 38.889988,
         "longitude": -76.995193
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 2,
         "capacity": 32,
         "demand": [
             1,
@@ -7798,14 +7798,14 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31509",
         "latitude": 38.912659,
         "longitude": -77.017669
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -7833,14 +7833,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31630",
         "latitude": 38.889908,
         "longitude": -76.983326
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -7868,14 +7868,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31631",
         "latitude": 38.897274,
         "longitude": -76.994749
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 28,
         "capacity": 32,
         "demand": [
             1,
@@ -7903,14 +7903,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 4,
         "docSize": 32,
         "id": "31510",
         "latitude": 38.927095,
         "longitude": -76.978924
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -7938,14 +7938,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31632",
         "latitude": 38.897195,
         "longitude": -76.983575
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -7973,14 +7973,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31511",
         "latitude": 38.928644,
         "longitude": -76.990955
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 20,
         "capacity": 32,
         "demand": [
             1,
@@ -8008,14 +8008,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31800",
         "latitude": 38.84322988730829,
         "longitude": -76.99937582015991
     },
     {
-        "bikeAvail": 18,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -8043,14 +8043,14 @@
             2,
             3
         ],
-        "docAvail": 14,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31807",
         "latitude": 38.863897,
         "longitude": -76.990037
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -8078,7 +8078,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31512",
         "latitude": 38.903732,
@@ -8120,7 +8120,7 @@
         "longitude": -77.028139
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -8148,7 +8148,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31063",
         "latitude": 38.852248,
@@ -8190,7 +8190,7 @@
         "longitude": -77.039511
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -8218,14 +8218,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31065",
         "latitude": 38.880705,
         "longitude": -77.08596
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -8253,14 +8253,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31066",
         "latitude": 38.867262,
         "longitude": -77.072315
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 14,
         "capacity": 32,
         "demand": [
             1,
@@ -8288,7 +8288,7 @@
             2,
             3
         ],
-        "docAvail": 21,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31269",
         "latitude": 38.887378,
@@ -8330,7 +8330,7 @@
         "longitude": -77.02324
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 8,
         "capacity": 32,
         "demand": [
             1,
@@ -8358,14 +8358,14 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31118",
         "latitude": 38.917622,
         "longitude": -77.01597
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 14,
         "capacity": 32,
         "demand": [
             1,
@@ -8393,14 +8393,14 @@
             2,
             3
         ],
-        "docAvail": 21,
+        "docAvail": 18,
         "docSize": 32,
         "id": "31513",
         "latitude": 38.918155,
         "longitude": -77.004746
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 10,
         "capacity": 32,
         "demand": [
             1,
@@ -8428,14 +8428,14 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31271",
         "latitude": 38.892275,
         "longitude": -77.013917
     },
     {
-        "bikeAvail": 3,
+        "bikeAvail": 9,
         "capacity": 32,
         "demand": [
             1,
@@ -8463,7 +8463,7 @@
             2,
             3
         ],
-        "docAvail": 29,
+        "docAvail": 23,
         "docSize": 32,
         "id": "31272",
         "latitude": 38.886978,
@@ -8505,7 +8505,7 @@
         "longitude": -77.025762
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 20,
         "capacity": 32,
         "demand": [
             1,
@@ -8533,14 +8533,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31514",
         "latitude": 38.927497,
         "longitude": -76.997194
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -8568,14 +8568,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31067",
         "latitude": 38.862478,
         "longitude": -77.086599
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -8603,14 +8603,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31068",
         "latitude": 38.856319,
         "longitude": -77.11153
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -8638,7 +8638,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31069",
         "latitude": 38.871822,
@@ -8680,7 +8680,7 @@
         "longitude": -77.023082
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -8708,14 +8708,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 10,
         "docSize": 32,
         "id": "32002",
         "latitude": 38.981103,
         "longitude": -77.097426
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -8743,46 +8743,11 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "32003",
         "latitude": 38.983838,
         "longitude": -77.09221
-    },
-    {
-        "bikeAvail": 24,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 8,
-        "docSize": 32,
-        "id": "32004",
-        "latitude": 39.096312,
-        "longitude": -77.192672
     },
     {
         "bikeAvail": 17,
@@ -8815,12 +8780,12 @@
         ],
         "docAvail": 15,
         "docSize": 32,
-        "id": "32005",
-        "latitude": 39.093783,
-        "longitude": -77.202501
+        "id": "32004",
+        "latitude": 39.096312,
+        "longitude": -77.192672
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -8848,14 +8813,49 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 16,
+        "docSize": 32,
+        "id": "32005",
+        "latitude": 39.093783,
+        "longitude": -77.202501
+    },
+    {
+        "bikeAvail": 22,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 10,
         "docSize": 32,
         "id": "32000",
         "latitude": 38.988562,
         "longitude": -77.096539
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -8883,14 +8883,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32007",
         "latitude": 39.084125,
         "longitude": -77.151291
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -8918,7 +8918,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 10,
         "docSize": 32,
         "id": "32008",
         "latitude": 38.98954,
@@ -8960,7 +8960,7 @@
         "longitude": -77.011336
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -8988,7 +8988,7 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32011",
         "latitude": 38.983627,
@@ -9030,7 +9030,7 @@
         "longitude": -77.02918
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -9058,14 +9058,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 10,
         "docSize": 32,
         "id": "32013",
         "latitude": 38.983525,
         "longitude": -77.095367
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -9093,7 +9093,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "32014",
         "latitude": 38.961763,
@@ -9135,7 +9135,7 @@
         "longitude": -77.031887
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -9163,7 +9163,7 @@
             2,
             3
         ],
-        "docAvail": 22,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31634",
         "latitude": 38.87501,
@@ -9205,7 +9205,7 @@
         "longitude": -77.025672
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 20,
         "capacity": 32,
         "demand": [
             1,
@@ -9233,7 +9233,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31635",
         "latitude": 38.876737,
@@ -9275,7 +9275,7 @@
         "longitude": -77.156985
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -9303,14 +9303,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32016",
         "latitude": 39.099376,
         "longitude": -77.188014
     },
     {
-        "bikeAvail": 29,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -9338,14 +9338,14 @@
             2,
             3
         ],
-        "docAvail": 3,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32017",
         "latitude": 39.083673,
         "longitude": -77.149162
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 15,
         "capacity": 32,
         "demand": [
             1,
@@ -9373,7 +9373,7 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 17,
         "docSize": 32,
         "id": "32018",
         "latitude": 39.123513,
@@ -9415,7 +9415,7 @@
         "longitude": -77.02935
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -9443,7 +9443,7 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32020",
         "latitude": 39.107709,
@@ -9485,7 +9485,7 @@
         "longitude": -77.091991
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -9513,151 +9513,11 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32022",
         "latitude": 39.02538719623632,
         "longitude": -77.04456299543381
-    },
-    {
-        "bikeAvail": 14,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 18,
-        "docSize": 32,
-        "id": "32023",
-        "latitude": 39.095661,
-        "longitude": -77.159048
-    },
-    {
-        "bikeAvail": 12,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 20,
-        "docSize": 32,
-        "id": "32024",
-        "latitude": 38.989724,
-        "longitude": -77.023854
-    },
-    {
-        "bikeAvail": 10,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 22,
-        "docSize": 32,
-        "id": "32025",
-        "latitude": 38.975,
-        "longitude": -77.01121
-    },
-    {
-        "bikeAvail": 13,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 19,
-        "docSize": 32,
-        "id": "32026",
-        "latitude": 38.977933,
-        "longitude": -77.006472
     },
     {
         "bikeAvail": 15,
@@ -9690,12 +9550,12 @@
         ],
         "docAvail": 17,
         "docSize": 32,
-        "id": "32027",
-        "latitude": 38.992375,
-        "longitude": -77.100104
+        "id": "32023",
+        "latitude": 39.095661,
+        "longitude": -77.159048
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -9723,14 +9583,154 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 19,
+        "docSize": 32,
+        "id": "32024",
+        "latitude": 38.989724,
+        "longitude": -77.023854
+    },
+    {
+        "bikeAvail": 13,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 19,
+        "docSize": 32,
+        "id": "32025",
+        "latitude": 38.975,
+        "longitude": -77.01121
+    },
+    {
+        "bikeAvail": 14,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 18,
+        "docSize": 32,
+        "id": "32026",
+        "latitude": 38.977933,
+        "longitude": -77.006472
+    },
+    {
+        "bikeAvail": 22,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 10,
+        "docSize": 32,
+        "id": "32027",
+        "latitude": 38.992375,
+        "longitude": -77.100104
+    },
+    {
+        "bikeAvail": 22,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 10,
         "docSize": 32,
         "id": "32028",
         "latitude": 38.990639,
         "longitude": -77.100239
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -9758,7 +9758,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "32029",
         "latitude": 38.977093,
@@ -9800,7 +9800,7 @@
         "longitude": -77.200322
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 20,
         "capacity": 32,
         "demand": [
             1,
@@ -9828,14 +9828,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 12,
         "docSize": 32,
         "id": "32031",
         "latitude": 39.094103,
         "longitude": -77.132954
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 19,
         "capacity": 32,
         "demand": [
             1,
@@ -9863,14 +9863,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 13,
         "docSize": 32,
         "id": "32032",
         "latitude": 39.076331,
         "longitude": -77.141378
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -9898,7 +9898,7 @@
             2,
             3
         ],
-        "docAvail": 20,
+        "docAvail": 19,
         "docSize": 32,
         "id": "32033",
         "latitude": 39.102212,
@@ -9940,7 +9940,7 @@
         "longitude": -77.029457
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 14,
         "capacity": 32,
         "demand": [
             1,
@@ -9968,7 +9968,7 @@
             2,
             3
         ],
-        "docAvail": 19,
+        "docAvail": 18,
         "docSize": 32,
         "id": "32035",
         "latitude": 38.999388,
@@ -10010,7 +10010,7 @@
         "longitude": -77.025608
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -10038,14 +10038,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 19,
         "docSize": 32,
         "id": "32037",
         "latitude": 39.114688,
         "longitude": -77.171487
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -10073,14 +10073,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32038",
         "latitude": 39.110314,
         "longitude": -77.182669
     },
     {
-        "bikeAvail": 5,
+        "bikeAvail": 8,
         "capacity": 32,
         "demand": [
             1,
@@ -10108,14 +10108,14 @@
             2,
             3
         ],
-        "docAvail": 27,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31121",
         "latitude": 38.923583,
         "longitude": -77.050046
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 7,
         "capacity": 32,
         "demand": [
             1,
@@ -10143,7 +10143,7 @@
             2,
             3
         ],
-        "docAvail": 30,
+        "docAvail": 25,
         "docSize": 32,
         "id": "31636",
         "latitude": 38.90706,
@@ -10255,7 +10255,7 @@
         "longitude": -77.03023
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -10283,14 +10283,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31070",
         "latitude": 38.873755,
         "longitude": -77.089233
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -10318,14 +10318,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31071",
         "latitude": 38.862753,
         "longitude": -77.05428
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -10353,14 +10353,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 10,
         "docSize": 32,
         "id": "32039",
         "latitude": 38.999634,
         "longitude": -77.109647
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -10388,14 +10388,14 @@
             2,
             3
         ],
-        "docAvail": 15,
+        "docAvail": 9,
         "docSize": 32,
         "id": "32040",
         "latitude": 38.96115,
         "longitude": -77.088659
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 11,
         "capacity": 32,
         "demand": [
             1,
@@ -10423,14 +10423,14 @@
             2,
             3
         ],
-        "docAvail": 24,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31637",
         "latitude": 38.899703,
         "longitude": -77.008911
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -10458,14 +10458,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31072",
         "latitude": 38.837666,
         "longitude": -77.09482
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -10493,14 +10493,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31073",
         "latitude": 38.873219,
         "longitude": -77.082104
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -10528,14 +10528,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31074",
         "latitude": 38.869418,
         "longitude": -77.095596
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -10563,14 +10563,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31313",
         "latitude": 38.94113915653008,
         "longitude": -77.061977237463
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -10598,7 +10598,7 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32041",
         "latitude": 39.103091,
@@ -10675,7 +10675,7 @@
         "longitude": -77.023894
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 32,
         "demand": [
             1,
@@ -10703,14 +10703,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "32044",
         "latitude": 39.085394,
         "longitude": -77.145803
     },
     {
-        "bikeAvail": 4,
+        "bikeAvail": 7,
         "capacity": 32,
         "demand": [
             1,
@@ -10738,14 +10738,14 @@
             2,
             3
         ],
-        "docAvail": 28,
+        "docAvail": 25,
         "docSize": 32,
         "id": "31638",
         "latitude": 38.900358,
         "longitude": -77.012108
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -10773,14 +10773,14 @@
             2,
             3
         ],
-        "docAvail": 19,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31515",
         "latitude": 38.952369,
         "longitude": -77.002721
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 11,
         "capacity": 32,
         "demand": [
             1,
@@ -10808,14 +10808,14 @@
             2,
             3
         ],
-        "docAvail": 24,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31408",
         "latitude": 38.975219,
         "longitude": -77.016855
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 20,
         "capacity": 32,
         "demand": [
             1,
@@ -10843,14 +10843,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31516",
         "latitude": 38.920682,
         "longitude": -76.995876
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -10878,14 +10878,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31075",
         "latitude": 38.866471,
         "longitude": -77.076131
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -10913,14 +10913,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31076",
         "latitude": 38.839912,
         "longitude": -77.087083
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 14,
         "capacity": 32,
         "demand": [
             1,
@@ -10948,14 +10948,14 @@
             2,
             3
         ],
-        "docAvail": 20,
+        "docAvail": 18,
         "docSize": 32,
         "id": "32045",
         "latitude": 39.119765,
         "longitude": -77.166093
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -10983,14 +10983,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 10,
         "docSize": 32,
         "id": "32046",
         "latitude": 38.964992,
         "longitude": -77.103381
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -11018,14 +11018,14 @@
             2,
             3
         ],
-        "docAvail": 19,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32047",
         "latitude": 39.084379,
         "longitude": -77.146866
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -11053,14 +11053,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 10,
         "docSize": 32,
         "id": "32048",
         "latitude": 38.984691,
         "longitude": -77.094537
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -11088,14 +11088,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31077",
         "latitude": 38.88992,
         "longitude": -77.071301
     },
     {
-        "bikeAvail": 13,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -11123,14 +11123,14 @@
             2,
             3
         ],
-        "docAvail": 19,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31314",
         "latitude": 38.903662690050474,
         "longitude": -77.0676684380669
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 20,
         "capacity": 32,
         "demand": [
             1,
@@ -11158,14 +11158,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31081",
         "latitude": 38.804378,
         "longitude": -77.060866
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -11193,14 +11193,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31079",
         "latitude": 38.894941,
         "longitude": -77.09169
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -11228,7 +11228,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31078",
         "latitude": 38.869442,
@@ -11270,7 +11270,7 @@
         "longitude": -77.02623546123505
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -11298,14 +11298,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31080",
         "latitude": 38.897612,
         "longitude": -77.080851
     },
     {
-        "bikeAvail": 6,
+        "bikeAvail": 8,
         "capacity": 32,
         "demand": [
             1,
@@ -11333,14 +11333,14 @@
             2,
             3
         ],
-        "docAvail": 26,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31275",
         "latitude": 38.901755,
         "longitude": -77.051084
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -11368,291 +11368,11 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31082",
         "latitude": 38.801111,
         "longitude": -77.068952
-    },
-    {
-        "bikeAvail": 13,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 19,
-        "docSize": 32,
-        "id": "31083",
-        "latitude": 38.82175,
-        "longitude": -77.047494
-    },
-    {
-        "bikeAvail": 32,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 0,
-        "docSize": 32,
-        "id": "31084",
-        "latitude": 38.802677,
-        "longitude": -77.063562
-    },
-    {
-        "bikeAvail": 15,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 17,
-        "docSize": 32,
-        "id": "31085",
-        "latitude": 38.820064,
-        "longitude": -77.057619
-    },
-    {
-        "bikeAvail": 15,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 17,
-        "docSize": 32,
-        "id": "31086",
-        "latitude": 38.82595,
-        "longitude": -77.058541
-    },
-    {
-        "bikeAvail": 9,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 23,
-        "docSize": 32,
-        "id": "31087",
-        "latitude": 38.820932,
-        "longitude": -77.053096
-    },
-    {
-        "bikeAvail": 15,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 17,
-        "docSize": 32,
-        "id": "31088",
-        "latitude": 38.833077,
-        "longitude": -77.059821
-    },
-    {
-        "bikeAvail": 16,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 16,
-        "docSize": 32,
-        "id": "31089",
-        "latitude": 38.890612,
-        "longitude": -77.084801
-    },
-    {
-        "bikeAvail": 16,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 16,
-        "docSize": 32,
-        "id": "32049",
-        "latitude": 38.986743,
-        "longitude": -77.000035
     },
     {
         "bikeAvail": 10,
@@ -11685,12 +11405,292 @@
         ],
         "docAvail": 22,
         "docSize": 32,
+        "id": "31083",
+        "latitude": 38.82175,
+        "longitude": -77.047494
+    },
+    {
+        "bikeAvail": 21,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 11,
+        "docSize": 32,
+        "id": "31084",
+        "latitude": 38.802677,
+        "longitude": -77.063562
+    },
+    {
+        "bikeAvail": 21,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 11,
+        "docSize": 32,
+        "id": "31085",
+        "latitude": 38.820064,
+        "longitude": -77.057619
+    },
+    {
+        "bikeAvail": 21,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 11,
+        "docSize": 32,
+        "id": "31086",
+        "latitude": 38.82595,
+        "longitude": -77.058541
+    },
+    {
+        "bikeAvail": 11,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 21,
+        "docSize": 32,
+        "id": "31087",
+        "latitude": 38.820932,
+        "longitude": -77.053096
+    },
+    {
+        "bikeAvail": 22,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 10,
+        "docSize": 32,
+        "id": "31088",
+        "latitude": 38.833077,
+        "longitude": -77.059821
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
+        "docSize": 32,
+        "id": "31089",
+        "latitude": 38.890612,
+        "longitude": -77.084801
+    },
+    {
+        "bikeAvail": 18,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 14,
+        "docSize": 32,
+        "id": "32049",
+        "latitude": 38.986743,
+        "longitude": -77.000035
+    },
+    {
+        "bikeAvail": 11,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 21,
+        "docSize": 32,
         "id": "31090",
         "latitude": 38.865553,
         "longitude": -77.05003
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -11718,46 +11718,11 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31315",
         "latitude": 38.96454350924588,
         "longitude": -77.07513481378555
-    },
-    {
-        "bikeAvail": 0,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 32,
-        "docSize": 32,
-        "id": "31276",
-        "latitude": 38.90366,
-        "longitude": -77.034846
     },
     {
         "bikeAvail": 1,
@@ -11789,6 +11754,41 @@
             3
         ],
         "docAvail": 31,
+        "docSize": 32,
+        "id": "31276",
+        "latitude": 38.90366,
+        "longitude": -77.034846
+    },
+    {
+        "bikeAvail": 2,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 30,
         "docSize": 32,
         "id": "31277",
         "latitude": 38.89841,
@@ -11830,216 +11830,6 @@
         "longitude": -77.034499
     },
     {
-        "bikeAvail": 1,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 31,
-        "docSize": 32,
-        "id": "31278",
-        "latitude": 38.912648,
-        "longitude": -77.041834
-    },
-    {
-        "bikeAvail": 16,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 16,
-        "docSize": 32,
-        "id": "31091",
-        "latitude": 38.859254,
-        "longitude": -77.063275
-    },
-    {
-        "bikeAvail": 15,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 17,
-        "docSize": 32,
-        "id": "31517",
-        "latitude": 38.907908,
-        "longitude": -76.99707
-    },
-    {
-        "bikeAvail": 15,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 17,
-        "docSize": 32,
-        "id": "31092",
-        "latitude": 38.896456,
-        "longitude": -77.104562
-    },
-    {
-        "bikeAvail": 16,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 16,
-        "docSize": 32,
-        "id": "31093",
-        "latitude": 38.898984,
-        "longitude": -77.078317
-    },
-    {
-        "bikeAvail": 32,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 0,
-        "docSize": 32,
-        "id": "31094",
-        "latitude": 38.895377,
-        "longitude": -77.09713
-    },
-    {
         "bikeAvail": 3,
         "capacity": 32,
         "demand": [
@@ -12070,12 +11860,12 @@
         ],
         "docAvail": 29,
         "docSize": 32,
-        "id": "31279",
-        "latitude": 38.898412,
-        "longitude": -77.043182
+        "id": "31278",
+        "latitude": 38.912648,
+        "longitude": -77.041834
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -12103,14 +11893,224 @@
             2,
             3
         ],
-        "docAvail": 21,
+        "docAvail": 10,
+        "docSize": 32,
+        "id": "31091",
+        "latitude": 38.859254,
+        "longitude": -77.063275
+    },
+    {
+        "bikeAvail": 18,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 14,
+        "docSize": 32,
+        "id": "31517",
+        "latitude": 38.907908,
+        "longitude": -76.99707
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
+        "docSize": 32,
+        "id": "31092",
+        "latitude": 38.896456,
+        "longitude": -77.104562
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
+        "docSize": 32,
+        "id": "31093",
+        "latitude": 38.898984,
+        "longitude": -77.078317
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
+        "docSize": 32,
+        "id": "31094",
+        "latitude": 38.895377,
+        "longitude": -77.09713
+    },
+    {
+        "bikeAvail": 4,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 28,
+        "docSize": 32,
+        "id": "31279",
+        "latitude": 38.898412,
+        "longitude": -77.043182
+    },
+    {
+        "bikeAvail": 15,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 17,
         "docSize": 32,
         "id": "31522",
         "latitude": 38.914751108831155,
         "longitude": -77.00356006622314
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 29,
         "capacity": 32,
         "demand": [
             1,
@@ -12138,14 +12138,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 3,
         "docSize": 32,
         "id": "31902",
         "latitude": 38.876528,
         "longitude": -77.12712
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -12173,14 +12173,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31095",
         "latitude": 38.86215024521491,
         "longitude": -77.06812083721161
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -12208,7 +12208,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31293",
         "latitude": 38.902814,
@@ -12250,7 +12250,7 @@
         "longitude": -77.027025
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -12278,14 +12278,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31096",
         "latitude": 38.86612,
         "longitude": -77.08787
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -12313,7 +12313,7 @@
             2,
             3
         ],
-        "docAvail": 22,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31639",
         "latitude": 38.89967,
@@ -12425,7 +12425,7 @@
         "longitude": -76.974828
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -12453,14 +12453,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31640",
         "latitude": 38.896134,
         "longitude": -76.9929
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -12488,14 +12488,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31518",
         "latitude": 38.915604,
         "longitude": -76.983683
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -12523,14 +12523,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31316",
         "latitude": 38.946182,
         "longitude": -77.08059
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 25,
         "capacity": 32,
         "demand": [
             1,
@@ -12558,14 +12558,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 7,
         "docSize": 32,
         "id": "32051",
         "latitude": 38.994113,
         "longitude": -77.076986
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -12593,14 +12593,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32052",
         "latitude": 39.105295,
         "longitude": -77.194774
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 26,
         "capacity": 32,
         "demand": [
             1,
@@ -12628,14 +12628,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 6,
         "docSize": 32,
         "id": "31900",
         "latitude": 38.898301,
         "longitude": -77.118009
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 10,
         "capacity": 32,
         "demand": [
             1,
@@ -12663,14 +12663,14 @@
             2,
             3
         ],
-        "docAvail": 23,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31097",
         "latitude": 38.812718,
         "longitude": -77.044097
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -12698,14 +12698,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31098",
         "latitude": 38.80704,
         "longitude": -77.059817
     },
     {
-        "bikeAvail": 7,
+        "bikeAvail": 8,
         "capacity": 32,
         "demand": [
             1,
@@ -12733,14 +12733,14 @@
             2,
             3
         ],
-        "docAvail": 25,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31099",
         "latitude": 38.813485,
         "longitude": -77.049468
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -12768,14 +12768,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 11,
         "docSize": 32,
         "id": "32053",
         "latitude": 38.999378,
         "longitude": -77.097882
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 29,
         "capacity": 32,
         "demand": [
             1,
@@ -12803,14 +12803,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 3,
         "docSize": 32,
         "id": "31901",
         "latitude": 38.884829,
         "longitude": -77.127671
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -12838,14 +12838,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31317",
         "latitude": 38.958267,
         "longitude": -77.084636
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 2,
         "capacity": 32,
         "demand": [
             1,
@@ -12873,14 +12873,14 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31122",
         "latitude": 38.928893,
         "longitude": -77.03625
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 2,
         "capacity": 32,
         "demand": [
             1,
@@ -12908,14 +12908,14 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31282",
         "latitude": 38.912652,
         "longitude": -77.036278
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -12943,14 +12943,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 11,
         "docSize": 32,
         "id": "32054",
         "latitude": 38.999679,
         "longitude": -77.051168
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -12978,7 +12978,7 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 9,
         "docSize": 32,
         "id": "32055",
         "latitude": 38.979875,
@@ -13020,7 +13020,7 @@
         "longitude": -77.031737
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 10,
         "capacity": 32,
         "demand": [
             1,
@@ -13048,14 +13048,14 @@
             2,
             3
         ],
-        "docAvail": 23,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31519",
         "latitude": 38.908643,
         "longitude": -77.012365
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -13083,46 +13083,11 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31811",
         "latitude": 38.831516,
         "longitude": -77.008133
-    },
-    {
-        "bikeAvail": 2,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 30,
-        "docSize": 32,
-        "id": "31284",
-        "latitude": 38.893511,
-        "longitude": -77.041544
     },
     {
         "bikeAvail": 3,
@@ -13155,12 +13120,12 @@
         ],
         "docAvail": 29,
         "docSize": 32,
-        "id": "31285",
-        "latitude": 38.909394,
-        "longitude": -77.048728
+        "id": "31284",
+        "latitude": 38.893511,
+        "longitude": -77.041544
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 5,
         "capacity": 32,
         "demand": [
             1,
@@ -13188,7 +13153,42 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 27,
+        "docSize": 32,
+        "id": "31285",
+        "latitude": 38.909394,
+        "longitude": -77.048728
+    },
+    {
+        "bikeAvail": 17,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 15,
         "docSize": 32,
         "id": "32056",
         "latitude": 38.995681,
@@ -13230,7 +13230,7 @@
         "longitude": -77.0447
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 1,
         "capacity": 32,
         "demand": [
             1,
@@ -13258,14 +13258,14 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 31,
         "docSize": 32,
         "id": "31123",
         "latitude": 38.925284,
         "longitude": -77.032375
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 12,
         "capacity": 32,
         "demand": [
             1,
@@ -13293,7 +13293,7 @@
             2,
             3
         ],
-        "docAvail": 21,
+        "docAvail": 20,
         "docSize": 32,
         "id": "31910",
         "latitude": 38.822738,
@@ -13370,7 +13370,7 @@
         "longitude": -77.02601015567778
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -13398,14 +13398,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31318",
         "latitude": 38.947156,
         "longitude": -77.065115
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -13433,14 +13433,14 @@
             2,
             3
         ],
-        "docAvail": 21,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31641",
         "latitude": 38.894972,
         "longitude": -77.003135
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -13468,7 +13468,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31908",
         "latitude": 38.828437,
@@ -13545,7 +13545,7 @@
         "longitude": -77.135271
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -13573,14 +13573,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31906",
         "latitude": 38.812711,
         "longitude": -77.061715
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -13608,7 +13608,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31913",
         "latitude": 38.82005823354218,
@@ -13650,7 +13650,7 @@
         "longitude": -77.017253
     },
     {
-        "bikeAvail": 3,
+        "bikeAvail": 5,
         "capacity": 32,
         "demand": [
             1,
@@ -13678,116 +13678,11 @@
             2,
             3
         ],
-        "docAvail": 29,
+        "docAvail": 27,
         "docSize": 32,
         "id": "31289",
         "latitude": 38.890544,
         "longitude": -77.049379
-    },
-    {
-        "bikeAvail": 1,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 31,
-        "docSize": 32,
-        "id": "31290",
-        "latitude": 38.888097,
-        "longitude": -77.038325
-    },
-    {
-        "bikeAvail": 15,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 17,
-        "docSize": 32,
-        "id": "31907",
-        "latitude": 38.798133,
-        "longitude": -77.0487
-    },
-    {
-        "bikeAvail": 31,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 1,
-        "docSize": 32,
-        "id": "31909",
-        "latitude": 38.843422,
-        "longitude": -77.064016
     },
     {
         "bikeAvail": 2,
@@ -13820,12 +13715,12 @@
         ],
         "docAvail": 30,
         "docSize": 32,
-        "id": "31642",
-        "latitude": 38.903598,
-        "longitude": -77.01397
+        "id": "31290",
+        "latitude": 38.888097,
+        "longitude": -77.038325
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 14,
         "capacity": 32,
         "demand": [
             1,
@@ -13853,14 +13748,119 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 18,
+        "docSize": 32,
+        "id": "31907",
+        "latitude": 38.798133,
+        "longitude": -77.0487
+    },
+    {
+        "bikeAvail": 22,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 10,
+        "docSize": 32,
+        "id": "31909",
+        "latitude": 38.843422,
+        "longitude": -77.064016
+    },
+    {
+        "bikeAvail": 8,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 24,
+        "docSize": 32,
+        "id": "31642",
+        "latitude": 38.903598,
+        "longitude": -77.01397
+    },
+    {
+        "bikeAvail": 22,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 10,
         "docSize": 32,
         "id": "31912",
         "latitude": 38.841291,
         "longitude": -77.063093
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 18,
         "capacity": 32,
         "demand": [
             1,
@@ -13888,14 +13888,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31914",
         "latitude": 38.797557,
         "longitude": -77.053766
     },
     {
-        "bikeAvail": 11,
+        "bikeAvail": 10,
         "capacity": 32,
         "demand": [
             1,
@@ -13923,14 +13923,14 @@
             2,
             3
         ],
-        "docAvail": 21,
+        "docAvail": 22,
         "docSize": 32,
         "id": "31915",
         "latitude": 38.818748,
         "longitude": -77.047783
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 8,
         "capacity": 32,
         "demand": [
             1,
@@ -13958,14 +13958,14 @@
             2,
             3
         ],
-        "docAvail": 23,
+        "docAvail": 24,
         "docSize": 32,
         "id": "31916",
         "latitude": 38.829545,
         "longitude": -77.047844
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 1,
         "capacity": 32,
         "demand": [
             1,
@@ -13993,14 +13993,14 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 31,
         "docSize": 32,
         "id": "31124",
         "latitude": 38.928552,
         "longitude": -77.032224
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 1,
         "capacity": 32,
         "demand": [
             1,
@@ -14028,14 +14028,14 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 31,
         "docSize": 32,
         "id": "31291",
         "latitude": 38.901136451737045,
         "longitude": -77.03445106744766
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -14063,7 +14063,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31319",
         "latitude": 38.949813,
@@ -14105,41 +14105,6 @@
         "longitude": -76.971923
     },
     {
-        "bikeAvail": 25,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 7,
-        "docSize": 32,
-        "id": "31713",
-        "latitude": 38.897407,
-        "longitude": -76.925907
-    },
-    {
         "bikeAvail": 32,
         "capacity": 32,
         "demand": [
@@ -14170,12 +14135,12 @@
         ],
         "docAvail": 0,
         "docSize": 32,
-        "id": "31812",
-        "latitude": 38.870695,
-        "longitude": -76.982359
+        "id": "31713",
+        "latitude": 38.897407,
+        "longitude": -76.925907
     },
     {
-        "bikeAvail": 20,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -14203,14 +14168,49 @@
             2,
             3
         ],
-        "docAvail": 12,
+        "docAvail": 5,
+        "docSize": 32,
+        "id": "31812",
+        "latitude": 38.870695,
+        "longitude": -76.982359
+    },
+    {
+        "bikeAvail": 19,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 13,
         "docSize": 32,
         "id": "32200",
         "latitude": 38.929261,
         "longitude": -77.240654
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -14238,7 +14238,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32201",
         "latitude": 38.92403,
@@ -14315,7 +14315,7 @@
         "longitude": -77.222115
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -14343,7 +14343,7 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32205",
         "latitude": 38.924437,
@@ -14595,7 +14595,7 @@
         "longitude": -77.356324
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -14623,7 +14623,7 @@
             2,
             3
         ],
-        "docAvail": 20,
+        "docAvail": 19,
         "docSize": 32,
         "id": "32213",
         "latitude": 38.955079,
@@ -14665,7 +14665,7 @@
         "longitude": -77.359718
     },
     {
-        "bikeAvail": 8,
+        "bikeAvail": 11,
         "capacity": 32,
         "demand": [
             1,
@@ -14693,46 +14693,11 @@
             2,
             3
         ],
-        "docAvail": 24,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31643",
         "latitude": 38.884916,
         "longitude": -77.005965
-    },
-    {
-        "bikeAvail": 22,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 10,
-        "docSize": 32,
-        "id": "32215",
-        "latitude": 38.9492,
-        "longitude": -77.3368
     },
     {
         "bikeAvail": 20,
@@ -14764,6 +14729,41 @@
             3
         ],
         "docAvail": 12,
+        "docSize": 32,
+        "id": "32215",
+        "latitude": 38.9492,
+        "longitude": -77.3368
+    },
+    {
+        "bikeAvail": 19,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 13,
         "docSize": 32,
         "id": "32216",
         "latitude": 38.959633,
@@ -14805,7 +14805,7 @@
         "longitude": -77.357611
     },
     {
-        "bikeAvail": 4,
+        "bikeAvail": 5,
         "capacity": 32,
         "demand": [
             1,
@@ -14833,14 +14833,14 @@
             2,
             3
         ],
-        "docAvail": 28,
+        "docAvail": 27,
         "docSize": 32,
         "id": "31292",
         "latitude": 38.892441,
         "longitude": -77.048947
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 20,
         "capacity": 32,
         "demand": [
             1,
@@ -14868,14 +14868,14 @@
             2,
             3
         ],
-        "docAvail": 15,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31714",
         "latitude": 38.891805,
         "longitude": -76.913563
     },
     {
-        "bikeAvail": 12,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -14903,14 +14903,14 @@
             2,
             3
         ],
-        "docAvail": 20,
+        "docAvail": 19,
         "docSize": 32,
         "id": "32218",
         "latitude": 38.960084,
         "longitude": -77.353414
     },
     {
-        "bikeAvail": 22,
+        "bikeAvail": 19,
         "capacity": 32,
         "demand": [
             1,
@@ -14938,46 +14938,11 @@
             2,
             3
         ],
-        "docAvail": 10,
+        "docAvail": 13,
         "docSize": 32,
         "id": "32219",
         "latitude": 38.955314,
         "longitude": -77.368416
-    },
-    {
-        "bikeAvail": 14,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 18,
-        "docSize": 32,
-        "id": "32220",
-        "latitude": 38.951443,
-        "longitude": -77.340377
     },
     {
         "bikeAvail": 16,
@@ -15009,6 +14974,41 @@
             3
         ],
         "docAvail": 16,
+        "docSize": 32,
+        "id": "32220",
+        "latitude": 38.951443,
+        "longitude": -77.340377
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
         "docSize": 32,
         "id": "31917",
         "latitude": 38.89386,
@@ -15155,7 +15155,7 @@
         "longitude": -77.016311
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 2,
         "capacity": 32,
         "demand": [
             1,
@@ -15183,14 +15183,14 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31125",
         "latitude": 38.919086,
         "longitude": -77.034502
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 24,
         "capacity": 32,
         "demand": [
             1,
@@ -15218,14 +15218,14 @@
             2,
             3
         ],
-        "docAvail": 15,
+        "docAvail": 8,
         "docSize": 32,
         "id": "31644",
         "latitude": 38.882489,
         "longitude": -76.990121
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 18,
         "capacity": 32,
         "demand": [
             1,
@@ -15253,14 +15253,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 14,
         "docSize": 32,
         "id": "31412",
         "latitude": 38.957463,
         "longitude": -77.002239
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -15288,7 +15288,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31919",
         "latitude": 38.876695,
@@ -15330,216 +15330,6 @@
         "longitude": -77.220157
     },
     {
-        "bikeAvail": 12,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 20,
-        "docSize": 32,
-        "id": "31645",
-        "latitude": 38.9028773031307,
-        "longitude": -76.99840486049652
-    },
-    {
-        "bikeAvail": 17,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 15,
-        "docSize": 32,
-        "id": "32057",
-        "latitude": 39.014716,
-        "longitude": -77.107143
-    },
-    {
-        "bikeAvail": 32,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 0,
-        "docSize": 32,
-        "id": "32059",
-        "latitude": 38.98265,
-        "longitude": -76.988311
-    },
-    {
-        "bikeAvail": 32,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 0,
-        "docSize": 32,
-        "id": "32061",
-        "latitude": 38.988101,
-        "longitude": -76.988422
-    },
-    {
-        "bikeAvail": 28,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 4,
-        "docSize": 32,
-        "id": "32062",
-        "latitude": 39.038341,
-        "longitude": -77.051023
-    },
-    {
-        "bikeAvail": 16,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 16,
-        "docSize": 32,
-        "id": "32063",
-        "latitude": 39.044887,
-        "longitude": -77.047788
-    },
-    {
         "bikeAvail": 15,
         "capacity": 32,
         "demand": [
@@ -15570,9 +15360,149 @@
         ],
         "docAvail": 17,
         "docSize": 32,
-        "id": "32064",
-        "latitude": 39.035965,
-        "longitude": -77.048395
+        "id": "31645",
+        "latitude": 38.9028773031307,
+        "longitude": -76.99840486049652
+    },
+    {
+        "bikeAvail": 21,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 11,
+        "docSize": 32,
+        "id": "32057",
+        "latitude": 39.014716,
+        "longitude": -77.107143
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
+        "docSize": 32,
+        "id": "32059",
+        "latitude": 38.98265,
+        "longitude": -76.988311
+    },
+    {
+        "bikeAvail": 23,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 9,
+        "docSize": 32,
+        "id": "32061",
+        "latitude": 38.988101,
+        "longitude": -76.988422
+    },
+    {
+        "bikeAvail": 18,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 14,
+        "docSize": 32,
+        "id": "32062",
+        "latitude": 39.038341,
+        "longitude": -77.051023
     },
     {
         "bikeAvail": 17,
@@ -15605,9 +15535,9 @@
         ],
         "docAvail": 15,
         "docSize": 32,
-        "id": "32065",
-        "latitude": 39.043272,
-        "longitude": -77.053085
+        "id": "32063",
+        "latitude": 39.044887,
+        "longitude": -77.047788
     },
     {
         "bikeAvail": 17,
@@ -15639,6 +15569,76 @@
             3
         ],
         "docAvail": 15,
+        "docSize": 32,
+        "id": "32064",
+        "latitude": 39.035965,
+        "longitude": -77.048395
+    },
+    {
+        "bikeAvail": 18,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 14,
+        "docSize": 32,
+        "id": "32065",
+        "latitude": 39.043272,
+        "longitude": -77.053085
+    },
+    {
+        "bikeAvail": 18,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 14,
         "docSize": 32,
         "id": "32066",
         "latitude": 39.032029,
@@ -15680,7 +15680,7 @@
         "longitude": -77.340787
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -15708,14 +15708,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32224",
         "latitude": 38.955170598044894,
         "longitude": -77.3630940914154
     },
     {
-        "bikeAvail": 9,
+        "bikeAvail": 11,
         "capacity": 32,
         "demand": [
             1,
@@ -15743,14 +15743,14 @@
             2,
             3
         ],
-        "docAvail": 23,
+        "docAvail": 21,
         "docSize": 32,
         "id": "31413",
         "latitude": 38.968834,
         "longitude": -77.016258
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 28,
         "capacity": 32,
         "demand": [
             1,
@@ -15778,7 +15778,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 4,
         "docSize": 32,
         "id": "31521",
         "latitude": 38.93293,
@@ -15820,7 +15820,7 @@
         "longitude": -77.021741
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 12,
         "capacity": 32,
         "demand": [
             1,
@@ -15848,14 +15848,14 @@
             2,
             3
         ],
-        "docAvail": 22,
+        "docAvail": 20,
         "docSize": 32,
         "id": "32067",
         "latitude": 39.121327,
         "longitude": -77.164969
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -15883,14 +15883,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31295",
         "latitude": 38.905368,
         "longitude": -77.065149
     },
     {
-        "bikeAvail": 1,
+        "bikeAvail": 2,
         "capacity": 32,
         "demand": [
             1,
@@ -15918,14 +15918,14 @@
             2,
             3
         ],
-        "docAvail": 31,
+        "docAvail": 30,
         "docSize": 32,
         "id": "31296",
         "latitude": 38.924088,
         "longitude": -77.040787
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -15953,7 +15953,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31920",
         "latitude": 38.888282,
@@ -15995,7 +15995,7 @@
         "longitude": -77.142317
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -16023,14 +16023,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31923",
         "latitude": 38.858524,
         "longitude": -77.103728
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 15,
         "capacity": 32,
         "demand": [
             1,
@@ -16058,7 +16058,7 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 17,
         "docSize": 32,
         "id": "32068",
         "latitude": 39.126,
@@ -16135,7 +16135,7 @@
         "longitude": -77.35428035259247
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -16163,14 +16163,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32070",
         "latitude": 39.105642,
         "longitude": -77.20386
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 20,
         "capacity": 32,
         "demand": [
             1,
@@ -16198,7 +16198,7 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 12,
         "docSize": 32,
         "id": "31297",
         "latitude": 38.8995,
@@ -16275,7 +16275,7 @@
         "longitude": -77.027112
     },
     {
-        "bikeAvail": 2,
+        "bikeAvail": 3,
         "capacity": 32,
         "demand": [
             1,
@@ -16303,14 +16303,14 @@
             2,
             3
         ],
-        "docAvail": 30,
+        "docAvail": 29,
         "docSize": 32,
         "id": "31299",
         "latitude": 38.912644,
         "longitude": -77.04564
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -16338,14 +16338,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31924",
         "latitude": 38.892556,
         "longitude": -77.082089
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -16373,14 +16373,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31320",
         "latitude": 38.936298,
         "longitude": -77.087128
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 1,
         "capacity": 32,
         "demand": [
             1,
@@ -16408,46 +16408,11 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 31,
         "docSize": 32,
         "id": "31321",
         "latitude": 38.892244,
         "longitude": -77.033234
-    },
-    {
-        "bikeAvail": 4,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 28,
-        "docSize": 32,
-        "id": "31127",
-        "latitude": 38.899104,
-        "longitude": -77.048946
     },
     {
         "bikeAvail": 5,
@@ -16480,12 +16445,12 @@
         ],
         "docAvail": 27,
         "docSize": 32,
-        "id": "31128",
-        "latitude": 38.905303,
-        "longitude": -77.050264
+        "id": "31127",
+        "latitude": 38.899104,
+        "longitude": -77.048946
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 7,
         "capacity": 32,
         "demand": [
             1,
@@ -16513,14 +16478,49 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 25,
+        "docSize": 32,
+        "id": "31128",
+        "latitude": 38.905303,
+        "longitude": -77.050264
+    },
+    {
+        "bikeAvail": 16,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 16,
         "docSize": 32,
         "id": "32071",
         "latitude": 39.106971,
         "longitude": -77.192645
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -16548,14 +16548,14 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "32072",
         "latitude": 39.106152,
         "longitude": -77.202354
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 26,
         "capacity": 32,
         "demand": [
             1,
@@ -16583,14 +16583,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 6,
         "docSize": 32,
         "id": "31813",
         "latitude": 38.84627,
         "longitude": -76.98185
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 31,
         "capacity": 32,
         "demand": [
             1,
@@ -16618,14 +16618,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 1,
         "docSize": 32,
         "id": "31814",
         "latitude": 38.84377,
         "longitude": -76.97557
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 28,
         "capacity": 32,
         "demand": [
             1,
@@ -16653,14 +16653,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 4,
         "docSize": 32,
         "id": "31815",
         "latitude": 38.84623,
         "longitude": -76.97703
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 19,
         "capacity": 32,
         "demand": [
             1,
@@ -16688,14 +16688,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 13,
         "docSize": 32,
         "id": "31816",
         "latitude": 38.836,
         "longitude": -77.0009
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -16723,14 +16723,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 10,
         "docSize": 32,
         "id": "31817",
         "latitude": 38.824481,
         "longitude": -77.005497
     },
     {
-        "bikeAvail": 21,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -16758,14 +16758,14 @@
             2,
             3
         ],
-        "docAvail": 11,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31818",
         "latitude": 38.82373,
         "longitude": -77.00223
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -16793,7 +16793,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31819",
         "latitude": 38.81909,
@@ -16905,7 +16905,7 @@
         "longitude": -77.025236
     },
     {
-        "bikeAvail": 10,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -16933,11 +16933,186 @@
             2,
             3
         ],
-        "docAvail": 22,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31523",
         "latitude": 38.915,
         "longitude": -77.0078
+    },
+    {
+        "bikeAvail": 18,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 14,
+        "docSize": 32,
+        "id": "32073",
+        "latitude": 39.04313,
+        "longitude": -77.05006
+    },
+    {
+        "bikeAvail": 8,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 24,
+        "docSize": 32,
+        "id": "31415",
+        "latitude": 38.95674,
+        "longitude": -77.02791
+    },
+    {
+        "bikeAvail": 17,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 15,
+        "docSize": 32,
+        "id": "31647",
+        "latitude": 38.89222,
+        "longitude": -76.99602
+    },
+    {
+        "bikeAvail": 26,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 6,
+        "docSize": 32,
+        "id": "31820",
+        "latitude": 38.87335,
+        "longitude": -76.9834
+    },
+    {
+        "bikeAvail": 18,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 14,
+        "docSize": 32,
+        "id": "32074",
+        "latitude": 39.062041,
+        "longitude": -77.120776
     },
     {
         "bikeAvail": 16,
@@ -16970,184 +17145,114 @@
         ],
         "docAvail": 16,
         "docSize": 32,
-        "id": "32073",
-        "latitude": 39.04313,
-        "longitude": -77.05006
-    },
-    {
-        "bikeAvail": 7,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 25,
-        "docSize": 32,
-        "id": "31415",
-        "latitude": 38.95674,
-        "longitude": -77.02791
-    },
-    {
-        "bikeAvail": 12,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 20,
-        "docSize": 32,
-        "id": "31647",
-        "latitude": 38.89222,
-        "longitude": -76.99602
-    },
-    {
-        "bikeAvail": 32,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 0,
-        "docSize": 32,
-        "id": "31820",
-        "latitude": 38.87335,
-        "longitude": -76.9834
-    },
-    {
-        "bikeAvail": 15,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 17,
-        "docSize": 32,
-        "id": "32074",
-        "latitude": 39.062041,
-        "longitude": -77.120776
-    },
-    {
-        "bikeAvail": 14,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 18,
-        "docSize": 32,
         "id": "32075",
         "latitude": 39.04753,
         "longitude": -77.11287
+    },
+    {
+        "bikeAvail": 20,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 12,
+        "docSize": 32,
+        "id": "32076",
+        "latitude": 39.049,
+        "longitude": -77.10933
+    },
+    {
+        "bikeAvail": 18,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 14,
+        "docSize": 32,
+        "id": "32077",
+        "latitude": 39.049765,
+        "longitude": -77.11368
+    },
+    {
+        "bikeAvail": 17,
+        "capacity": 32,
+        "demand": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3
+        ],
+        "docAvail": 15,
+        "docSize": 32,
+        "id": "32078",
+        "latitude": 39.04317,
+        "longitude": -77.1135
     },
     {
         "bikeAvail": 19,
@@ -17179,111 +17284,6 @@
             3
         ],
         "docAvail": 13,
-        "docSize": 32,
-        "id": "32076",
-        "latitude": 39.049,
-        "longitude": -77.10933
-    },
-    {
-        "bikeAvail": 16,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 16,
-        "docSize": 32,
-        "id": "32077",
-        "latitude": 39.049765,
-        "longitude": -77.11368
-    },
-    {
-        "bikeAvail": 15,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 17,
-        "docSize": 32,
-        "id": "32078",
-        "latitude": 39.04317,
-        "longitude": -77.1135
-    },
-    {
-        "bikeAvail": 16,
-        "capacity": 32,
-        "demand": [
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3,
-            1,
-            2,
-            3
-        ],
-        "docAvail": 16,
         "docSize": 32,
         "id": "32079",
         "latitude": 39.04873,
@@ -17360,7 +17360,7 @@
         "longitude": -77.129235
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -17388,7 +17388,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "32082",
         "latitude": 39.00048,
@@ -17500,7 +17500,7 @@
         "longitude": -76.844604
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 32,
         "capacity": 32,
         "demand": [
             1,
@@ -17528,14 +17528,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 0,
         "docSize": 32,
         "id": "32402",
         "latitude": 38.969581,
         "longitude": -76.937349
     },
     {
-        "bikeAvail": 30,
+        "bikeAvail": 32,
         "capacity": 32,
         "demand": [
             1,
@@ -17563,7 +17563,7 @@
             2,
             3
         ],
-        "docAvail": 2,
+        "docAvail": 0,
         "docSize": 32,
         "id": "32403",
         "latitude": 38.95548,
@@ -17605,7 +17605,7 @@
         "longitude": -76.960054
     },
     {
-        "bikeAvail": 14,
+        "bikeAvail": 15,
         "capacity": 32,
         "demand": [
             1,
@@ -17633,14 +17633,14 @@
             2,
             3
         ],
-        "docAvail": 18,
+        "docAvail": 17,
         "docSize": 32,
         "id": "32083",
         "latitude": 39.050539,
         "longitude": -77.115212
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 17,
         "capacity": 32,
         "demand": [
             1,
@@ -17668,7 +17668,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 15,
         "docSize": 32,
         "id": "31648",
         "latitude": 38.870201045557025,
@@ -17745,7 +17745,7 @@
         "longitude": -76.825535
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 26,
         "capacity": 32,
         "demand": [
             1,
@@ -17773,14 +17773,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 6,
         "docSize": 32,
         "id": "31822",
         "latitude": 38.855004,
         "longitude": -76.984512
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -17808,14 +17808,14 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31649",
         "latitude": 38.931991,
         "longitude": -77.032956
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -17843,7 +17843,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31322",
         "latitude": 38.917304,
@@ -17920,7 +17920,7 @@
         "longitude": -77.006072
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 28,
         "capacity": 32,
         "demand": [
             1,
@@ -17948,14 +17948,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 4,
         "docSize": 32,
         "id": "32406",
         "latitude": 38.782633,
         "longitude": -77.016059
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -17983,14 +17983,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 10,
         "docSize": 32,
         "id": "32407",
         "latitude": 38.798749,
         "longitude": -77.00103
     },
     {
-        "bikeAvail": 0,
+        "bikeAvail": 13,
         "capacity": 32,
         "demand": [
             1,
@@ -18018,7 +18018,7 @@
             2,
             3
         ],
-        "docAvail": 32,
+        "docAvail": 19,
         "docSize": 32,
         "id": "31651",
         "latitude": 38.93165,
@@ -18235,7 +18235,7 @@
         "longitude": -77.012443
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -18263,7 +18263,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31524",
         "latitude": 38.907444,
@@ -18305,7 +18305,7 @@
         "longitude": -77.011616
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 28,
         "capacity": 32,
         "demand": [
             1,
@@ -18333,7 +18333,7 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 4,
         "docSize": 32,
         "id": "31656",
         "latitude": 38.901935,
@@ -18375,7 +18375,7 @@
         "longitude": -76.998273
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 21,
         "capacity": 32,
         "demand": [
             1,
@@ -18403,14 +18403,14 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 11,
         "docSize": 32,
         "id": "31323",
         "latitude": 38.923389,
         "longitude": -77.051833
     },
     {
-        "bikeAvail": 20,
+        "bikeAvail": 19,
         "capacity": 32,
         "demand": [
             1,
@@ -18438,14 +18438,14 @@
             2,
             3
         ],
-        "docAvail": 12,
+        "docAvail": 13,
         "docSize": 32,
         "id": "32230",
         "latitude": 38.923780884125435,
         "longitude": -77.20790550112724
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -18473,14 +18473,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31525",
         "latitude": 38.906299,
         "longitude": -76.983221
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 27,
         "capacity": 32,
         "demand": [
             1,
@@ -18508,14 +18508,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 5,
         "docSize": 32,
         "id": "31658",
         "latitude": 38.897808,
         "longitude": -76.979634
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 23,
         "capacity": 32,
         "demand": [
             1,
@@ -18543,7 +18543,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 9,
         "docSize": 32,
         "id": "31659",
         "latitude": 38.885908,
@@ -18585,7 +18585,7 @@
         "longitude": -77.012808
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 26,
         "capacity": 32,
         "demand": [
             1,
@@ -18613,14 +18613,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 6,
         "docSize": 32,
         "id": "31823",
         "latitude": 38.835737,
         "longitude": -76.983144
     },
     {
-        "bikeAvail": 15,
+        "bikeAvail": 16,
         "capacity": 32,
         "demand": [
             1,
@@ -18648,7 +18648,7 @@
             2,
             3
         ],
-        "docAvail": 17,
+        "docAvail": 16,
         "docSize": 32,
         "id": "31324",
         "latitude": 38.911268,
@@ -18760,7 +18760,7 @@
         "longitude": -76.952199
     },
     {
-        "bikeAvail": 17,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -18788,7 +18788,7 @@
             2,
             3
         ],
-        "docAvail": 15,
+        "docAvail": 10,
         "docSize": 32,
         "id": "32412",
         "latitude": 38.974205,
@@ -18830,7 +18830,7 @@
         "longitude": -76.955047
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 28,
         "capacity": 32,
         "demand": [
             1,
@@ -18858,14 +18858,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 4,
         "docSize": 32,
         "id": "32414",
         "latitude": 38.9725,
         "longitude": -76.9807
     },
     {
-        "bikeAvail": 32,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -18893,14 +18893,14 @@
             2,
             3
         ],
-        "docAvail": 0,
+        "docAvail": 10,
         "docSize": 32,
         "id": "32415",
         "latitude": 38.7968,
         "longitude": -77.0026
     },
     {
-        "bikeAvail": 16,
+        "bikeAvail": 22,
         "capacity": 32,
         "demand": [
             1,
@@ -18928,7 +18928,7 @@
             2,
             3
         ],
-        "docAvail": 16,
+        "docAvail": 10,
         "docSize": 32,
         "id": "32416",
         "latitude": 38.961737,
