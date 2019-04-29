@@ -14,7 +14,7 @@ class BikeAlg:
             stationLoc = (stationList[i].longitude, stationList[i].latitude)
             endLoc = (loc.x, loc.y)
             dist = great_circle(stationLoc, endLoc).miles
-            # create pair and store at sortedAdjacentIDs[j]
+            #create pair and store at sortedAdjacentIDs[j]
             pair = DisPair(stationList[i], dist)
             loc.sortedAdj.append(pair)
         #sort sortedAdj for location
@@ -29,7 +29,7 @@ class BikeAlg:
             sp = SugPair(loc.sortedAdj[i].station, sug)
             #test distance s.sortedAdj.get(i).dis
             loc.sortedSug.append(sp)
-            i+=1
+            i += 1
         # reverse order sort
         loc.sortedSug.sort(reverse = True)
 
@@ -37,5 +37,5 @@ class BikeAlg:
         i = 0
         size = len(loc.sortedAdj)
         while(i < size and loc.sortedAdj[i].dist < dist):
-            i+=1
+            i += 1
         return i
