@@ -6,7 +6,9 @@ import json
 import statistics
 import matplotlib.pyplot as plt
 
-
+'''
+Ration is bikes available/total number of bikes at station
+'''
 def scorer(path):
     avail = []
     ratio = []

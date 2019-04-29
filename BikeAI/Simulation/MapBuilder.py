@@ -32,20 +32,26 @@ class SimMap:
                     userDic = {'StartDate': [], 'EndDate': [], 'StartStation': [], 'EndStation': []}
                     date = df.index[i]
                     duration, startDate, endDate, startStationNumber, startStationLoc, endSationNumber, endStationLoc, bikeNumber, memberType = row
-                    if str(startStationNumber) in self.stations and str(endSationNumber) in self.stations:
-                        userDic.get('StartDate').append(str(startDate)[:-3])
-                        userDic.get('EndDate').append(str(endDate)[:-3])
-                        userDic.get('StartStation').append(str(startStationNumber))
-                        userDic.get('EndStation').append(str(endSationNumber))
+                    startStationNumber = str(startStationNumber)
+                    endSationNumber = str(endSationNumber)
+                    startDate = str(startDate)
+                    endDate = str(endDate)
+                    endSationNumber = str(endSationNumber)
+                    startStationNumber = str(startStationNumber)
+                    if startStationNumber in self.stations and endSationNumber in self.stations:
+                        userDic.get('StartDate').append(startDate[:-3])
+                        userDic.get('EndDate').append(endDate[:-3])
+                        userDic.get('StartStation').append(startStationNumber)
+                        userDic.get('EndStation').append(endSationNumber)
 
-                        newUser = User(str(startStationNumber), str(endSationNumber), self.generateRandomLocaton(str(endSationNumber)),
-                                       str(endDate)[:-3], [self.stations[str(startStationNumber)].longitude, self.stations[str(startStationNumber)].latitude])
+                        newUser = User(startStationNumber, endSationNumber, self.generateRandomLocaton(endSationNumber),
+                                       endDate[:-3], [self.stations[startStationNumber].longitude, self.stations[startStationNumber].latitude])
 
                         if str(startDate)[:-3] in self.usersStart:
-                            self.usersStart[str(startDate)[:-3]].append(newUser)
+                            self.usersStart[startDate[:-3]].append(newUser)
                         else:
-                            self.usersStart[str(startDate)[:-3]] = []
-                            self.usersStart[str(startDate)[:-3]].append(newUser)
+                            self.usersStart[startDate[:-3]] = []
+                            self.usersStart[startDate[:-3]].append(newUser)
         #print(list(self.users.keys())[0])
         #print(self.users[list(self.users.keys())[0]])
 
