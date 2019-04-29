@@ -55,18 +55,18 @@ class SimMap:
         data = data['stations']
         #print(data)
         for row in data:
-
+            '''
             self.stations[row['id']] = Station(id=row['id'], longitude=row['longitude'],
                                                       latitude=row['latitude'], demand=row['demand'],
                                                       bikeAvail=row['bikeAvail'], docAvail=row['docAvail'],
                                                       capacity=row['capacity'])
-
             '''
+
             self.stations[row['id']] = Station(id=row['id'], longitude=row['longitude'],
-                                                latitude=row['latitude'], nec=row['nec'],
+                                                latitude=row['latitude'], demand=row['demand'],
                                                 bikeAvail=16, docAvail=16,
                                                 capacity=32)
-            '''
+
 
     def generateRandomLocaton(self, stationId):
         if stationId in self.stations:
