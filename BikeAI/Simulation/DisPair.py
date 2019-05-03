@@ -5,10 +5,11 @@ from DisPair import *
 from SugPair import *
 
 class DisPair:
-    def __init__(self, station, dist):
+    def __init__(self, station, dist, rad):
         self.station = station
         self.dist = dist
-        self.prio = 1 - dist
+        self.rad = rad
+        self.prio = rad - dist
 
     def compare(self, pair):
         if (self.dist - pair.dist > 0):
