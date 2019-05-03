@@ -73,6 +73,16 @@ class SimMap:
                                                 bikeAvail=16, docAvail=16,
                                                 capacity=32)
 
+    def takeStationsFromJson(self):
+        path = 'jsonPhil.json'
+        with open(path) as json_file:
+            data = JsonCreator.load(json_file)
+            for field in data['stations']:
+                self.stations[field['id']] = Station(id=field['id'], longitude=field['longitude'],
+                                                   latitude=field['latitude'], demand=field['demand'],
+                                                   bikeAvail=16, docAvail=16,
+                                                   capacity=32)
+
 
     def generateRandomLocaton(self, stationId):
         if stationId in self.stations:

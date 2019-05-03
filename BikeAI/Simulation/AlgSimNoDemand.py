@@ -7,7 +7,8 @@ import Scorer
 from datetime import datetime
 from dateutil import rrule
 
-STATIONRADIUS = 1
+STATIONRADIUS = int(input('Station radius: '))
+INCENTIVEPERCENT = float(input('Percentage incentive is taken: '))
 missingStations = []
 stationsDocUnavail = []
 stationsBikeUnavail = []
@@ -16,7 +17,7 @@ DocUnavailErrors = 0
 BikeUnavailErrors = 0
 nonErrors = 0
 simMap = SimMap()
-simMap.takeStations()
+simMap.takeStationsFromJson()
 simMap.takeUsers()
 simMap.calculateStationBaseline()
 STATIONLIST = list(simMap.stations.values())
