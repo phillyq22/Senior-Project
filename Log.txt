@@ -40,4 +40,9 @@
 4/29/19 - Updated suggestion algorithm for simulation/testing (Austin)
 4/29/19 - Updated project spec doc, documented CapitalBikeAPI.py, and produced JSON for data during hour of 12:00 am from API database, worked on presentations (Philip)
 4/29/19 - Commented on previously worked code (Andrew)
+5/3/19 - Update Design Doc (Team)
+5/3/19 - Fix simulation input/ testing procedures (Matt)
+5/3/19 - Fix/update algorithm distance input (Austin)
+5/3/19 - incorporate demand to algorithm (Matt and Austin)
+5/3/19 - Updating User Manual (Phil and Zac)
 
