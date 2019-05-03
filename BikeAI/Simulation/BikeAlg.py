@@ -4,8 +4,9 @@ from SugPair import *
 
 
 class BikeAlg:
-    def __init__(self):
+    def __init__(self, rad):
         self.stationList = []
+        self.rad = rad
 
     def preProcess(self, stationList, loc):
         self.stationList = stationList
@@ -15,17 +16,17 @@ class BikeAlg:
             endLoc = (loc.x, loc.y)
             dist = great_circle(stationLoc, endLoc).miles
             # create pair and store at sortedAdjacentIDs[j]
-            pair = DisPair(stationList[i], dist)
+            pair = DisPair(stationList[i], dist, self.rad)
             loc.sortedAdj.append(pair)
         #sort sortedAdj for location
         loc.sortedAdj.sort()
 
-    def getSuggest(self, loc, dist, time):
+    def getSuggest(self, loc, time):
 
         size = len(loc.sortedAdj)
         i = 0
-        while i < size and loc.sortedAdj[i].dist <= dist:
-            sug = loc.sortedAdj[i].prio*10 + loc.sortedAdj[i].station.calcNec(time)*10000000000000*loc.sortedAdj[i].station.calcNec(time)*(10)
+        while i < size and loc.sortedAdj[i].dist <= self.rad:
+            sug = loc.sortedAdj[i].prio*10*loc.sortedAdj[i].prio*10 + loc.sortedAdj[i].station.calcNec(time)*10
             sp = SugPair(loc.sortedAdj[i].station, sug)
             #test distance s.sortedAdj.get(i).dis
             loc.sortedSug.append(sp)
@@ -33,9 +34,9 @@ class BikeAlg:
         # reverse order sort
         loc.sortedSug.sort(reverse = True)
 
-    def getWithin(self, loc, dist):
+    def getWithin(self, loc):
         i = 0
         size = len(loc.sortedAdj)
-        while(i < size and loc.sortedAdj[i].dist < dist):
+        while(i < size and loc.sortedAdj[i].dist < self.rad):
             i+=1
         return i
