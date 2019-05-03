@@ -30,7 +30,7 @@ class BikeAlg:
             sp = SugPair(loc.sortedAdj[i].station, sug)
             #test distance s.sortedAdj.get(i).dis
             loc.sortedSug.append(sp)
-            i+=1
+            i += 1
         # reverse order sort
         loc.sortedSug.sort(reverse = True)
 

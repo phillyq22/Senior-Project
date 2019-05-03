@@ -7,7 +7,7 @@ import Scorer
 from datetime import datetime
 from dateutil import rrule
 
-STATIONRADIUS = 5
+STATIONRADIUS = 1
 missingStations = []
 stationsDocUnavail = []
 stationsBikeUnavail = []
@@ -52,7 +52,7 @@ for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):
                     nonErrors += 1
                 else:
                     stationsBikeUnavail.append(user.startStation)
-                    BikeUnavailErrors+=1
+                    BikeUnavailErrors += 1
             else:
                 missingStations.append(user.startStation)
                 stationMissingErrors += 1
@@ -89,7 +89,7 @@ for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):
                     nonErrors += 1
                 else:
                     stationsDocUnavail.append(user.endStation)
-                    DocUnavailErrors+=1
+                    DocUnavailErrors += 1
             else:
                 missingStations.append(user.endStation)
                 stationMissingErrors += 1
