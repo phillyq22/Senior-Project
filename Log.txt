@@ -34,9 +34,10 @@
 4/5/19 - Preliminary station simulation (Matt and Austin)
 4/5/19 - Edited LoadPredict.py to give back list of Demand for specific station (Andrew)
 4/10/19 - Fixed python script to pull data from CapitalBike API every hour. (Philip)
-4/10/19 - Built simulation using Austin's nearest station algorithm.(Matt)
+4/10/19 - Built simulation incorporating station nearest station algorithm.(Matt and Austin)
 4/28/19 - Made simulation code more efficient. (Philip)
-4/29/19 - Built simulation with neccessity algorithm.(Matt)
+4/29/19 - Built simulation with neccessity algorithm(Matt and Austin)
+4/29/19 - Updated suggestion algorithm for simulation/testing (Austin)
 4/29/19 - Updated project spec doc, documented CapitalBikeAPI.py, and produced JSON for data during hour of 12:00 am from API database, worked on presentations (Philip)
 4/29/19 - Commented on previously worked code (Andrew)
 
