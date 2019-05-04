@@ -54,7 +54,7 @@ class Station:
     def calcNec(self, time):
         target = self.prop * self.docSize
         #NO TAAAAHHHMMM
-        #return target - (self.bikeAvail - self.demand[time])
-        return target - (self.bikeAvail - 0)
+        return target - (self.bikeAvail - self.demand[time])
+        #return target - (self.bikeAvail - 0)
 
 

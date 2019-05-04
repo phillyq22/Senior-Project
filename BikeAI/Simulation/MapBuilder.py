@@ -74,7 +74,7 @@ class SimMap:
                                                 capacity=32)
 
     def takeStationsFromJson(self):
-        path = 'jsonPhil.json'
+        path = 'data.json'
         with open(path) as json_file:
             data = JsonCreator.load(json_file)
             for field in data['stations']:

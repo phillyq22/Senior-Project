@@ -46,6 +46,6 @@ def twentyFourHourTest(startStation, month = defaultMonth, dayOfWeek = defaultDa
         i = i + 100
     return arrayOfDemand
 
-print(twentyFourHourTest(31068)) #31021
+#print(twentyFourHourTest(31068)) #31021
 
 #print(testSingleStation(startStation=31021, month=3, dayOfWeek=2, time=120))

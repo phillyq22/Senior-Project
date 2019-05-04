@@ -9,7 +9,7 @@ class DisPair:
         self.station = station
         self.dist = dist
         self.rad = rad
-        self.prio = rad - dist
+        self.prio = (rad - dist) / rad
 
     def compare(self, pair):
         if (self.dist - pair.dist > 0):

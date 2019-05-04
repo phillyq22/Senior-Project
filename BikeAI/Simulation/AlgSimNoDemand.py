@@ -6,9 +6,10 @@ from User import User
 import Scorer
 from datetime import datetime
 from dateutil import rrule
+import random
 
-STATIONRADIUS = int(input('Station radius: '))
-INCENTIVEPERCENT = float(input('Percentage incentive is taken: '))
+STATIONRADIUS = float(input('Station radius: '))
+INCENTIVEPERCENT = int(input('Percentage incentive is taken: '))
 missingStations = []
 stationsDocUnavail = []
 stationsBikeUnavail = []
@@ -36,10 +37,10 @@ for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):
             print(user)
             print('START STATION:  ', user.startStation)
 
-            ba = BikeAlg()
+            ba = BikeAlg(STATIONRADIUS)
             loc = EndLocation(user.startLocation[0], user.startLocation[1])
             ba.preProcess(STATIONLIST, loc)
-            ba.getWithin(loc, STATIONRADIUS)
+            ba.getWithin(loc)
 
             for startStation in loc.sortedAdj: #LIST STATION CLOSE BY
                 startStationId = startStation.station.id
@@ -69,16 +70,24 @@ for dt in rrule.rrule(rrule.MINUTELY, dtstart=startDay, until=endYear):
     if dateString in simMap.usersEnding:
         for user in simMap.usersEnding[dateString]:
             print(user)
-
+            time = int((int(str(dt)[15:-3]) + int(str(dt)[12:-6]) * 60)/24)
             # UPDATE USER END STATION BASED ON END LOCATION
-            ba = BikeAlg()
+            ba = BikeAlg(STATIONRADIUS)
             loc = EndLocation(user.endLocation[0], user.endLocation[1])
             ba.preProcess(STATIONLIST, loc)
-            ba.getSuggest(loc, STATIONRADIUS, 0)
+            ba.getSuggest(loc, time)
+
+            randNum = random.randint(0,101)
+            listToView = []
+            if randNum < INCENTIVEPERCENT:
+                listToView = loc.sortedSug
+            else:
+                listToView = loc.sortedAdj
+
 
 
             # THIS IS WHERE WE TELL THE USER TO GO.
-            for endStation in loc.sortedSug: #LIST STATION CLOSE BY
+            for endStation in listToView: #LIST STATION CLOSE BY
                 endStationId = endStation.station.id
                 if simMap.stations[endStationId].isDocAvail():
                     user.endStation = endStationId
