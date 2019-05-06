@@ -4,13 +4,18 @@ from EndLocation import *
 from DisPair import *
 from SugPair import *
 
+#Custom Data Structure to match stations with distances
 class DisPair:
     def __init__(self, station, dist, rad):
         self.station = station
+        #Distance between given station and end location
         self.dist = dist
+        #Algorithm looks at stations within radius 'rad'
         self.rad = rad
-        self.prio = rad - dist
+        #Used for necessity equation (Trying to weigh distance)
+        self.prio = (rad - dist)/rad
 
+#Custom compare function for sorting
     def compare(self, pair):
         if (self.dist - pair.dist > 0):
             return 1

@@ -7,8 +7,10 @@ from SugPair import *
 class SugPair:
     def __init__(self, station, sug):
         self.station = station
+        #weight of necessity calculated for given station
         self.sug = sug
 
+    #custom compare for sorting
     def compare(self, pair):
         if (self.sug - pair.sug > 0):
             return 1
