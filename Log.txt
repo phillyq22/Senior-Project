@@ -45,4 +45,5 @@
 5/3/19 - Fix/update algorithm distance input (Austin)
 5/3/19 - incorporate demand to algorithm (Matt and Austin)
 5/3/19 - Updating User Manual (Phil and Zac)
+5/6/19 - Updated documentation for User.py, Station.py, EndLocation.py, and added retrieveAWSData.py (Phil)
 

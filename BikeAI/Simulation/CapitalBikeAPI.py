@@ -2,6 +2,7 @@ import requests
 from datetime import datetime
 import sqlite3 as lite
 import json
+import LoadPredict
 '''
 Allows for creation and connection to the bikeAPI database.
 Will recreate the database every time that an instance of the class is created.
@@ -104,7 +105,7 @@ class CapitalBikeAPI:
         for row in rows:
             #demand = calcDemand(id=row[0])
             data['stations'].append({'id': row[0], 'longitude': row[1], 'latitude': row[2], 'bikeAvail': row[3],
-                                     'capacity': row[4], 'docAvail': row[5], 'demand': [1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3,1,2,3]})
+                                     'capacity': row[4], 'docAvail': row[5], 'demand': LoadPredict.twentyFourHourTest(row[0])})
         text = json.dumps(data)
         with open('data.json', 'w') as text_file:
             text_file.write(text)

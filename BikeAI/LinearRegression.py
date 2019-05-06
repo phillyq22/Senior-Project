@@ -9,6 +9,7 @@ import pickle
 
 '''
 Reads in the weather data, puts demand variable in Y, puts rest of the relevant variables into X
+Change "finalWeatherData.csv" to wherever your data.csv file is
 '''
 data = pd.read_csv('./finalWeatherData.csv')
 X = data.iloc[:, [1, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17]]
