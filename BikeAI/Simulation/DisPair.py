@@ -1,8 +1,3 @@
-from BikeAlg import *
-from Station import *
-from EndLocation import *
-from DisPair import *
-from SugPair import *
 
 #Custom Data Structure to match stations with distances
 class DisPair:
@@ -12,12 +7,8 @@ class DisPair:
         self.dist = dist
         #Algorithm looks at stations within radius 'rad'
         self.rad = rad
-<<<<<<< HEAD
         #Used for necessity equation (Trying to weigh distance)
         self.prio = (rad - dist)/rad
-=======
-        self.prio = (rad - dist) / rad
->>>>>>> 34e9f4d98f28418615b115f4f5055ce988978148
 
 #Custom compare function for sorting
     def compare(self, pair):

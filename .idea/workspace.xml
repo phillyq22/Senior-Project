@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="714e3d4c-06c0-4b90-b969-27792176d413" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeAI/Simulation/AlgSimNoDemand.py" beforeDir="false" afterPath="$PROJECT_DIR$/BikeAI/Simulation/AlgSimNoDemand.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BikeAI/Simulation/BikeAlg.py" beforeDir="false" afterPath="$PROJECT_DIR$/BikeAI/Simulation/BikeAlg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeAI/Simulation/DisPair.py" beforeDir="false" afterPath="$PROJECT_DIR$/BikeAI/Simulation/DisPair.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +18,8 @@
       <file leaf-file-name="AlgSimNoDemand.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/AlgSimNoDemand.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1445">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -38,28 +36,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DisPair.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DisPair.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/DisPair.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BikeAlg.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BikeAlg.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/BikeAlg.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="jsonPhil.json" pinned="false" current-in-tab="false">
@@ -83,10 +71,22 @@
       <file leaf-file-name="Station.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/Station.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
+            <state relative-caret-position="952">
               <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlgorithmSIm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/AlgorithmSIm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,14 +173,14 @@
         <option value="$PROJECT_DIR$/BikeAI/Simulation/UserData/AlgSimNoDemand.py" />
         <option value="$PROJECT_DIR$/BikeAI/Simulation/json.txt" />
         <option value="$PROJECT_DIR$/BikeAI/Simulation/json.json" />
-        <option value="$PROJECT_DIR$/BikeAI/Simulation/DisPair.py" />
         <option value="$PROJECT_DIR$/BikeAI/Simulation/Station.py" />
         <option value="$PROJECT_DIR$/BikeAI/Simulation/LoadPredict.py" />
         <option value="$PROJECT_DIR$/BikeAI/Simulation/CapitalBikeAPI.py" />
         <option value="$PROJECT_DIR$/BikeAI/Simulation/data.json" />
         <option value="$PROJECT_DIR$/BikeAI/Simulation/MapBuilder.py" />
-        <option value="$PROJECT_DIR$/BikeAI/Simulation/AlgSimNoDemand.py" />
         <option value="$PROJECT_DIR$/BikeAI/Simulation/BikeAlg.py" />
+        <option value="$PROJECT_DIR$/BikeAI/Simulation/AlgSimNoDemand.py" />
+        <option value="$PROJECT_DIR$/BikeAI/Simulation/DisPair.py" />
       </list>
     </option>
   </component>
@@ -472,13 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/AlgorithmSIm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/UserData/AlgSimNoDemand.py" />
     <entry file="file://$PROJECT_DIR$/BikeAI/unparsedData/201806-capitalbikeshare-tripdata.csv">
       <provider selected="true" editor-type-id="LargeFileEditor" />
@@ -516,16 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/Station.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/CapitalBikeAPI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2550">
@@ -560,16 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/DisPair.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/LoadPredict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -582,21 +555,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/AlgSimNoDemand.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/BikeAlg.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/Station.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/AlgorithmSIm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/BikeAlg.py">
+    <entry file="file://$PROJECT_DIR$/BikeAI/Simulation/DisPair.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
         </state>
       </provider>
     </entry>
