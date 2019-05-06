@@ -2,7 +2,9 @@ from geopy.distance import great_circle
 from DisPair import *
 from SugPair import *
 
-
+'''
+Class created in order to determine the list of nearby stations to another station.
+'''
 class BikeAlg:
     def __init__(self, rad):
         self.stationList = []
