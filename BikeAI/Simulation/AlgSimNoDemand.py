@@ -2,7 +2,6 @@ from MapBuilder import SimMap
 from EndLocation import *
 from BikeAlg import *
 from Station import Station
-from User import User
 import Scorer
 from datetime import datetime
 from dateutil import rrule
