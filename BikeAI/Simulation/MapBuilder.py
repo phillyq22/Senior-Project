@@ -14,20 +14,22 @@ random.seed(78787)
 #28
 END_LOCATION_RADIUS_DIVIDE_BY_10 = 3
 
-
+# Maps out users and stations for our simulation.
 class SimMap:
-
+    # initialize station and user dictionary.
     def __init__(self):
         self.stations = {}
         self.usersStart = {}
         self.usersEnding = {}
 
+    # Takes user data from csv file to populate userStart Dictionary.
     def takeUsers(self):
+        # Loops through all the data in the csv files in a specified folder.
         for dataString in os.listdir('UserData'):
             if dataString.endswith(".csv"):
                 df = read_csv("UserData/" + dataString)
                 print('File: ', dataString, ' Size of input', len(df))
-
+                # Loops through each row in a csv and creates a user object from the data.
                 for i, row in enumerate(df.values):
                     userDic = {'StartDate': [], 'EndDate': [], 'StartStation': [], 'EndStation': []}
                     date = df.index[i]
@@ -55,6 +57,7 @@ class SimMap:
         #print(list(self.users.keys())[0])
         #print(self.users[list(self.users.keys())[0]])
 
+    # Take station from database(unused)
     def takeStations(self):
         cb = CapitalBikeAPI()
         data = cb.create_simulation_json()
@@ -73,6 +76,7 @@ class SimMap:
                                                 bikeAvail=16, docAvail=16,
                                                 capacity=32)
 
+    # Takes sation data from json and creates station objects to place in station dictionary.
     def takeStationsFromJson(self):
         path = 'data.json'
         with open(path) as json_file:
@@ -83,7 +87,7 @@ class SimMap:
                                                    bikeAvail=16, docAvail=16,
                                                    capacity=32)
 
-
+    # Generates a random location within a given radius based off a station location.
     def generateRandomLocaton(self, stationId):
         if stationId in self.stations:
             while True:
@@ -100,10 +104,11 @@ class SimMap:
         else:
             return [random.randint(0, 100), random.randint(0, 100)]
 
-
+    # Creates a json file from the station dictionary.
     def generateStationJson(self, outFile):
         return JsonCreator.dump(list(self.stations.values()), outFile, default=lambda o: o.toJSON(), sort_keys=True, indent=4)
 
+    # Calculates the proportion of bikes for each station.
     def calculateStationBaseline(self):
         totalDocSize = 0
         totalBikes = 0

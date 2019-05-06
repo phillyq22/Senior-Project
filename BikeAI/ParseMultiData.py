@@ -4,16 +4,19 @@ from dateutil import rrule
 import os
 import gc
 
+# Looks at csv files and creates another csv file with the data cleaned up.
+
 dic = {'StartDate': [], 'EndDate': [], 'StartStation': [], 'EndStation': []}
 
 #listOfData = ['201801_capitalbikeshare_tripdata.csv', '201802-capitalbikeshare-tripdata.csv', '201803-capitalbikeshare-tripdata.csv', '201804-capitalbikeshare-tripdata.csv', '201805-capitalbikeshare-tripdata.csv', '201806-capitalbikeshare-tripdata.csv', '201807-capitalbikeshare-tripdata.csv', '201808-capitalbikeshare-tripdata.csv', '201809-capitalbikeshare-tripdata.csv', '201810-capitalbikeshare-tripdata.csv', '201811-capitalbikeshare-tripdata.csv', '201812-capitalbikeshare-tripdata.csv']
 
 
+# Converts a date time to minute of the day.
 def converter(x: datetime):
     result = x.hour * 60 + x.minute
     return result
 
-
+# Loops through data frame and add important data to a dictionary.
 for dataString in os.listdir('unparsedData'):
     if dataString.endswith(".csv"):
         df = read_csv("unparsedData/" + dataString)
@@ -33,12 +36,14 @@ stationSet = set(dic.get('StartStation'))
 startDay = datetime(2018, 1, 1)
 endYear = datetime(2019, 1, 1)
 
+# Loops though the stations and adds data for stations that did not have a bike taken at a given minute.
 for stationNum in stationSet:
     for dt in rrule.rrule(rrule.HOURLY, dtstart=startDay, until=endYear):
         dic.get('StartDate').append(str(dt)[:-6])
         dic.get('EndDate').append(str(dt))
         dic.get('StartStation').append(stationNum)
 
+# Creates new data frame an groups it by station id and start date.
 newdf = DataFrame(data=dic)
 gc.collect()
 print('Size of input: ', len(newdf))
@@ -47,6 +52,7 @@ parsedDic = {'StartDate': [], 'StartStation': [], 'DayOfWeek': [], 'Time': [], '
              'EndDate': [], 'EndStation': []}
 print('Size after parse', len(grouped))
 gc.collect()
+# Sets up data to be exported.
 for name, group in grouped:
     datetimeValue = datetime.strptime(name[0], '%Y-%m-%d %H')
     parsedDic.get('StartDate').append(name[0])
